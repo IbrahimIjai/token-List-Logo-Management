@@ -1,0 +1,26 @@
+{
+  "name": "Superchain Token List",
+  "description": "",
+  "timestamp": "2024-04-09T12:58:28+02:00",
+  "version": {
+    "major": 2,
+    "minor": 1,
+    "patch": 1
+  },
+  "logoURI": "https://ethereum-optimism.github.io/optimism.svg",
+  "keywords": [
+    "scaling",
+    "layer2",
+    "infrastructure"
+  ],
+  "tokens": [
+    {
+      "address": "0x11fE4B6AE13d2a6055C8D9cF65c55bac32B5d844",
+      "name": "Dai Stablecoin",
+      "symbol": "DAI",
+      "logoURI": "https://ethereum-optimism.github.io/data/DAI/logo.svg",
+      "chainId": 5,
+      "decimals": 18
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "name": "Token Name Service",
+  "description": "Token Name Service is a decentralized naming service for tokens on Ethereum.",
+  "timestamp": "2024-06-24T19:31:25+02:00",
+  "version": {
+    "major": 3,
+    "minor": 1,
+    "patch": 0
+  },
+  "logoURI": "https://logo.assets.tkn.eth.limo/",
+  "keywords": [
+    "tns",
+    "token",
+    "tokendao",
+    "tkn",
+    "tkr"
+  ],
+  "tokens": [
+    {
+      "address": "0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3",
+      "name": "Dai Token",
+      "symbol": "DAI",
+      "logoURI": "https://tokens.1inch.io/0x6b175474e89094c44da98b954eedeac495271d0f.png",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
+      "address": "0x25d887Ce7a35172C62FeBFD67a1856F20FaEbB00",
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "logoURI": "https://assets.coingecko.com/coins/images/29850/large/pepelogo_copy_2.jpg?1681782453",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
+      "address": "0x55d398326f99059fF775485246999027B3197955",
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "logoURI": "https://tokens.1inch.io/0xdac17f958d2ee523a2206206994597c13d831ec7.png",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
+      "address": "0x64048A7eEcF3a2F1BA9e144aAc3D7dB6e58F555e",
+      "name": "Frax Ether",
+      "symbol": "frxETH",
+      "logoURI": "https://assets.coingecko.com/coins/images/28284/large/JjqQ9ROz_400x400.jpeg?1669170320",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
+      "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "logoURI": "https://tokens.1inch.io/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48.png",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
+      "address": "0x947950BcC74888a40Ffa2593C5798F11Fc9124C4",
+      "name": "SushiToken",
+      "symbol": "SUSHI",
+      "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png?1606986688",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
+      "address": "0xBf5140A22578168FD562DCcF235E5D43A02ce9B1",
+      "name": "Uniswap",
+      "symbol": "UNI",
+      "logoURI": "https://tokens.1inch.io/0x1f9840a85d5af5bf1d1762f925bdaddc4201f984.png",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
+      "address": "0xF8A0BF9cF54Bb92F17374d9e9A321E6a111a51bD",
+      "name": "ChainLink Token",
+      "symbol": "LINK",
+      "logoURI": "https://tokens.1inch.io/0x514910771af9ca656af840dff83e8264ecf986ca.png",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
+      "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
+      "name": "BUSD Token",
+      "symbol": "BUSD",
+      "logoURI": "https://tokens.1inch.io/0x4fabb145d64652a948d72533023f6e7a623c7c53.png",
+      "chainId": 56,
+      "decimals": 18
+    }
+  ]
+}

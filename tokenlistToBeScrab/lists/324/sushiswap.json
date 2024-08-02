@@ -1,0 +1,40 @@
+{
+  "name": "SushiSwap Menu",
+  "description": "",
+  "timestamp": "2024-07-28T01:21:25Z",
+  "version": {
+    "major": 8,
+    "minor": 2,
+    "patch": 0
+  },
+  "logoURI": "https://raw.githubusercontent.com/sushiswap/art/master/sushi/logo-256x256.png",
+  "keywords": [
+    "sushiswap",
+    "default"
+  ],
+  "tokens": [
+    {
+      "address": "0x3355df6D4c9C3035724Fd0e3914dE96A5a83aaf4",
+      "name": "Bridged USDC (zkSync)",
+      "symbol": "USDC.e",
+      "logoURI": "https://firebasestorage.googleapis.com/v0/b/token-library.appspot.com/o/usdc.svg?alt=media",
+      "chainId": 324,
+      "decimals": 6
+    },
+    {
+      "address": "0x5AEa5775959fBC2557Cc8789bC1bf90A239D9a91",
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "chainId": 324,
+      "decimals": 18
+    },
+    {
+      "address": "0xBBeB516fb02a01611cBBE0453Fe3c580D7281011",
+      "name": "Wrapped BTC",
+      "symbol": "WBTC",
+      "logoURI": "https://firebasestorage.googleapis.com/v0/b/token-library.appspot.com/o/wbtc.svg?alt=media",
+      "chainId": 324,
+      "decimals": 8
+    }
+  ]
+}

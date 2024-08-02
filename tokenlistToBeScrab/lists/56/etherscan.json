@@ -1,0 +1,25 @@
+{
+  "name": "Etherscan",
+  "description": "",
+  "timestamp": "2024-04-09T16:41:23+02:00",
+  "version": {
+    "major": 60,
+    "minor": 0,
+    "patch": 0
+  },
+  "logoURI": "https://etherscan.io/images/brandassets/etherscan-logo-circle.svg",
+  "keywords": [
+    "ethereum",
+    "etherscan"
+  ],
+  "tokens": [
+    {
+      "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+      "name": "Binance Smart Chain",
+      "symbol": "BNB",
+      "logoURI": "https://assets.smold.app/api/token/56/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE/logo-128.png",
+      "chainId": 56,
+      "decimals": 18
+    }
+  ]
+}

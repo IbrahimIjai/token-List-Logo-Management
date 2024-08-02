@@ -1,0 +1,77 @@
+{
+  "name": "Tokenlistooor Token List",
+  "description": "A curated list of tokens from all the token lists on tokenlistooor.",
+  "timestamp": "2024-07-28T01:22:51Z",
+  "version": {
+    "major": 270,
+    "minor": 0,
+    "patch": 0
+  },
+  "logoURI": "https://raw.githubusercontent.com/smoldapp/tokenLists/main/.github/tokenlistooor.svg",
+  "keywords": [],
+  "tokens": [
+    {
+      "address": "0x38aD23b0902D0d86c2F3949BC505194D70B762F5",
+      "name": "Burn Wrapped AJNA",
+      "symbol": "bwAJNA",
+      "logoURI": "https://assets.smold.app/api/token/81457/0x38aD23b0902D0d86c2F3949BC505194D70B762F5/logo-128.png",
+      "chainId": 81457,
+      "decimals": 18
+    },
+    {
+      "address": "0x4300000000000000000000000000000000000003",
+      "name": "USDB",
+      "symbol": "USDB",
+      "logoURI": "https://cms-cdn.avascan.com/cms2/usdb.9308aac74818.png",
+      "chainId": 81457,
+      "decimals": 18
+    },
+    {
+      "address": "0x4300000000000000000000000000000000000004",
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "logoURI": "https://cms-cdn.avascan.com/cms2/weth.1b907834c983.png",
+      "chainId": 81457,
+      "decimals": 18
+    },
+    {
+      "address": "0x52056ED29Fe015f4Ba2e3b079D10C0B87f46e8c6",
+      "name": "USDz",
+      "symbol": "USDz",
+      "logoURI": "https://assets.smold.app/api/token/81457/0x52056ED29Fe015f4Ba2e3b079D10C0B87f46e8c6/logo-128.png",
+      "chainId": 81457,
+      "decimals": 18
+    },
+    {
+      "address": "0x6d5564584B70240691bd6Ff7A834B9fab844e0D4",
+      "name": "Wrapped WETH",
+      "symbol": "W2ETH",
+      "logoURI": "https://assets.smold.app/api/token/81457/0x6d5564584B70240691bd6Ff7A834B9fab844e0D4/logo-128.png",
+      "chainId": 81457,
+      "decimals": 18
+    },
+    {
+      "address": "0x73d23F3778a90Be8846E172354A115543dF2a7E4",
+      "name": "Staked USDz",
+      "symbol": "sUSDz",
+      "logoURI": "https://assets.smold.app/api/token/81457/0x73d23F3778a90Be8846E172354A115543dF2a7E4/logo-128.png",
+      "chainId": 81457,
+      "decimals": 18
+    },
+    {
+      "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "logoURI": "https://assets.smold.app/api/token/81457/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE/logo-128.png",
+      "chainId": 81457,
+      "decimals": 18
+    },
+    {
+      "address": "0xb1a5700fA2358173Fe465e6eA4Ff52E36e88E2ad",
+      "name": "Blast",
+      "symbol": "BLAST",
+      "chainId": 81457,
+      "decimals": 18
+    }
+  ]
+}

@@ -1,0 +1,635 @@
+{
+  "name": "SushiSwap Token Pairs",
+  "description": "",
+  "timestamp": "07/11/2023 15:54:48",
+  "version": {
+    "major": 0,
+    "minor": 3,
+    "patch": 0
+  },
+  "logoURI": "https://raw.githubusercontent.com/sushiswap/art/master/sushi/logo-256x256.png",
+  "keywords": [],
+  "tokens": [
+    {
+      "address": "0x025Ed00CE40c63f1D4C97D986A001F0fB8eD2499",
+      "name": "Futuregoldcoin ",
+      "symbol": "FCI",
+      "logoURI": "",
+      "chainId": 250,
+      "decimals": 18
+    },
+    {
+      "address": "0x039b9252D2819969eEdD25830c4Daa5f1E25dfC8",
+      "name": "System DeFi for Reference",
+      "symbol": "SDR",
+      "logoURI": "",
+      "chainId": 250,
+      "decimals": 18
+    },
+    {
+      "address": "0x04068DA6C83AFCFA0e13ba15A6696662335D5B75",
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "logoURI": "https://assets.smold.app/api/token/250/0x04068DA6C83AFCFA0e13ba15A6696662335D5B75/logo-128.png",
+      "chainId": 250,
+      "decimals": 6
+    },
+    {
+      "address": "0x049d68029688eAbF473097a2fC38ef61633A3C7A",
+      "name": "Frapped USDT",
+      "symbol": "fUSDT",
+      "logoURI": "https://assets.smold.app/api/token/250/0x049d68029688eAbF473097a2fC38ef61633A3C7A/logo-128.png",
+      "chainId": 250,
+      "decimals": 6
+    },
+    {
+      "address": "0x0751f7661f4B5A012CaE6afe38e594a6f10D4313",
+      "name": "TAAKIN",
+      "symbol": "TAAKIN",
+      "logoURI": "",
+      "chainId": 250,
+      "decimals": 18
+    },
+    {
+      "address": "0x078EEF5A2fb533e1a4d487ef64b27DF113d12C32",
+      "name": "fBAND",
+      "symbol": "FBAND",
+      "logoURI": "",
+      "chainId": 250,
+      "decimals": 18
+    },
+    {
+      "address": "0x07a5b3d0CB418d07d9ad12CbdB30b5C5C6778531",
+      "name": "DeFi System for Reference",
+      "symbol": "DSR",
+      "logoURI": "",
+      "chainId": 250,
+      "decimals": 18
+    },
+    {
+      "address": "0x0B5b18F3CA37B70b35Da28714d5Bb8F652ff58d8",
+      "name": "SNACK-DAO",
+      "symbol": "SNK",
+      "logoURI": "",
+      "chainId": 250,
+      "decimals": 18
+    },
+    {
+      "address": "0x0EC4B89462557150302AC6e81270a081F2e3BD20",
+      "name": "Ferengi Vaults",
+      "symbol": "EARS",
+      "logoURI": "",
+      "chainId": 250,
+      "decimals": 18
+    },
+    {
+      "address": "0x10b620b2dbAC4Faa7D7FFD71Da486f5D44cd86f9",
+      "name": "Liquid Driver",
+      "symbol": "LQDR",
+      "logoURI": "",
+      "chainId": 250,
+      "decimals": 18
+    },
+    {
+      "address": "0x16d8Adf3D5b93AA3a9EF2Daa9521Ced713838387",
+      "name": "Litetokens",
+      "symbol": "XLT",
+      "logoURI": "",
+      "chainId": 250,
+      "decimals": 18
+    },
+    {
+      "address": "0x1E4F97b9f9F913c46F1632781732927B9019C68b",
+      "name": "Curve DAO",
+      "symbol": "CRV",
+      "logoURI": "https://assets.smold.app/api/token/250/0x1E4F97b9f9F913c46F1632781732927B9019C68b/logo-128.png",
+      "chainId": 250,
+      "decimals": 18
+    },
+    {
+      "address": "0x2055f39e549fdd42516B637dA80Db7D6776A238c",
+      "name": "AmeroX",
+      "symbol": "AmeroX",
+      "logoURI": "",
+      "chainId": 250,
+      "decimals": 18
+    },
+    {
+      "address": "0x21E7c8150c54dF2D370511d11A70676c2cEb76c0",
+      "name": "uBASED",
+      "symbol": "uBASED",
+      "logoURI": "",
+      "chainId": 250,
+      "decimals": 18
+    },
+    {
+      "address": "0x21be370D5312f44cB42ce377BC9b8a0cEF1A4C83",
+      "name": "Wrapped Fantom",
+      "symbol": "WFTM",
+      "logoURI": "https://assets.smold.app/api/token/250/0x21be370D5312f44cB42ce377BC9b8a0cEF1A4C83/logo-128.png",
+      "chainId": 250,
+      "decimals": 18
+    },
+    {
+      "address": "0x2241FaBdf45C54cA330c34c783b114E6BcAae7E7",
+      "name": "theghost.finance",
+      "symbol": "GHOST",
+      "logoURI": "",
+      "chainId": 250,
+      "decimals": 18
+    },
+    {
+      "address": "0x23654048e2Ee5E8414EEa67A7d1A1C02505B7e4a",
+      "name": "Based",
+      "symbol": "BASED",
+      "logoURI": "",
+      "chainId": 250,
+      "decimals": 18
+    },
+    {
+      "address": "0x24aF804F17D59dE93367410c9BEFa49444150D4c",
+      "name": "Governance Token",
+      "symbol": "GOV",
+      "logoURI": "",
+      "chainId": 250,
+      "decimals": 18
+    },
+    {
+      "address": "0x2814541f73d718Cb66636c755ff33dfbf63715C4",
+      "name": "Tetcoin",
+      "symbol": "TET",
+      "logoURI": "",
+      "chainId": 250,
+      "decimals": 18
+    },
+    {
+      "address": "0x29b0Da86e484E1C0029B56e817912d778aC0EC69",
+      "name": "yearn.finance",
+      "symbol": "YFI",
+      "logoURI": "https://assets.smold.app/api/token/250/0x29b0Da86e484E1C0029B56e817912d778aC0EC69/logo-128.png",
+      "chainId": 250,
+      "decimals": 18
+    },
+    {
+      "address": "0x2b9C073Ec670b70F417bbaf3BbB052AA563A0a23",
+      "name": "fKRW",
+      "symbol": "FKRW",
+      "logoURI": "",
+      "chainId": 250,
+      "decimals": 18
+    },
+    {
+      "address": "0x3038BaC0775F31C413c87446B0d34A2D20B3AD17",
+      "name": "Un Wrapped Fantom",
+      "symbol": "UWFTM",
+      "logoURI": "",
+      "chainId": 250,
+      "decimals": 18
+    },
+    {
+      "address": "0x31A47B49b4DBDC54d403b8c4880Ac9BB1A9EbAE8",
+      "name": "Pooch",
+      "symbol": "POOCH",
+      "logoURI": "",
+      "chainId": 250,
+      "decimals": 18
+    },
+    {
+      "address": "0x321162Cd933E2Be498Cd2267a90534A804051b11",
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "logoURI": "https://assets.smold.app/api/token/250/0x321162Cd933E2Be498Cd2267a90534A804051b11/logo-128.png",
+      "chainId": 250,
+      "decimals": 8
+    },
+    {
+      "address": "0x468003B688943977e6130F4F68F23aad939a1040",
+      "name": "Spell Token",
+      "symbol": "SPELL",
+      "logoURI": "https://assets.smold.app/api/token/250/0x468003B688943977e6130F4F68F23aad939a1040/logo-128.png",
+      "chainId": 250,
+      "decimals": 18
+    },
+    {
+      "address": "0x4F16b83e55b92E6F8F7Da6D78Dd19d5a00954864",
+      "name": "BORGDAI",
+      "symbol": "BORGDAI",
+      "logoURI": "",
+      "chainId": 250,
+      "decimals": 9
+    },
+    {
+      "address": "0x4ce5D4FBC49827afF63E05d4Db99eA1670cF488A",
+      "name": "WASP",
+      "symbol": "WASP",
+      "logoURI": "",
+      "chainId": 250,
+      "decimals": 18
+    },
+    {
+      "address": "0x58F8f85590577213D5EffBb4D0E03527209d51f4",
+      "name": "Lolas",
+      "symbol": "Lolas",
+      "logoURI": "",
+      "chainId": 250,
+      "decimals": 18
+    },
+    {
+      "address": "0x58Fb8CBab7253d988bAd2e7Ca9079acC77ed430c",
+      "name": "FastMoon",
+      "symbol": "FASTMOON",
+      "logoURI": "",
+      "chainId": 250,
+      "decimals": 9
+    },
+    {
+      "address": "0x593AE1d34c8BD7587C11D539E4F42BFf242c82Af",
+      "name": "LUNA",
+      "symbol": "LUNA",
+      "logoURI": "",
+      "chainId": 250,
+      "decimals": 6
+    },
+    {
+      "address": "0x5Cc61A78F164885776AA610fb0FE1257df78E59B",
+      "name": "SpiritSwap Token",
+      "symbol": "SPIRIT",
+      "logoURI": "https://assets.smold.app/api/token/250/0x5Cc61A78F164885776AA610fb0FE1257df78E59B/logo-128.png",
+      "chainId": 250,
+      "decimals": 18
+    },
+    {
+      "address": "0x6001d5e26837224c8F888781dc45D3a0a49E9ca5",
+      "name": "You're Gonna Make It",
+      "symbol": "YGMI",
+      "logoURI": "",
+      "chainId": 250,
+      "decimals": 18
+    },
+    {
+      "address": "0x61Ed1C66239d29Cc93C8597c6167159e8F69a823",
+      "name": "Reference System for DeFi",
+      "symbol": "RSD",
+      "logoURI": "",
+      "chainId": 250,
+      "decimals": 18
+    },
+    {
+      "address": "0x64Bc251b0EB9200948C9155573Cd459C5E17C6a4",
+      "name": "Leancoin",
+      "symbol": "SIPLEAN",
+      "logoURI": "",
+      "chainId": 250,
+      "decimals": 18
+    },
+    {
+      "address": "0x657A1861c15A3deD9AF0B6799a195a249ebdCbc6",
+      "name": "Cream",
+      "symbol": "CREAM",
+      "logoURI": "https://assets.smold.app/api/token/250/0x657A1861c15A3deD9AF0B6799a195a249ebdCbc6/logo-128.png",
+      "chainId": 250,
+      "decimals": 18
+    },
+    {
+      "address": "0x658b0c7613e890EE50B8C4BC6A3f41ef411208aD",
+      "name": "fETH",
+      "symbol": "FETH",
+      "logoURI": "",
+      "chainId": 250,
+      "decimals": 18
+    },
+    {
+      "address": "0x6B4C0b19bF0DfEb102d5fD702aF1f1Fb4063664a",
+      "name": "Bitcoin | t.me/BitcoinCoreGroup",
+      "symbol": "BTC",
+      "logoURI": "",
+      "chainId": 250,
+      "decimals": 18
+    },
+    {
+      "address": "0x6a07A792ab2965C72a5B8088d3a069A7aC3a993B",
+      "name": "Aave",
+      "symbol": "AAVE",
+      "logoURI": "https://assets.smold.app/api/token/250/0x6a07A792ab2965C72a5B8088d3a069A7aC3a993B/logo-128.png",
+      "chainId": 250,
+      "decimals": 18
+    },
+    {
+      "address": "0x74b23882a30290451A17c44f4F05243b6b58C76d",
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "logoURI": "https://assets.smold.app/api/token/250/0x74b23882a30290451A17c44f4F05243b6b58C76d/logo-128.png",
+      "chainId": 250,
+      "decimals": 18
+    },
+    {
+      "address": "0x786BbB4615fF8B43E627313d2878F0980DB0bF39",
+      "name": "Gtps.Finance",
+      "symbol": "GFI",
+      "logoURI": "",
+      "chainId": 250,
+      "decimals": 18
+    },
+    {
+      "address": "0x7997e74E06d9E0BbD1C437055aBDe5cB7cf07Ae0",
+      "name": "Pegged Bitcoin",
+      "symbol": "BTCp",
+      "logoURI": "",
+      "chainId": 250,
+      "decimals": 18
+    },
+    {
+      "address": "0x82f0B8B456c1A451378467398982d4834b6829c1",
+      "name": "Magic Internet Money",
+      "symbol": "MIM",
+      "logoURI": "https://assets.smold.app/api/token/250/0x82f0B8B456c1A451378467398982d4834b6829c1/logo-128.png",
+      "chainId": 250,
+      "decimals": 18
+    },
+    {
+      "address": "0x84577A95EEfae44FDcc3ca8a4222C036edf9f862",
+      "name": "ECHIZO",
+      "symbol": "ECHIZO",
+      "logoURI": "",
+      "chainId": 250,
+      "decimals": 18
+    },
+    {
+      "address": "0x8D11eC38a3EB5E956B052f67Da8Bdc9bef8Abf3E",
+      "name": "Dai Stablecoin",
+      "symbol": "DAI",
+      "logoURI": "https://assets.smold.app/api/token/250/0x8D11eC38a3EB5E956B052f67Da8Bdc9bef8Abf3E/logo-128.png",
+      "chainId": 250,
+      "decimals": 18
+    },
+    {
+      "address": "0x92df3eaBf7c1c2A6b3D5793f6d53778eA78c48b2",
+      "name": "Atlas Cloud",
+      "symbol": "ATLAS",
+      "logoURI": "",
+      "chainId": 250,
+      "decimals": 18
+    },
+    {
+      "address": "0x92f0C53cAb0e67E10f311F7fF67BF70082428bF6",
+      "name": "MEZCAL",
+      "symbol": "MEZCAL",
+      "logoURI": "",
+      "chainId": 250,
+      "decimals": 18
+    },
+    {
+      "address": "0x94C5e4ea91b2cc1469C2B6d9C35f2a924e69e94A",
+      "name": "Doggi Tokenomics",
+      "symbol": "Doggi",
+      "logoURI": "",
+      "chainId": 250,
+      "decimals": 9
+    },
+    {
+      "address": "0x983235dC2a7b5e5a0820066480b19f04EEf83986",
+      "name": "Klingon Token",
+      "symbol": "KLING",
+      "logoURI": "",
+      "chainId": 250,
+      "decimals": 18
+    },
+    {
+      "address": "0x9E8862e39496BD336565Dd15cE2C0B90bc7dc121",
+      "name": "FourCoin",
+      "symbol": "FOUR",
+      "logoURI": "",
+      "chainId": 250,
+      "decimals": 18
+    },
+    {
+      "address": "0x9f47F04E978Ec18440f90c219cFFfab605e4A2f2",
+      "name": "Kid Ghost",
+      "symbol": "KGHST",
+      "logoURI": "",
+      "chainId": 250,
+      "decimals": 18
+    },
+    {
+      "address": "0xA92d41Ab8eFeE617d80a829CD9F5683c5F793ADA",
+      "name": "Frozen Yogurt",
+      "symbol": "FROYO",
+      "logoURI": "",
+      "chainId": 250,
+      "decimals": 18
+    },
+    {
+      "address": "0xAd84341756Bf337f5a0164515b1f6F993D194E1f",
+      "name": "Fantom USD",
+      "symbol": "FUSD",
+      "logoURI": "",
+      "chainId": 250,
+      "decimals": 18
+    },
+    {
+      "address": "0xB355f4F4CC84a9429a59d5c2B98d77016f7EC482",
+      "name": "BitcoinBR",
+      "symbol": "BTCBR",
+      "logoURI": "",
+      "chainId": 250,
+      "decimals": 18
+    },
+    {
+      "address": "0xBC0071Caa8d58a85C9bACbD27BB2b22Cbf4fF479",
+      "name": "GLOBAL TRANSACTION PAYMENT SOLUT",
+      "symbol": "GTPS",
+      "logoURI": "",
+      "chainId": 250,
+      "decimals": 18
+    },
+    {
+      "address": "0xBe217b06d3233D56938aA2a8cd1Ac728c9DC848A",
+      "name": "Global Transaction Payment Solution",
+      "symbol": "GTPS",
+      "logoURI": "",
+      "chainId": 250,
+      "decimals": 18
+    },
+    {
+      "address": "0xC61B68D68BA5118afd9048728b4977EbE57130a0",
+      "name": "SUNDAY ICECREAM",
+      "symbol": "SUNDAY",
+      "logoURI": "",
+      "chainId": 250,
+      "decimals": 18
+    },
+    {
+      "address": "0xCD29c9F84924b96202eEB5Ad204bd0d0Fb47606c",
+      "name": "TUTTI",
+      "symbol": "TUTTI",
+      "logoURI": "",
+      "chainId": 250,
+      "decimals": 18
+    },
+    {
+      "address": "0xDDc0385169797937066bBd8EF409b5B3c0dFEB52",
+      "name": "Wrapped MEMO",
+      "symbol": "wMEMO",
+      "logoURI": "",
+      "chainId": 250,
+      "decimals": 18
+    },
+    {
+      "address": "0xE1fBd954F20fCdb2e0627Bf38E2Cc5166cF2Ee1b",
+      "name": "HotDogoo Dachshund",
+      "symbol": "HDogoo",
+      "logoURI": "",
+      "chainId": 250,
+      "decimals": 18
+    },
+    {
+      "address": "0xE409e86058baC20128bFf16FD0dF6Bb6F11404f0",
+      "name": "Sickle",
+      "symbol": "SCL",
+      "logoURI": "",
+      "chainId": 250,
+      "decimals": 18
+    },
+    {
+      "address": "0xE9828045632b32E2aaC7f3a4C1511C0d8965576C",
+      "name": "TheBorg.Eth.Link",
+      "symbol": "BORG",
+      "logoURI": "",
+      "chainId": 250,
+      "decimals": 8
+    },
+    {
+      "address": "0xEe8eaEC73babE18568b07EaB1C882D647441ddad",
+      "name": "Bitcoin Trade",
+      "symbol": "BTCTRADE",
+      "logoURI": "",
+      "chainId": 250,
+      "decimals": 18
+    },
+    {
+      "address": "0xF8bbAB5e7D7FB441c7A9F1E1De00a27b558CFB7E",
+      "name": "GoodBridge",
+      "symbol": "GB",
+      "logoURI": "",
+      "chainId": 250,
+      "decimals": 18
+    },
+    {
+      "address": "0xFbc3c04845162F067A0B6F8934383E63899c3524",
+      "name": "Fantums of Opera Token",
+      "symbol": "FOO",
+      "logoURI": "",
+      "chainId": 250,
+      "decimals": 18
+    },
+    {
+      "address": "0xa3D098F1D5035B9E259971a8f4C0dcf5A56c8762",
+      "name": "Czarcoin",
+      "symbol": "CZR",
+      "logoURI": "",
+      "chainId": 250,
+      "decimals": 18
+    },
+    {
+      "address": "0xa6C3E1B98f474FB89836b1103F910482cF517762",
+      "name": "DeFi System for Reference",
+      "symbol": "DSR",
+      "logoURI": "",
+      "chainId": 250,
+      "decimals": 18
+    },
+    {
+      "address": "0xadE90937C80B406ac99241eCd7D2aaD8e4CD1848",
+      "name": "HST Coin",
+      "symbol": "HST",
+      "logoURI": "",
+      "chainId": 250,
+      "decimals": 18
+    },
+    {
+      "address": "0xae75A438b2E0cB8Bb01Ec1E1e376De11D44477CC",
+      "name": "Sushi",
+      "symbol": "SUSHI",
+      "logoURI": "https://assets.smold.app/api/token/250/0xae75A438b2E0cB8Bb01Ec1E1e376De11D44477CC/logo-128.png",
+      "chainId": 250,
+      "decimals": 18
+    },
+    {
+      "address": "0xaf319E5789945197e365E7f7fbFc56B130523B33",
+      "name": "Frax",
+      "symbol": "FRAX",
+      "logoURI": "",
+      "chainId": 250,
+      "decimals": 18
+    },
+    {
+      "address": "0xcfF748A0D8fddf5bE3FbC47F3a1C7630E1Cff2Cd",
+      "name": "3030",
+      "symbol": "3030",
+      "logoURI": "",
+      "chainId": 250,
+      "decimals": 18
+    },
+    {
+      "address": "0xdec39fF6b97693C86689294c7322277462771D6e",
+      "name": "oho",
+      "symbol": "oho",
+      "logoURI": "",
+      "chainId": 250,
+      "decimals": 18
+    },
+    {
+      "address": "0xe64B9fd040D1F9D4715C645e0D567EF69958D3D9",
+      "name": "Modefi",
+      "symbol": "MOD",
+      "logoURI": "",
+      "chainId": 250,
+      "decimals": 18
+    },
+    {
+      "address": "0xe6963941408D5fF920998564352171a2B1AC672B",
+      "name": "TUTTI FRUTI",
+      "symbol": "TUTTI FRUTI",
+      "logoURI": "",
+      "chainId": 250,
+      "decimals": 18
+    },
+    {
+      "address": "0xf16e81dce15B08F326220742020379B855B87DF9",
+      "name": "IceToken",
+      "symbol": "ICE",
+      "logoURI": "",
+      "chainId": 250,
+      "decimals": 18
+    },
+    {
+      "address": "0xf43Cc235E686d7BC513F53Fbffb61F760c3a1882",
+      "name": "ftm.guru",
+      "symbol": "ELITE",
+      "logoURI": "",
+      "chainId": 250,
+      "decimals": 18
+    },
+    {
+      "address": "0xf6129F6705b826dBaFaA26E03AAD9Dd20B9235C6",
+      "name": "ICECREAM",
+      "symbol": "ICECREAM",
+      "logoURI": "",
+      "chainId": 250,
+      "decimals": 18
+    },
+    {
+      "address": "0xf61cCdE1D4bB76CeD1dAa9D4c429cCA83022B08B",
+      "name": "Waka.Finance",
+      "symbol": "WAKA",
+      "logoURI": "",
+      "chainId": 250,
+      "decimals": 18
+    }
+  ],
+  "metadata": {
+    "lastBlockSyncFor_1": "18521102",
+    "lastBlockSyncFor_137": "49658772",
+    "lastBlockSyncFor_250": "70299200"
+  }
+}

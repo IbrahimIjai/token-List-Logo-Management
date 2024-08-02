@@ -1,0 +1,48 @@
+{
+  "name": "Ajna (Static)",
+  "description": "",
+  "timestamp": "2024-04-11T12:32:36Z",
+  "version": {
+    "major": 5,
+    "minor": 3,
+    "patch": 3
+  },
+  "logoURI": "https://www.ajna.finance/static/tokens/ajna.png",
+  "keywords": [
+    "Ajna"
+  ],
+  "tokens": [
+    {
+      "address": "0x11fE4B6AE13d2a6055C8D9cF65c55bac32B5d844",
+      "name": "Dai Stablecoin",
+      "symbol": "DAI",
+      "logoURI": "https://ethereum-optimism.github.io/data/DAI/logo.svg",
+      "chainId": 5,
+      "decimals": 18
+    },
+    {
+      "address": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
+      "name": "Uniswap",
+      "symbol": "UNI",
+      "logoURI": "ipfs://QmXttGpZrECX5qCyXbBQiqgQNytVGeZW5Anewvh2jc4psg",
+      "chainId": 5,
+      "decimals": 18
+    },
+    {
+      "address": "0xB4FBF271143F4FBf7B91A5ded31805e42b2208d6",
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xB4FBF271143F4FBf7B91A5ded31805e42b2208d6/logo.png",
+      "chainId": 5,
+      "decimals": 18
+    },
+    {
+      "address": "0xaadebCF61AA7Da0573b524DE57c67aDa797D46c5",
+      "name": "AjnaToken",
+      "symbol": "AJNA",
+      "logoURI": "https://assets.smold.app/api/token/5/0xaadebCF61AA7Da0573b524DE57c67aDa797D46c5/logo-128.png",
+      "chainId": 5,
+      "decimals": 18
+    }
+  ]
+}

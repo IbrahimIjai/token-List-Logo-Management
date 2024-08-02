@@ -1,0 +1,1611 @@
+{
+  "name": "SushiSwap Token Pairs",
+  "description": "",
+  "timestamp": "07/11/2023 15:54:48",
+  "version": {
+    "major": 0,
+    "minor": 3,
+    "patch": 0
+  },
+  "logoURI": "https://raw.githubusercontent.com/sushiswap/art/master/sushi/logo-256x256.png",
+  "keywords": [],
+  "tokens": [
+    {
+      "address": "0x0000000000085d4780B73119b644AE5ecd22b376",
+      "name": "TrueUSD",
+      "symbol": "TUSD",
+      "logoURI": "https://assets.smold.app/api/token/1/0x0000000000085d4780B73119b644AE5ecd22b376/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x0000000000095413afC295d19EDeb1Ad7B71c952",
+      "name": "Tokenlon",
+      "symbol": "LON",
+      "logoURI": "",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x010EbEA9Af6CE644d56C6808ae324AE9476bb11d",
+      "name": "SushiswapV2 IL Protection V2",
+      "symbol": "silv2",
+      "logoURI": "",
+      "chainId": 1,
+      "decimals": 8
+    },
+    {
+      "address": "0x017E71e96f2Ae777C679740d2D8Dc15Ed4231981",
+      "name": "Wrapped YFI",
+      "symbol": "wYFI",
+      "logoURI": "",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x01e0E2e61f554eCAaeC0cC933E739Ad90f24a86d",
+      "name": "Graviton",
+      "symbol": "GTON",
+      "logoURI": "",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x04Fa0d235C4abf4BcF4787aF4CF447DE572eF828",
+      "name": "UMA Voting Token v1",
+      "symbol": "UMA",
+      "logoURI": "",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x06450dEe7FD2Fb8E39061434BAbCFC05599a6Fb8",
+      "name": "XEN Crypto",
+      "symbol": "XEN",
+      "logoURI": "",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x0698DDA3c390FF92722f9EeD766D8b1727621Df9",
+      "name": "Ethereum2Proof-of-stake",
+      "symbol": "ETH2POS",
+      "logoURI": "",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x07baC35846e5eD502aA91AdF6A9e7aA210F2DcbE",
+      "name": "erowan",
+      "symbol": "erowan",
+      "logoURI": "",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x090185f2135308BaD17527004364eBcC2D37e5F6",
+      "name": "Spell Token",
+      "symbol": "SPELL",
+      "logoURI": "https://assets.smold.app/api/token/1/0x090185f2135308BaD17527004364eBcC2D37e5F6/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x0DC5189Ec8CDe5732a01F0F592e927B304370551",
+      "name": "Asgard",
+      "symbol": "ASG",
+      "logoURI": "",
+      "chainId": 1,
+      "decimals": 9
+    },
+    {
+      "address": "0x0ED7787b6f5ee00976fA376D04d5b835e48fC42B",
+      "name": "Bitcoin | t.me/BitcoinCoreGroup",
+      "symbol": "BTC",
+      "logoURI": "",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x0F5D2fB29fb7d3CFeE444a200298f468908cC942",
+      "name": "Decentraland MANA",
+      "symbol": "MANA",
+      "logoURI": "",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x0ab87046fBb341D058F17CBC4c1133F25a20a52f",
+      "name": "Governance OHM",
+      "symbol": "gOHM",
+      "logoURI": "",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x0b38210ea11411557c13457D4dA7dC6ea731B88a",
+      "name": "API3",
+      "symbol": "API3",
+      "logoURI": "",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e",
+      "name": "yearn.finance",
+      "symbol": "YFI",
+      "logoURI": "https://assets.smold.app/api/token/1/0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x0d438F3b5175Bebc262bF23753C1E53d03432bDE",
+      "name": "Wrapped NXM",
+      "symbol": "wNXM",
+      "logoURI": "https://assets.smold.app/api/token/1/0x0d438F3b5175Bebc262bF23753C1E53d03432bDE/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x0dBB4b96a23Ea7943BB72a8F16cc2c248F372935",
+      "name": "LightToken",
+      "symbol": "LIGHT",
+      "logoURI": "",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x0f2D719407FdBeFF09D87557AbB7232601FD9F29",
+      "name": "Synapse",
+      "symbol": "SYN",
+      "logoURI": "",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x111111111117dC0aa78b770fA6A738034120C302",
+      "name": "1INCH Token",
+      "symbol": "1INCH",
+      "logoURI": "https://assets.smold.app/api/token/1/0x111111111117dC0aa78b770fA6A738034120C302/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x1337DEF16F9B486fAEd0293eb623Dc8395dFE46a",
+      "name": "Armor",
+      "symbol": "ARMOR",
+      "logoURI": "",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x1494CA1F11D487c2bBe4543E90080AeBa4BA3C2b",
+      "name": "DefiPulse Index",
+      "symbol": "DPI",
+      "logoURI": "https://assets.smold.app/api/token/1/0x1494CA1F11D487c2bBe4543E90080AeBa4BA3C2b/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x14F0a12A43c36C49D4b403dD6e1A9B8222BE456C",
+      "name": "VINX Coin",
+      "symbol": "VXC",
+      "logoURI": "",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x160B1E5aaBFD70B2FC40Af815014925D71CEEd7E",
+      "name": "stakedFiro",
+      "symbol": "stFIRO",
+      "logoURI": "",
+      "chainId": 1,
+      "decimals": 8
+    },
+    {
+      "address": "0x1A4b46696b2bB4794Eb3D4c26f1c55F9170fa4C5",
+      "name": "BitDAO",
+      "symbol": "BIT",
+      "logoURI": "",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x1C9922314ED1415c95b9FD453c3818fd41867d0B",
+      "name": "TOWER",
+      "symbol": "TOWER",
+      "logoURI": "",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x1cEB5cB57C4D4E2b2433641b95Dd330A33185A44",
+      "name": "Keep3rV1",
+      "symbol": "KP3R",
+      "logoURI": "https://assets.smold.app/api/token/1/0x1cEB5cB57C4D4E2b2433641b95Dd330A33185A44/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x1e0275806C3CD0bDb5C99916A064d36b5e8eAE8d",
+      "name": "TwoCoin",
+      "symbol": "TWO",
+      "logoURI": "",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
+      "name": "Uniswap",
+      "symbol": "UNI",
+      "logoURI": "https://assets.smold.app/api/token/1/0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x21E783bcf445B515957A10E992aD3c8E9FF51288",
+      "name": "Let's Go Brandon",
+      "symbol": "LGB",
+      "logoURI": "",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
+      "name": "Wrapped BTC",
+      "symbol": "WBTC",
+      "logoURI": "https://assets.smold.app/api/token/1/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo-128.png",
+      "chainId": 1,
+      "decimals": 8
+    },
+    {
+      "address": "0x2321537fd8EF4644BacDCEec54E5F35bf44311fA",
+      "name": "n00dle",
+      "symbol": "n00d",
+      "logoURI": "",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x2370f9d504c7a6E775bf6E14B3F12846b594cD53",
+      "name": "JPY Coin",
+      "symbol": "JPYC",
+      "logoURI": "",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x25f8087EAD173b73D6e8B84329989A8eEA16CF73",
+      "name": "Yield Guild Games Token",
+      "symbol": "YGG",
+      "logoURI": "",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x297D33e17e61C2Ddd812389C2105193f8348188a",
+      "name": "Strudel Finance",
+      "symbol": "$TRDL",
+      "logoURI": "",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x2D55344Bc1f72E0CCBEe2d8D2EAb503deDFf67C8",
+      "name": "PHI",
+      "symbol": "PHI",
+      "logoURI": "",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x2ba592F78dB6436527729929AAf6c908497cB200",
+      "name": "Cream",
+      "symbol": "CREAM",
+      "logoURI": "https://assets.smold.app/api/token/1/0x2ba592F78dB6436527729929AAf6c908497cB200/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x309627af60F0926daa6041B8279484312f2bf060",
+      "name": "Bancor USD Token",
+      "symbol": "USDB",
+      "logoURI": "",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x3155BA85D5F96b2d030a4966AF206230e46849cb",
+      "name": "THORChain ETH.RUNE",
+      "symbol": "RUNE",
+      "logoURI": "",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x31B595e7cfDB624D10A3E7A562eD98c3567e3865",
+      "name": "stakedZEN",
+      "symbol": "stZEN",
+      "logoURI": "",
+      "chainId": 1,
+      "decimals": 8
+    },
+    {
+      "address": "0x31c2415c946928e9FD1Af83cdFA38d3eDBD4326f",
+      "name": "UMAD",
+      "symbol": "UMAD",
+      "logoURI": "",
+      "chainId": 1,
+      "decimals": 8
+    },
+    {
+      "address": "0x327673aE6B33Bd3d90f0096870059994f30Dc8AF",
+      "name": "Lympo Market Token",
+      "symbol": "LMT",
+      "logoURI": "",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x3432B6A60D23Ca0dFCa7761B7ab56459D9C964D0",
+      "name": "Frax Share",
+      "symbol": "FXS",
+      "logoURI": "",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x3472A5A71965499acd81997a54BBA8D852C6E53d",
+      "name": "Badger",
+      "symbol": "BADGER",
+      "logoURI": "https://assets.smold.app/api/token/1/0x3472A5A71965499acd81997a54BBA8D852C6E53d/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x368B3a58B5f49392e5C9E4C998cb0bB966752E51",
+      "name": "MIC",
+      "symbol": "MIC",
+      "logoURI": "",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x374CB8C27130E2c9E04F44303f3c8351B9De61C1",
+      "name": "BaoToken",
+      "symbol": "BAO",
+      "logoURI": "",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x3832d2F059E55934220881F831bE501D180671A7",
+      "name": "renDOGE",
+      "symbol": "renDOGE",
+      "logoURI": "",
+      "chainId": 1,
+      "decimals": 8
+    },
+    {
+      "address": "0x383518188C0C6d7730D91b2c03a03C837814a899",
+      "name": "Olympus",
+      "symbol": "OHM",
+      "logoURI": "",
+      "chainId": 1,
+      "decimals": 9
+    },
+    {
+      "address": "0x3E9BC21C9b189C09dF3eF1B824798658d5011937",
+      "name": "Linear Token",
+      "symbol": "LINA",
+      "logoURI": "",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x3b484b82567a09e2588A13D54D032153f0c0aEe0",
+      "name": "SOS",
+      "symbol": "SOS",
+      "logoURI": "",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x3f5294DF68F871241c4B18fcF78ebD8Ac18aB654",
+      "name": "99Starz",
+      "symbol": "STZ",
+      "logoURI": "",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x408e41876cCCDC0F92210600ef50372656052a38",
+      "name": "Republic Token",
+      "symbol": "REN",
+      "logoURI": "https://assets.smold.app/api/token/1/0x408e41876cCCDC0F92210600ef50372656052a38/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x41D5D79431A913C4aE7d69a668ecdfE5fF9DFB68",
+      "name": "Inverse DAO",
+      "symbol": "INV",
+      "logoURI": "",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x4377D781B1Aa89A966ea201bF474705F811a57c1",
+      "name": "BITAI",
+      "symbol": "BITAI",
+      "logoURI": "",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x45804880De22913dAFE09f4980848ECE6EcbAf78",
+      "name": "Paxos Gold",
+      "symbol": "PAXG",
+      "logoURI": "",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x4691937a7508860F876c9c0a2a617E7d9E945D4B",
+      "name": "Wootrade Network",
+      "symbol": "WOO",
+      "logoURI": "",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x46e98FFE40E408bA6412bEb670507e083C8B95ff",
+      "name": "PRIMATE",
+      "symbol": "PRIMATE",
+      "logoURI": "",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x476c5E26a75bd202a9683ffD34359C0CC15be0fF",
+      "name": "Serum",
+      "symbol": "SRM",
+      "logoURI": "",
+      "chainId": 1,
+      "decimals": 6
+    },
+    {
+      "address": "0x4954Db6391F4feB5468b6B943D4935353596aEC9",
+      "name": "USDQ Stablecoin by Q DAO v1.0",
+      "symbol": "USDQ",
+      "logoURI": "",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x4E15361FD6b4BB609Fa63C81A2be19d873717870",
+      "name": "Fantom Token",
+      "symbol": "FTM",
+      "logoURI": "https://assets.smold.app/api/token/1/0x4E15361FD6b4BB609Fa63C81A2be19d873717870/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x4b4D2e899658FB59b1D518b68fe836B100ee8958",
+      "name": "MIS",
+      "symbol": "MIS",
+      "logoURI": "",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x4d224452801ACEd8B2F0aebE155379bb5D594381",
+      "name": "ApeCoin",
+      "symbol": "APE",
+      "logoURI": "",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x4e3FBD56CD56c3e72c1403e103b45Db9da5B9D2B",
+      "name": "Convex Token",
+      "symbol": "CVX",
+      "logoURI": "",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x5006192340D83bFa47ee2F28Edd0fd16a56d5b5e",
+      "name": "3gg",
+      "symbol": "3gg",
+      "logoURI": "",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x514910771AF9Ca656af840dff83E8264EcF986CA",
+      "name": "ChainLink Token",
+      "symbol": "LINK",
+      "logoURI": "https://assets.smold.app/api/token/1/0x514910771AF9Ca656af840dff83E8264EcF986CA/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x518C21e61EdFA2d16313BA54f8c7C05a254d9E59",
+      "name": "SATURN",
+      "symbol": "SATURN",
+      "logoURI": "",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x55296f69f40Ea6d20E478533C15A6B08B654E758",
+      "name": "XY Oracle",
+      "symbol": "XYO",
+      "logoURI": "",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x557B933a7C2c45672B610F8954A3deB39a51A8Ca",
+      "name": "REVV",
+      "symbol": "REVV",
+      "logoURI": "",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x56d811088235F11C8920698a204A5010a788f4b3",
+      "name": "bZx Protocol Token",
+      "symbol": "BZRX",
+      "logoURI": "https://assets.smold.app/api/token/1/0x56d811088235F11C8920698a204A5010a788f4b3/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x57Ab1ec28D129707052df4dF418D58a2D46d5f51",
+      "name": "Synth sUSD",
+      "symbol": "sUSD",
+      "logoURI": "https://assets.smold.app/api/token/1/0x57Ab1ec28D129707052df4dF418D58a2D46d5f51/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x584bC13c7D411c00c01A62e8019472dE68768430",
+      "name": "Hegic",
+      "symbol": "HEGIC",
+      "logoURI": "https://assets.smold.app/api/token/1/0x584bC13c7D411c00c01A62e8019472dE68768430/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x5A98FcBEA516Cf06857215779Fd812CA3beF1B32",
+      "name": "Lido DAO Token",
+      "symbol": "LDO",
+      "logoURI": "https://assets.smold.app/api/token/1/0x5A98FcBEA516Cf06857215779Fd812CA3beF1B32/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x5a65c0eA12ABA2313E4D430e8C4407E736625b60",
+      "name": "Dogecoin",
+      "symbol": "DOGE",
+      "logoURI": "",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x5d3a536E4D6DbD6114cc1Ead35777bAB948E3643",
+      "name": "Compound Dai",
+      "symbol": "cDAI",
+      "logoURI": "https://assets.smold.app/api/token/1/0x5d3a536E4D6DbD6114cc1Ead35777bAB948E3643/logo-128.png",
+      "chainId": 1,
+      "decimals": 8
+    },
+    {
+      "address": "0x5f98805A4E8be255a32880FDeC7F6728C6568bA0",
+      "name": "LUSD Stablecoin",
+      "symbol": "LUSD",
+      "logoURI": "https://assets.smold.app/api/token/1/0x5f98805A4E8be255a32880FDeC7F6728C6568bA0/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x618679dF9EfCd19694BB1daa8D00718Eacfa2883",
+      "name": "XYZ Governance Token",
+      "symbol": "XYZ",
+      "logoURI": "",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x61Ed1C66239d29Cc93C8597c6167159e8F69a823",
+      "name": "Reference System for DeFi",
+      "symbol": "RSD",
+      "logoURI": "",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x62B9c7356A2Dc64a1969e19C23e4f579F9810Aa7",
+      "name": "Convex CRV",
+      "symbol": "cvxCRV",
+      "logoURI": "https://assets.smold.app/api/token/1/0x62B9c7356A2Dc64a1969e19C23e4f579F9810Aa7/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x62aBdd605E710Cc80a52062a8cC7c5d659dDDbE7",
+      "name": "pSeudoEthereum",
+      "symbol": "pEth",
+      "logoURI": "",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x6486e992BDbf80271Fd2B8f97C67f0d7CA8AFfA3",
+      "name": "Bitcoin Anonymous",
+      "symbol": "BTCA",
+      "logoURI": "",
+      "chainId": 1,
+      "decimals": 9
+    },
+    {
+      "address": "0x64Bc251b0EB9200948C9155573Cd459C5E17C6a4",
+      "name": "Leancoin",
+      "symbol": "SIPLEAN",
+      "logoURI": "",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x64aa3364F17a4D01c6f1751Fd97C2BD3D7e7f1D5",
+      "name": "Olympus",
+      "symbol": "OHM",
+      "logoURI": "",
+      "chainId": 1,
+      "decimals": 9
+    },
+    {
+      "address": "0x656C00e1BcD96f256F224AD9112FF426Ef053733",
+      "name": "Efinity Token",
+      "symbol": "EFI",
+      "logoURI": "",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x68A118Ef45063051Eac49c7e647CE5Ace48a68a5",
+      "name": "$BASED",
+      "symbol": "$BASED",
+      "logoURI": "",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x69D9905B2e5f6F5433212b7F3c954433F23C1572",
+      "name": "Onooks",
+      "symbol": "OOKS",
+      "logoURI": "",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x69ae194320A8398811A4cC5e710Ec3EE5001B0a0",
+      "name": "QUANTUMCORE",
+      "symbol": "QCO",
+      "logoURI": "",
+      "chainId": 1,
+      "decimals": 9
+    },
+    {
+      "address": "0x69fa0feE221AD11012BAb0FdB45d444D3D2Ce71c",
+      "name": "XRUNE Token",
+      "symbol": "XRUNE",
+      "logoURI": "",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x6ADb2E268de2aA1aBF6578E4a8119b960E02928F",
+      "name": "ShibaDoge",
+      "symbol": "ShibDoge",
+      "logoURI": "",
+      "chainId": 1,
+      "decimals": 9
+    },
+    {
+      "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+      "name": "Dai Stablecoin",
+      "symbol": "DAI",
+      "logoURI": "https://assets.smold.app/api/token/1/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x6B3595068778DD592e39A122f4f5a5cF09C90fE2",
+      "name": "SushiToken",
+      "symbol": "SUSHI",
+      "logoURI": "https://assets.smold.app/api/token/1/0x6B3595068778DD592e39A122f4f5a5cF09C90fE2/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x6Bba316c48b49BD1eAc44573c5c871ff02958469",
+      "name": "Gas DAO",
+      "symbol": "GAS",
+      "logoURI": "",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x6Ce848f188dc4feEd490F221e7332FeB7aF00993",
+      "name": "Sewer Rat Social Club",
+      "symbol": "RAT",
+      "logoURI": "",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x71B6296174C5f07D37CAfD6e9B72Ab5BB3f14fac",
+      "name": "Stable Yield Credit",
+      "symbol": "Xi",
+      "logoURI": "",
+      "chainId": 1,
+      "decimals": 8
+    },
+    {
+      "address": "0x71D85460687a41b0fc9C3c6D33Bd7FF2f7325332",
+      "name": "Bitcoin | t.me/BitcoinWorldCommunity",
+      "symbol": "BTC",
+      "logoURI": "",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x75dE9fa3E18071eaB22823d6c2BCECDE759250ca",
+      "name": "Burn Baby Burn",
+      "symbol": "BURN",
+      "logoURI": "",
+      "chainId": 1,
+      "decimals": 13
+    },
+    {
+      "address": "0x761D38e5ddf6ccf6Cf7c55759d5210750B5D60F3",
+      "name": "Dogelon",
+      "symbol": "ELON",
+      "logoURI": "",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x767FE9EDC9E0dF98E07454847909b5E959D7ca0E",
+      "name": "Illuvium",
+      "symbol": "ILV",
+      "logoURI": "",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x79256DB1BDB6259315a1a3D7Dd237F69cADFd8FC",
+      "name": "Typhoon",
+      "symbol": "PHOON",
+      "logoURI": "",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x798D1bE841a82a273720CE31c822C61a67a601C3",
+      "name": "Digg",
+      "symbol": "DIGG",
+      "logoURI": "",
+      "chainId": 1,
+      "decimals": 9
+    },
+    {
+      "address": "0x7BD198b9107496fD5cC3d7655AF52f43a8eDBc4C",
+      "name": "oneVBTC",
+      "symbol": "oneVBTC",
+      "logoURI": "",
+      "chainId": 1,
+      "decimals": 9
+    },
+    {
+      "address": "0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0",
+      "name": "Matic Token",
+      "symbol": "MATIC",
+      "logoURI": "https://assets.smold.app/api/token/1/0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9",
+      "name": "Aave Token",
+      "symbol": "AAVE",
+      "logoURI": "https://assets.smold.app/api/token/1/0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x7eD4029d5B7AB05bAF4516e1aad57dFC8265E223",
+      "name": "LitecoYield",
+      "symbol": "LTY",
+      "logoURI": "",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x7f39C581F595B53c5cb19bD0b3f8dA6c935E2Ca0",
+      "name": "Wrapped liquid staked Ether 2.0",
+      "symbol": "wstETH",
+      "logoURI": "https://assets.smold.app/api/token/1/0x7f39C581F595B53c5cb19bD0b3f8dA6c935E2Ca0/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x808507121B80c02388fAd14726482e061B8da827",
+      "name": "Pendle",
+      "symbol": "PENDLE",
+      "logoURI": "",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x818ec0A7Fe18Ff94269904fCED6AE3DaE6d6dC0b",
+      "name": "Hedget",
+      "symbol": "anyHGET",
+      "logoURI": "",
+      "chainId": 1,
+      "decimals": 6
+    },
+    {
+      "address": "0x82f0B8B456c1A451378467398982d4834b6829c1",
+      "name": "CRUST",
+      "symbol": "anyCRU",
+      "logoURI": "",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x84cA8bc7997272c7CfB4D0Cd3D55cd942B3c9419",
+      "name": "DIAToken",
+      "symbol": "DIA",
+      "logoURI": "",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x84d821F7FbDD595c4C4A50842913e6b1E07d7a53",
+      "name": "BNPL Pay",
+      "symbol": "BNPL",
+      "logoURI": "",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x8503eb4A136bDBeB323E37Aa6e0FA0C772228378",
+      "name": "BbobboyToken",
+      "symbol": "BBBT",
+      "logoURI": "",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x850Fe284f917eB6dfCfE452348BeAD903aA63073",
+      "name": "SushiSwap LP Token",
+      "symbol": "SLP",
+      "logoURI": "",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x853d955aCEf822Db058eb8505911ED77F175b99e",
+      "name": "Frax",
+      "symbol": "FRAX",
+      "logoURI": "https://assets.smold.app/api/token/1/0x853d955aCEf822Db058eb8505911ED77F175b99e/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x8642A849D0dcb7a15a974794668ADcfbe4794B56",
+      "name": "Prosper",
+      "symbol": "PROS",
+      "logoURI": "",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x865377367054516e17014CcdED1e7d814EDC9ce4",
+      "name": "Dola USD Stablecoin",
+      "symbol": "DOLA",
+      "logoURI": "https://assets.smold.app/api/token/1/0x865377367054516e17014CcdED1e7d814EDC9ce4/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x86ed939B500E121C0C5f493F399084Db596dAd20",
+      "name": "SpaceChainV2",
+      "symbol": "SPC",
+      "logoURI": "",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x8798249c2E607446EfB7Ad49eC89dD1865Ff4272",
+      "name": "SushiBar",
+      "symbol": "xSUSHI",
+      "logoURI": "",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x87d73E916D7057945c9BcD8cdd94e42A6F47f776",
+      "name": "NFTX",
+      "symbol": "NFTX",
+      "logoURI": "",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x8Ab7404063Ec4DBcfd4598215992DC3F8EC853d7",
+      "name": "Akropolis",
+      "symbol": "AKRO",
+      "logoURI": "",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x8dAEBADE922dF735c38C80C7eBD708Af50815fAa",
+      "name": "tBTC",
+      "symbol": "TBTC",
+      "logoURI": "https://assets.smold.app/api/token/1/0x8dAEBADE922dF735c38C80C7eBD708Af50815fAa/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x91dFbEE3965baAEE32784c2d546B7a0C62F268c9",
+      "name": "Bondly",
+      "symbol": "BONDLY",
+      "logoURI": "",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x92E187a03B6CD19CB6AF293ba17F2745Fd2357D5",
+      "name": "Unit Protocol",
+      "symbol": "DUCK",
+      "logoURI": "https://assets.smold.app/api/token/1/0x92E187a03B6CD19CB6AF293ba17F2745Fd2357D5/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x93D00A0fBd822F249458C5f973bee6C5248670a9",
+      "name": "USDT DeFi",
+      "symbol": "USDTd",
+      "logoURI": "",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x948A9BB69D1D1202c160d26804aEfff0634A492e",
+      "name": "Stable Yield Credit",
+      "symbol": "scUSD",
+      "logoURI": "",
+      "chainId": 1,
+      "decimals": 8
+    },
+    {
+      "address": "0x949bEd886c739f1A3273629b3320db0C5024c719",
+      "name": "AMIS",
+      "symbol": "AMIS",
+      "logoURI": "",
+      "chainId": 1,
+      "decimals": 9
+    },
+    {
+      "address": "0x956F47F50A910163D8BF957Cf5846D573E7f87CA",
+      "name": "Fei USD",
+      "symbol": "FEI",
+      "logoURI": "https://assets.smold.app/api/token/1/0x956F47F50A910163D8BF957Cf5846D573E7f87CA/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x95aD61b0a150d79219dCF64E1E6Cc01f0B64C4cE",
+      "name": "SHIBA INU",
+      "symbol": "SHIB",
+      "logoURI": "",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x97Bbbc5d96875fB78D2F14b7FF8d7a3a74106F17",
+      "name": "Astrafer",
+      "symbol": "ASTRAFER",
+      "logoURI": "",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x9813037ee2218799597d83D4a5B6F3b6778218d9",
+      "name": "BONE SHIBASWAP",
+      "symbol": "BONE",
+      "logoURI": "",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x992D6ef73506a28d084dD092722f686Fb5570E38",
+      "name": "TNodeOrange",
+      "symbol": "TNO",
+      "logoURI": "",
+      "chainId": 1,
+      "decimals": 8
+    },
+    {
+      "address": "0x99D8a9C45b2ecA8864373A26D1459e3Dff1e17F3",
+      "name": "Magic Internet Money",
+      "symbol": "MIM",
+      "logoURI": "https://assets.smold.app/api/token/1/0x99D8a9C45b2ecA8864373A26D1459e3Dff1e17F3/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x9c405acf8688AfB61B3197421cDeeC1A266c6839",
+      "name": "DogeYield",
+      "symbol": "DOGY",
+      "logoURI": "",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "logoURI": "https://assets.smold.app/api/token/1/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo-128.png",
+      "chainId": 1,
+      "decimals": 6
+    },
+    {
+      "address": "0xAB8dEEcdf71c539541Edb7d7b490C6Dc052b1fBF",
+      "name": "Wrapped Bitcoin | t.me/BitcoinCoreGroup",
+      "symbol": "WBTC",
+      "logoURI": "",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0xB1f66997A5760428D3a87D68b90BfE0aE64121cC",
+      "name": "LuaToken",
+      "symbol": "LUA",
+      "logoURI": "",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0xBAac2B4491727D78D2b78815144570b9f2Fe8899",
+      "name": "The Doge NFT",
+      "symbol": "DOG",
+      "logoURI": "",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0xBB0E17EF65F82Ab018d8EDd776e8DD940327B28b",
+      "name": "Axie Infinity Shard",
+      "symbol": "AXS",
+      "logoURI": "",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0xBBbbCA6A901c926F240b89EacB641d8Aec7AEafD",
+      "name": "LoopringCoin V2",
+      "symbol": "LRC",
+      "logoURI": "",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0xC011a73ee8576Fb46F5E1c5751cA3B9Fe0af2a6F",
+      "name": "Synthetix Network Token",
+      "symbol": "SNX",
+      "logoURI": "https://assets.smold.app/api/token/1/0xC011a73ee8576Fb46F5E1c5751cA3B9Fe0af2a6F/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "logoURI": "https://assets.smold.app/api/token/1/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0xC06AC15756043f9AB9dd18657697E054B9e51E8B",
+      "name": "Cribini",
+      "symbol": "CRIB",
+      "logoURI": "",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0xC0d4Ceb216B3BA9C3701B291766fDCbA977ceC3A",
+      "name": "BTRFLY",
+      "symbol": "BTRFLY",
+      "logoURI": "",
+      "chainId": 1,
+      "decimals": 9
+    },
+    {
+      "address": "0xC567bca531992352166252ea5121e535432E81eD",
+      "name": "Tartarus",
+      "symbol": "TAR",
+      "logoURI": "",
+      "chainId": 1,
+      "decimals": 8
+    },
+    {
+      "address": "0xC57a51780f7c1aF20212BB9F8707152039F9630d",
+      "name": "EMIT1USDB Freedom Act of 2022",
+      "symbol": "FREEDOM",
+      "logoURI": "",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0xC5Fa164247d2F8D68804139457146eFBde8370F6",
+      "name": "SushiSwap LP Token",
+      "symbol": "SLP",
+      "logoURI": "",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0xCA5b0AE1d104030a9B8F879523508EFd86c14483",
+      "name": "BENJI",
+      "symbol": "BENJI",
+      "logoURI": "",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0xD0660cD418a64a1d44E9214ad8e459324D8157f1",
+      "name": "Woofy",
+      "symbol": "WOOFY",
+      "logoURI": "https://assets.smold.app/api/token/1/0xD0660cD418a64a1d44E9214ad8e459324D8157f1/logo-128.png",
+      "chainId": 1,
+      "decimals": 12
+    },
+    {
+      "address": "0xD291E7a03283640FDc51b121aC401383A46cC623",
+      "name": "Rari Governance Token",
+      "symbol": "RGT",
+      "logoURI": "https://assets.smold.app/api/token/1/0xD291E7a03283640FDc51b121aC401383A46cC623/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0xD417144312DbF50465b1C641d016962017Ef6240",
+      "name": "Covalent Query Token",
+      "symbol": "CQT",
+      "logoURI": "",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0xD46bA6D942050d489DBd938a2C909A5d5039A161",
+      "name": "Ampleforth",
+      "symbol": "AMPL",
+      "logoURI": "",
+      "chainId": 1,
+      "decimals": 9
+    },
+    {
+      "address": "0xD533a949740bb3306d119CC777fa900bA034cd52",
+      "name": "Curve DAO Token",
+      "symbol": "CRV",
+      "logoURI": "https://assets.smold.app/api/token/1/0xD533a949740bb3306d119CC777fa900bA034cd52/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0xD5525D397898e5502075Ea5E830d8914f6F0affe",
+      "name": "MEME",
+      "symbol": "MEME",
+      "logoURI": "",
+      "chainId": 1,
+      "decimals": 8
+    },
+    {
+      "address": "0xD5cd84D6f044AbE314Ee7E414d37cae8773ef9D3",
+      "name": "Harmony ONE",
+      "symbol": "1ONE",
+      "logoURI": "",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0xD62362eEe715159d87C3A14ab32AB1958Be50330",
+      "name": "Bitcoin | t.me/CryptoWorldCommunity",
+      "symbol": "BTC",
+      "logoURI": "",
+      "chainId": 1,
+      "decimals": 9
+    },
+    {
+      "address": "0xD85301D4aB345B901A0Ef369f69f7E6fF06B97A3",
+      "name": "DCMC",
+      "symbol": "DCMC",
+      "logoURI": "",
+      "chainId": 1,
+      "decimals": 12
+    },
+    {
+      "address": "0xD9016A907Dc0ECfA3ca425ab20B6b785B42F2373",
+      "name": "GAMEE",
+      "symbol": "GMEE",
+      "logoURI": "",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0xDA9FDAb21bC4A5811134A6E0Ba6CA06624e67c07",
+      "name": "QUIDD",
+      "symbol": "QUIDD",
+      "logoURI": "",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0xDFe66B14D37C77F4E9b180cEb433d1b164f0281D",
+      "name": "stakedETH",
+      "symbol": "stETH",
+      "logoURI": "",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0xE0839f9b9688a77924208aD509e29952dc660261",
+      "name": "Stable Yield Credit",
+      "symbol": "yCREDIT",
+      "logoURI": "",
+      "chainId": 1,
+      "decimals": 8
+    },
+    {
+      "address": "0xE1Fc4455f62a6E89476f1072530C20CF1A0622dA",
+      "name": "Phuture",
+      "symbol": "PHTR",
+      "logoURI": "",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0xE57425F1598f9b0d6219706b77f4b3DA573a3695",
+      "name": "BitcoinBR",
+      "symbol": "BTCBR",
+      "logoURI": "",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0xE95A203B1a91a908F9B9CE46459d101078c2c3cb",
+      "name": "Ankr Staked ETH",
+      "symbol": "ankrETH",
+      "logoURI": "https://assets.smold.app/api/token/1/0xE95A203B1a91a908F9B9CE46459d101078c2c3cb/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0xEB4C2781e4ebA804CE9a9803C67d0893436bB27D",
+      "name": "renBTC",
+      "symbol": "renBTC",
+      "logoURI": "https://assets.smold.app/api/token/1/0xEB4C2781e4ebA804CE9a9803C67d0893436bB27D/logo-128.png",
+      "chainId": 1,
+      "decimals": 8
+    },
+    {
+      "address": "0xEa466d99914Aec270d8537fAEb2c4b165534A09d",
+      "name": "OvErBuRn",
+      "symbol": "SQUEEZE IT",
+      "logoURI": "",
+      "chainId": 1,
+      "decimals": 6
+    },
+    {
+      "address": "0xEd04915c23f00A313a544955524EB7DBD823143d",
+      "name": "Alchemy",
+      "symbol": "ACH",
+      "logoURI": "",
+      "chainId": 1,
+      "decimals": 8
+    },
+    {
+      "address": "0xEd1480d12bE41d92F36f5f7bDd88212E381A3677",
+      "name": "FIAT DAO Token",
+      "symbol": "FDT",
+      "logoURI": "",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0xF57e7e7C23978C3cAEC3C3548E3D615c346e79fF",
+      "name": "Immutable X",
+      "symbol": "IMX",
+      "logoURI": "",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0xFdF888Ccd94Fc4A3971fF3C5ebaA47CFF00445d0",
+      "name": "Bitcoin Trade",
+      "symbol": "BTCTRADE",
+      "logoURI": "",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0xa1faa113cbE53436Df28FF0aEe54275c13B40975",
+      "name": "AlphaToken",
+      "symbol": "ALPHA",
+      "logoURI": "https://assets.smold.app/api/token/1/0xa1faa113cbE53436Df28FF0aEe54275c13B40975/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0xa47c8bf37f92aBed4A126BDA807A7b7498661acD",
+      "name": "Wrapped UST Token",
+      "symbol": "UST",
+      "logoURI": "https://assets.smold.app/api/token/1/0xa47c8bf37f92aBed4A126BDA807A7b7498661acD/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0xaCae4330035c19D798cdF49b984106603a266D0c",
+      "name": "Tyrannos",
+      "symbol": "TYR",
+      "logoURI": "",
+      "chainId": 1,
+      "decimals": 8
+    },
+    {
+      "address": "0xaF458348c43e864aecfaCd54cF371eC3142A1d4d",
+      "name": "IRON Stablecoin",
+      "symbol": "IRON",
+      "logoURI": "",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0xae7ab96520DE3A18E5e111B5EaAb095312D7fE84",
+      "name": "Liquid staked Ether 2.0",
+      "symbol": "stETH",
+      "logoURI": "https://assets.smold.app/api/token/1/0xae7ab96520DE3A18E5e111B5EaAb095312D7fE84/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0xaf988afF99d3d0cb870812C325C588D8D8CB7De8",
+      "name": "SushiSwap LP Token",
+      "symbol": "SLP",
+      "logoURI": "",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0xafcE9B78D409bF74980CACF610AFB851BF02F257",
+      "name": "Lift.Kitchen BTC",
+      "symbol": "LFBTC",
+      "logoURI": "",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0xb220D53F7D0f52897Bcf25E47c4c3DC0bac344F8",
+      "name": "EUSD",
+      "symbol": "EUSD",
+      "logoURI": "",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0xb31eF9e52d94D4120eb44Fe1ddfDe5B4654A6515",
+      "name": "DOSE",
+      "symbol": "DOSE",
+      "logoURI": "",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0xbCDa9E0658f4eECF56A0bd099e6DBc0C91f6A8c2",
+      "name": "SushiswapV2 IL Protection",
+      "symbol": "sil",
+      "logoURI": "",
+      "chainId": 1,
+      "decimals": 8
+    },
+    {
+      "address": "0xbF4a2DdaA16148a9D0fA2093FfAC450ADb7cd4aa",
+      "name": "Ethereum Money",
+      "symbol": "ETHMNY",
+      "logoURI": "",
+      "chainId": 1,
+      "decimals": 2
+    },
+    {
+      "address": "0xba100000625a3754423978a60c9317c58a424e3D",
+      "name": "Balancer",
+      "symbol": "BAL",
+      "logoURI": "https://assets.smold.app/api/token/1/0xba100000625a3754423978a60c9317c58a424e3D/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0xc00e94Cb662C3520282E6f5717214004A7f26888",
+      "name": "Compound",
+      "symbol": "COMP",
+      "logoURI": "https://assets.smold.app/api/token/1/0xc00e94Cb662C3520282E6f5717214004A7f26888/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0xc425c0877C7B0f8179CDBd636b2eFe3204B24bC4",
+      "name": "SPANKER",
+      "symbol": "SPANK",
+      "logoURI": "",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0xc5102fE9359FD9a28f877a67E36B0F050d81a3CC",
+      "name": "Hop",
+      "symbol": "HOP",
+      "logoURI": "",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0xc690F7C7FcfFA6a82b79faB7508c466FEfdfc8c5",
+      "name": "Lympo tokens",
+      "symbol": "LYM",
+      "logoURI": "",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0xc944E90C64B2c07662A292be6244BDf05Cda44a7",
+      "name": "Graph Token",
+      "symbol": "GRT",
+      "logoURI": "",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0xcAaa93712BDAc37f736C323C93D4D5fDEFCc31CC",
+      "name": "CryptalDash",
+      "symbol": "CRD",
+      "logoURI": "",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0xcB84d72e61e383767C4DFEb2d8ff7f4FB89abc6e",
+      "name": "VEGA",
+      "symbol": "VEGA",
+      "logoURI": "",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0xd2877702675e6cEb975b4A1dFf9fb7BAF4C91ea9",
+      "name": "Wrapped LUNA Token",
+      "symbol": "LUNA",
+      "logoURI": "",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "logoURI": "https://assets.smold.app/api/token/1/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo-128.png",
+      "chainId": 1,
+      "decimals": 6
+    },
+    {
+      "address": "0xdBdb4d16EdA451D0503b854CF79D55697F90c8DF",
+      "name": "Alchemix",
+      "symbol": "ALCX",
+      "logoURI": "https://assets.smold.app/api/token/1/0xdBdb4d16EdA451D0503b854CF79D55697F90c8DF/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0xe1406825186D63980fd6e2eC61888f7B91C4bAe4",
+      "name": "Strudel BTC",
+      "symbol": "VBTC",
+      "logoURI": "",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0xe76C6c83af64e4C60245D8C7dE953DF673a7A33D",
+      "name": "Rail",
+      "symbol": "RAIL",
+      "logoURI": "",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0xe7DA1d8327AE1F320BbC23ca119b02AD3f85dceB",
+      "name": "BlackDAO",
+      "symbol": "BLKD",
+      "logoURI": "",
+      "chainId": 1,
+      "decimals": 9
+    },
+    {
+      "address": "0xe8679fe133f38f19e1cFFEBA98a4BAA5c897Ce51",
+      "name": "BitcoYield",
+      "symbol": "BTY",
+      "logoURI": "",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0xe90AB0c4D0C3D971513c7852E5f67ec413E747c4",
+      "name": "Doc USE THIS ART",
+      "symbol": "DUTAT",
+      "logoURI": "",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0xe9F84dE264E91529aF07Fa2C746e934397810334",
+      "name": "Sake",
+      "symbol": "SAK3",
+      "logoURI": "",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0xeDEec5691f23E4914cF0183A4196bBEb30d027a0",
+      "name": "Wrapped STA",
+      "symbol": "WSTA",
+      "logoURI": "",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0xf057D77Ba8ca6DC51427C1Dfd66dDba0664feD54",
+      "name": "VEGETA",
+      "symbol": "VEGETA",
+      "logoURI": "",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0xf16e81dce15B08F326220742020379B855B87DF9",
+      "name": "IceToken",
+      "symbol": "ICE",
+      "logoURI": "",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0xf3504E1ac58E333f013f1595c435C9EbEFd47eDE",
+      "name": "Stable Yield Credit",
+      "symbol": "Xii",
+      "logoURI": "",
+      "chainId": 1,
+      "decimals": 8
+    }
+  ],
+  "metadata": {
+    "lastBlockSyncFor_1": "18521102",
+    "lastBlockSyncFor_137": "49658772",
+    "lastBlockSyncFor_250": "70299200"
+  }
+}

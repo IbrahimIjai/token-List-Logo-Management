@@ -1,0 +1,3662 @@
+{
+  "name": "Portals Token List",
+  "description": "",
+  "timestamp": "14/01/2024 00:47:16",
+  "version": {
+    "major": 36,
+    "minor": 0,
+    "patch": 0
+  },
+  "logoURI": "https://portals-assets-bucket.s3.amazonaws.com/logo.png",
+  "keywords": [],
+  "tokens": [
+    {
+      "address": "0x004700ba0a4f5f22e1E78a277fCA55e36F47E09C",
+      "name": "Ankr's Galactic Harmony",
+      "symbol": "bpt-ankrgalaharm",
+      "logoURI": "https://assets.coingecko.com/coins/images/19158/large/beets-icon-large.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x00557e194B717dCfEbaE6222091C5F806DF99698",
+      "name": "Moo VeloV2 OP-ETH",
+      "symbol": "mooVeloV2OP-ETH",
+      "logoURI": "https://assets.coingecko.com/coins/images/12704/large/token.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x00Cb8E36A9C40491A39e8bF2864Ed30C1B579860",
+      "name": "Velodrome v2 tBTC-WBTC Factory yVault",
+      "symbol": "yvVelo-tBTC-WBTC-f",
+      "logoURI": "https://assets.smold.app/api/token/10/0x00Cb8E36A9C40491A39e8bF2864Ed30C1B579860/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x00F932F0FE257456b32dedA4758922E56A4F4b42",
+      "name": "Paper",
+      "symbol": "PAPER",
+      "logoURI": "https://ethereum-optimism.github.io/data/PAPER/logo.svg",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x00a2faF97CC2b985B29a0a0eAa6E0D8033Dc0eA1",
+      "name": "Velodrome v2 tBTC-WETH Factory yVault",
+      "symbol": "yvVelo-tBTC-WETH-f",
+      "logoURI": "https://assets.smold.app/api/token/10/0x00a2faF97CC2b985B29a0a0eAa6E0D8033Dc0eA1/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x00a35FD824c717879BF370E70AC6868b95870Dfb",
+      "name": "IronBank",
+      "symbol": "IB",
+      "logoURI": "https://assets.smold.app/api/token/10/0x00a35FD824c717879BF370E70AC6868b95870Dfb/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x00e1724885473B63bCE08a9f0a52F35b0979e35A",
+      "name": "Oath Token",
+      "symbol": "OATH",
+      "logoURI": "https://assets.smold.app/api/token/10/0x00e1724885473B63bCE08a9f0a52F35b0979e35A/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x019fF7C88119bfFcE03CFa163148BC2E051F5905",
+      "name": "Test Prize WETH - Please Ignore",
+      "symbol": "IGNOREME",
+      "logoURI": "https://assets.coingecko.com/coins/images/14003/large/PoolTogether.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x01c77E8a099e97B7b0Dca2F987d9bd1911CdDE50",
+      "name": "Velodrome v2 SNX-USDC.e Factory yVault",
+      "symbol": "yvVelo-SNX-USDC.e-f",
+      "logoURI": "https://assets.smold.app/api/token/10/0x01c77E8a099e97B7b0Dca2F987d9bd1911CdDE50/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x0244B0025264dC5f5c113d472D579C9c994A59CE",
+      "name": "A Night at the OPara",
+      "symbol": "BPT-OPARA",
+      "logoURI": "https://assets.coingecko.com/coins/images/19158/large/beets-icon-large.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x02ab6fE6B3aF13B4F859001486dC75F2dAC79026",
+      "name": "Balancer BPT-RESERVE Gauge Deposit",
+      "symbol": "BPT-RESERVE-gauge",
+      "logoURI": "https://assets.coingecko.com/coins/images/25942/large/logo.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x0414BA5d3991a7B901d4e3f18b694a62414aC7Db",
+      "name": "Moo VeloV2 DAI+-USD+",
+      "symbol": "mooVeloV2DAI+-USD+",
+      "logoURI": "https://assets.coingecko.com/coins/images/12704/large/token.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x0493Bf8b6DBB159Ce2Db2E0E8403E753Abd1235b",
+      "name": "VolatileV2 AMM - WETH/USDC",
+      "symbol": "vAMMV2-WETH/USDC",
+      "logoURI": "https://assets.smold.app/api/token/10/0x0493Bf8b6DBB159Ce2Db2E0E8403E753Abd1235b/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x049E04bEE77cFfB055f733A138a2F204D3750283",
+      "name": "Iron Bank Dai Stablecoin",
+      "symbol": "iDAI",
+      "logoURI": "https://assets.coingecko.com/coins/images/22902/large/ironbank.png",
+      "chainId": 10,
+      "decimals": 8
+    },
+    {
+      "address": "0x04F0fd3CD03B17a3E5921c0170ca6dD3952841cA",
+      "name": "Iron Bank Synth sUSD",
+      "symbol": "iSUSD",
+      "logoURI": "https://assets.coingecko.com/coins/images/22902/large/ironbank.png",
+      "chainId": 10,
+      "decimals": 8
+    },
+    {
+      "address": "0x0503Dd6b2D3Dd463c9BeF67fB5156870Af63393E",
+      "name": "BAL Fjord Foundry LBP",
+      "symbol": "BAL_LBP",
+      "logoURI": "https://assets.coingecko.com/coins/images/19158/large/beets-icon-large.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x061b87122Ed14b9526A813209C8a59a633257bAb",
+      "name": "Curve.fi Factory USD Metapool: sUSD Synthetix",
+      "symbol": "sUSD3CRV-f",
+      "logoURI": "https://assets.smold.app/api/token/10/0x061b87122Ed14b9526A813209C8a59a633257bAb/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x062F29e2b5bD99523DD3508207eb2C2CbAf98D50",
+      "name": "Moo Hop DAI",
+      "symbol": "mooHopDAI",
+      "logoURI": "https://assets.smold.app/not-found.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x0699BC1Ca03761110929b2B56BcCBeb691fa9ca6",
+      "name": "Hop rETH LP Token",
+      "symbol": "HOP-LP-rETH",
+      "logoURI": "https://assets.coingecko.com/coins/images/25445/large/hop.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x06E0A84c71dBD037c618CCf90798474E0e6f9C91",
+      "name": "Moo VeloV2 ​ETH-frxETH",
+      "symbol": "mooVeloV2​ETH-frxETH",
+      "logoURI": "https://assets.coingecko.com/coins/images/12704/large/token.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x078f358208685046a11C85e8ad32895DED33A249",
+      "name": "Aave Optimism WBTC",
+      "symbol": "aOptWBTC",
+      "logoURI": "https://assets.coingecko.com/coins/images/12645/large/AAVE.png",
+      "chainId": 10,
+      "decimals": 8
+    },
+    {
+      "address": "0x0892a178c363b4739e5Ac89E9155B9c30214C0c0",
+      "name": "Moo Curve wstETH",
+      "symbol": "mooCurveWSTETH",
+      "logoURI": "https://assets.coingecko.com/coins/images/12704/large/token.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x0980C3171E32c4508f614ceC15A3819B6cCf372c",
+      "name": "Moo VeloV2 FRAX-MAI",
+      "symbol": "mooVeloV2FRAX-MAI",
+      "logoURI": "https://assets.coingecko.com/coins/images/12704/large/token.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x0994206dfE8De6Ec6920FF4D779B0d950605Fb53",
+      "name": "Curve DAO Token",
+      "symbol": "CRV",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xD533a949740bb3306d119CC777fa900bA034cd52/logo.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x0Bf7616889d0ae18382d9715eAc00a3302e9aB92",
+      "name": "Moo Exactly Supply ETH",
+      "symbol": "mooExactlySupplyETH",
+      "logoURI": "https://assets.coingecko.com/coins/images/12704/large/token.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x0D0F65C63E379263f7CE2713dd012180681D0dc5",
+      "name": "StableV2 AMM - LUSD/DAI",
+      "symbol": "sAMMV2-LUSD/DAI",
+      "logoURI": "https://assets.coingecko.com/coins/images/25783/large/velo.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x0a2f234Ad2e5e9047067904A9D37D0Cd02b80D12",
+      "name": "WBTC yVault",
+      "symbol": "yvWBTC",
+      "logoURI": "https://assets.smold.app/api/token/10/0x0a2f234Ad2e5e9047067904A9D37D0Cd02b80D12/logo-128.png",
+      "chainId": 10,
+      "decimals": 8
+    },
+    {
+      "address": "0x0b28C2e41058EDc7D66c516c617b664Ea86eeC5d",
+      "name": "StableV2 AMM - USD+/DOLA",
+      "symbol": "sAMMV2-USD+/DOLA",
+      "logoURI": "https://assets.smold.app/api/token/10/0x0b28C2e41058EDc7D66c516c617b664Ea86eeC5d/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85",
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "logoURI": "https://assets.smold.app/api/token/10/0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85/logo-128.png",
+      "chainId": 10,
+      "decimals": 6
+    },
+    {
+      "address": "0x0e88a5bfF34d39DA66bdD32B82dC89a32D7Bb6c9",
+      "name": "VolatileV2 AMM - WETH/HOP",
+      "symbol": "vAMMV2-WETH/HOP",
+      "logoURI": "https://assets.coingecko.com/coins/images/25783/large/velo.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x0fc7E27E4cB8e6FBCc5996444BE301d26Fc32f1a",
+      "name": "Balancer bpt-steamounrhyt Gauge Deposit",
+      "symbol": "bpt-steamounrhyt-gauge",
+      "logoURI": "https://assets.coingecko.com/coins/images/25942/large/logo.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x10010078a54396F62c96dF8532dc2B4847d47ED3",
+      "name": "Hundred Finance",
+      "symbol": "HND",
+      "logoURI": "https://assets.smold.app/api/token/10/0x10010078a54396F62c96dF8532dc2B4847d47ED3/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x100Cd460D7f549B4cc2Ed35d4ff20ac71B377C96",
+      "name": "Moo VeloV2 alETH-frxETH",
+      "symbol": "mooVeloV2alETH-frxETH",
+      "logoURI": "https://assets.coingecko.com/coins/images/12704/large/token.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x102Ba5c72e4BDf8E9243340425F0E523F8983d03",
+      "name": "Whole GRAIN",
+      "symbol": "BPT-WGRAIN",
+      "logoURI": "https://assets.coingecko.com/coins/images/19158/large/beets-icon-large.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x107Dbf9c9C0EF2Df114159e5C7DC2baf7C444cFF",
+      "name": "Moo Curve f-sUSD",
+      "symbol": "mooCurveFsUSD",
+      "logoURI": "https://assets.coingecko.com/coins/images/12704/large/token.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x11f0b5CCA01B0F0A9Fe6265aD6E8ee3419c68440",
+      "name": "Blue Rev",
+      "symbol": "BPT-BREV",
+      "logoURI": "https://assets.coingecko.com/coins/images/19158/large/beets-icon-large.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x1337BedC9D22ecbe766dF105c9623922A27963EC",
+      "name": "Curve.fi DAI/USDC/USDT",
+      "symbol": "3CRV",
+      "logoURI": "https://optimistic.etherscan.io/images/main/empty-token.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x14778860E937f509e651192a90589dE711Fb88a9",
+      "name": "CyberConnect",
+      "symbol": "CYBER",
+      "logoURI": "https://assets.coingecko.com/coins/images/31274/large/cyberconnect.png?1692101771",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x15e770B95Edd73fD96b02EcE0266247D50895E76",
+      "name": "Jarvis Reward Token",
+      "symbol": "JRT",
+      "logoURI": "https://assets.smold.app/api/token/10/0x15e770B95Edd73fD96b02EcE0266247D50895E76/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x165137624F1f692e69659f944BF69DE02874ee27",
+      "name": "Dai Stablecoin-LP",
+      "symbol": "S*DAI",
+      "logoURI": "https://assets.coingecko.com/coins/images/24413/large/STG_LOGO.png",
+      "chainId": 10,
+      "decimals": 6
+    },
+    {
+      "address": "0x17533a1bDe957979E3977EbbFBC31E6deeb25C7d",
+      "name": "Iron Bank Wrapped Ether",
+      "symbol": "iWETH",
+      "logoURI": "https://assets.coingecko.com/coins/images/22902/large/ironbank.png",
+      "chainId": 10,
+      "decimals": 8
+    },
+    {
+      "address": "0x181D739A0C016Bd0B32bd6e47cbcA70D3A0e69d7",
+      "name": "Global Token",
+      "symbol": "GBL",
+      "logoURI": "",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x182fe51442C7D65360eD1511f30be6261c2C20C1",
+      "name": "Moo VeloV2 sUSD-USDC",
+      "symbol": "mooVeloV2sUSD-USDC",
+      "logoURI": "https://assets.coingecko.com/coins/images/12704/large/token.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x1910CCeCC57869F1Ff2337dda001246B92E8418A",
+      "name": "Moo Exactly Supply wstETH",
+      "symbol": "mooExactlySupplywstETH",
+      "logoURI": "https://assets.coingecko.com/coins/images/12704/large/token.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x1973ef31F2A82B3f73b8C9Ee1c440615084d5242",
+      "name": "Moo VeloV2 DOLA-FRAX",
+      "symbol": "mooVeloV2DOLA-FRAX",
+      "logoURI": "https://assets.coingecko.com/coins/images/12704/large/token.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x1A1F0Db1050D1cAD52eEB72371EbFD7716b53a2f",
+      "name": "Moo VeloV2 alETH-WETH",
+      "symbol": "mooVeloV2alETH-WETH",
+      "logoURI": "https://assets.coingecko.com/coins/images/12704/large/token.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x1AD06Ca54de04DBe9e2817F4C13eCB406DCbeAf0",
+      "name": "StableV2 AMM - alETH/frxETH",
+      "symbol": "sAMMV2-alETH/frxETH",
+      "logoURI": "https://assets.smold.app/api/token/10/0x1AD06Ca54de04DBe9e2817F4C13eCB406DCbeAf0/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x1B1d2EfB6045851F8ccdE24369003e0fF157980b",
+      "name": "Velodrome v2 sUSD-USDC.e Factory yVault",
+      "symbol": "yvVelo-sUSD-USDC.e-f",
+      "logoURI": "https://assets.smold.app/api/token/10/0x1B1d2EfB6045851F8ccdE24369003e0fF157980b/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x1B9eb90884F3566AE923366B65a49B1E30cbcE28",
+      "name": "Moo VeloV2 OP-frxETH",
+      "symbol": "mooVeloV2OP-frxETH",
+      "logoURI": "https://assets.coingecko.com/coins/images/12704/large/token.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x1D95129c18a8c91C464111FDf7d0Eb241B37a985",
+      "name": " Proof of Reserves",
+      "symbol": "BPT-RESERVE",
+      "logoURI": "https://assets.coingecko.com/coins/images/19158/large/beets-icon-large.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x1Dc5c0f8668a9F54ED922171d578011850ca0341",
+      "name": "Curve.fi Factory Plain Pool: 2BTC",
+      "symbol": "2BTC-f",
+      "logoURI": "https://assets.coingecko.com/coins/images/12124/large/Curve.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x1F32b1c2345538c0c6f582fCB022739c4A194Ebb",
+      "name": "Wrapped liquid staked Ether 2.0",
+      "symbol": "wstETH",
+      "logoURI": "https://assets.smold.app/api/token/10/0x1F32b1c2345538c0c6f582fCB022739c4A194Ebb/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x1F514A61bcde34F94Bc39731235690ab9da737F7",
+      "name": "Tarot",
+      "symbol": "TAROT",
+      "logoURI": "https://assets.smold.app/api/token/10/0x1F514A61bcde34F94Bc39731235690ab9da737F7/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x1d073cf59Ae0C169cbc58B6fdD518822ae89173a",
+      "name": "Iron Bank USD Coin",
+      "symbol": "iUSDC",
+      "logoURI": "https://assets.coingecko.com/coins/images/22902/large/ironbank.png",
+      "chainId": 10,
+      "decimals": 8
+    },
+    {
+      "address": "0x1e3c6c53F9f60BF8aAe0D7774C21Fa6b1afddC57",
+      "name": "xSHRAP",
+      "symbol": "xSHRAP",
+      "logoURI": "https://assets.coingecko.com/coins/images/29346/large/xshrapnel.png?1678253037",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x1f8b46abe1EAbF5A60CbBB5Fb2e4a6A46fA0b6e6",
+      "name": "StableV2 AMM - FRAX/DOLA",
+      "symbol": "sAMMV2-FRAX/DOLA",
+      "logoURI": "https://assets.smold.app/api/token/10/0x1f8b46abe1EAbF5A60CbBB5Fb2e4a6A46fA0b6e6/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x20aC7C9329822EE3Cf61d244BD4816941b50Cf7A",
+      "name": "test53",
+      "symbol": "50WETH-50USDC",
+      "logoURI": "https://assets.coingecko.com/coins/images/19158/large/beets-icon-large.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x217D47011b23BB961eB6D93cA9945B7501a5BB11",
+      "name": "Thales DAO Token",
+      "symbol": "THALES",
+      "logoURI": "https://assets.smold.app/api/token/10/0x217D47011b23BB961eB6D93cA9945B7501a5BB11/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x22D63A26c730d49e5Eab461E4f5De1D8BdF89C92",
+      "name": "Hop DAI LP Token",
+      "symbol": "HOP-LP-DAI",
+      "logoURI": "https://assets.smold.app/not-found.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x22ED403FAdc58110f128246A7E13962F308841a1",
+      "name": "test51",
+      "symbol": "50USDC-50WETH",
+      "logoURI": "https://assets.coingecko.com/coins/images/19158/large/beets-icon-large.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x22ab31Cd55130435b5efBf9224b6a9d5EC36533F",
+      "name": "exactly wstETH",
+      "symbol": "exawstETH",
+      "logoURI": "https://assets.coingecko.com/coins/images/31172/large/ExawstETH_1.png?1691117228",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x23ee2343B892b1BB63503a4FAbc840E0e2C6810f",
+      "name": "Axelar",
+      "symbol": "AXL",
+      "logoURI": "https://assets.coingecko.com/coins/images/27277/large/V-65_xQ1_400x400.jpeg?1663121730",
+      "chainId": 10,
+      "decimals": 6
+    },
+    {
+      "address": "0x2513486f18eeE1498D7b6281f668B955181Dd0D9",
+      "name": "OpenXSwap Gov Token",
+      "symbol": "xOpenX",
+      "logoURI": "https://assets.smold.app/api/token/10/0x2513486f18eeE1498D7b6281f668B955181Dd0D9/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x2598E7959640C2e5DD8A5c5c6634d3Cf9D05b54F",
+      "name": "Moo VeloV2 OP-FRAX",
+      "symbol": "mooVeloV2OP-FRAX",
+      "logoURI": "https://assets.coingecko.com/coins/images/12704/large/token.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x2598c30330D5771AE9F983979209486aE26dE875",
+      "name": "Any Inu",
+      "symbol": "AI",
+      "logoURI": "",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x263B293395694C1C8e9750F33627E78Ea79804dc",
+      "name": "Curve.fi Factory Plain Pool: FRAXUSDV",
+      "symbol": "FRAXUSDV-f",
+      "logoURI": "https://assets.coingecko.com/coins/images/12124/large/Curve.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x26AaB17f27CD1c8d06a0Ad8E4a1Af8B1032171d5",
+      "name": "Sonne Wrapped liquid staked Ether 2.0",
+      "symbol": "sowstETH",
+      "logoURI": "https://assets.coingecko.com/coins/images/27540/large/Token1.png",
+      "chainId": 10,
+      "decimals": 8
+    },
+    {
+      "address": "0x276cf9e7a43d1B9422dEcd1f1d2608f3D588CAad",
+      "name": "Wrapped AllianceBlock Token",
+      "symbol": "WALBT",
+      "logoURI": "https://assets.coingecko.com/coins/images/12392/large/alliance_block_logo.jpg?1599546617",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x27939E33435cc4ee4e74c0F0260914596bcEb116",
+      "name": "Velodrome v2 OATH-WETH Factory yVault",
+      "symbol": "yvVelo-OATH-WETH-f",
+      "logoURI": "https://assets.smold.app/api/token/10/0x27939E33435cc4ee4e74c0F0260914596bcEb116/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x2793AF2c7db9f0A06d2727Dd392Ab4Bb1b82a98D",
+      "name": "Moo Beets Shanghai Shakedown",
+      "symbol": "mooBeetsShanghaiShakedown",
+      "logoURI": "https://assets.coingecko.com/coins/images/12704/large/token.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x28E0f491dBB32efAc69c1b2B793A1025Ef90320D",
+      "name": "Moo VeloV2 AELIN-ETH",
+      "symbol": "mooVeloV2AELIN-ETH",
+      "logoURI": "https://assets.coingecko.com/coins/images/12704/large/token.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x28F4cc9552F578B5C6e3a9204D6277cBa49a9416",
+      "name": "Moo Hop SNX",
+      "symbol": "mooHopSNX",
+      "logoURI": "https://assets.smold.app/not-found.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x28b42698Caf46B4B012CF38b6C75867E0762186D",
+      "name": "Unidex",
+      "symbol": "UNIDX",
+      "logoURI": "https://assets.smold.app/api/token/10/0x28b42698Caf46B4B012CF38b6C75867E0762186D/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x296F55F8Fb28E498B858d0BcDA06D955B2Cb3f97",
+      "name": "StargateToken",
+      "symbol": "STG",
+      "logoURI": "https://assets.smold.app/api/token/10/0x296F55F8Fb28E498B858d0BcDA06D955B2Cb3f97/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x29A3d66B30Bc4AD674A4FDAF27578B64f6afbFe7",
+      "name": "Curve.fi Factory Plain Pool: FRAXBP",
+      "symbol": "FRAXBP-f",
+      "logoURI": "https://assets.coingecko.com/coins/images/12124/large/Curve.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x29Cb69D4780B53c1e5CD4D2B817142D2e9890715",
+      "name": "Prize WETH - Aave",
+      "symbol": "pWETH",
+      "logoURI": "https://assets.coingecko.com/coins/images/14003/large/PoolTogether.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x29FAF5905bfF9Cfcc7CF56a5ed91E0f091F8664B",
+      "name": "Bankless Token",
+      "symbol": "BANK",
+      "logoURI": "https://assets.smold.app/api/token/10/0x29FAF5905bfF9Cfcc7CF56a5ed91E0f091F8664B/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x2AC482d67F009AcFC242283B6D86bc6dD4E2EE4f",
+      "name": "Prize LUSD - Aave",
+      "symbol": "pLUSD",
+      "logoURI": "https://assets.coingecko.com/coins/images/14003/large/PoolTogether.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x2E3D870790dC77A83DD1d18184Acc7439A53f475",
+      "name": "Frax",
+      "symbol": "FRAX",
+      "logoURI": "https://assets.smold.app/api/token/10/0x2E3D870790dC77A83DD1d18184Acc7439A53f475/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x2E931De1fcB2681Dc98601e0b513308DA9C5cEae",
+      "name": "VolatileV2 AMM - TAROT/USDC",
+      "symbol": "vAMMV2-TAROT/USDC",
+      "logoURI": "https://assets.smold.app/api/token/10/0x2E931De1fcB2681Dc98601e0b513308DA9C5cEae/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x2Ef789080933cabBEB8ce364CE877Fc54A6add06",
+      "name": "Prize Thales-ETH LP Beefy Velodrome",
+      "symbol": "pThalesETHBeefyVelo",
+      "logoURI": "https://assets.coingecko.com/coins/images/14003/large/PoolTogether.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x2F8bC9081c7FCFeC25b9f41a50d97EaA592058ae",
+      "name": "Synth sUSD-LP",
+      "symbol": "S*sUSD",
+      "logoURI": "https://assets.coingecko.com/coins/images/24413/large/STG_LOGO.png",
+      "chainId": 10,
+      "decimals": 6
+    },
+    {
+      "address": "0x2a5139cd86C041aa3467e649F5Ee0880A5de2f2F",
+      "name": "Staked Duet",
+      "symbol": "bpt-stadue",
+      "logoURI": "https://assets.coingecko.com/coins/images/19158/large/beets-icon-large.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x2a90F479002DAae9934c3a70EBB6e8DbeB46292b",
+      "name": "sUSD yVault",
+      "symbol": "yvsUSD",
+      "logoURI": "https://assets.smold.app/api/token/10/0x2a90F479002DAae9934c3a70EBB6e8DbeB46292b/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x2b1D36f5B61AdDAf7DA7ebbd11B35FD8cfb0DE31",
+      "name": "Interport Token",
+      "symbol": "ITP",
+      "logoURI": "",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x2bC96f9e07Edc7F1aA9Aa26E85dc7dd30ACe59a6",
+      "name": "Moo VeloV2 USD+-USDC",
+      "symbol": "mooVeloV2USD+-USDC",
+      "logoURI": "https://assets.coingecko.com/coins/images/12704/large/token.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x2dAD3a13ef0C6366220f989157009e501e7938F8",
+      "name": "Extra Finance",
+      "symbol": "EXTRA",
+      "logoURI": "https://assets.smold.app/api/token/10/0x2dAD3a13ef0C6366220f989157009e501e7938F8/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x2e17b8193566345a2Dd467183526dEdc42d2d5A8",
+      "name": "Hop USDC LP Token",
+      "symbol": "HOP-LP-USDC",
+      "logoURI": "https://assets.smold.app/not-found.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x2fE304b407c7fAb2a3c10962F14dB751468a4f5b",
+      "name": "VolatileV2 AMM - OP/frxETH",
+      "symbol": "vAMMV2-OP/frxETH",
+      "logoURI": "https://assets.coingecko.com/coins/images/25783/large/velo.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x323665443CEf804A3b5206103304BD4872EA4253",
+      "name": "USDV",
+      "symbol": "USDV",
+      "logoURI": "https://assets.smold.app/api/token/10/0x323665443CEf804A3b5206103304BD4872EA4253/logo-128.png",
+      "chainId": 10,
+      "decimals": 6
+    },
+    {
+      "address": "0x33865E09A572d4F1CC4d75Afc9ABcc5D3d4d867D",
+      "name": "Sonne Wrapped Bitcoin",
+      "symbol": "soWBTC",
+      "logoURI": "https://assets.coingecko.com/coins/images/27540/large/Token1.png",
+      "chainId": 10,
+      "decimals": 8
+    },
+    {
+      "address": "0x34075efe920CaaA6F3a4e7755243244B24A722cd",
+      "name": "Curve.fi Factory Plain Pool: sUSD/SNX",
+      "symbol": "sUSDS-f",
+      "logoURI": "https://assets.coingecko.com/coins/images/12124/large/Curve.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x34A81e8956BF20b7448b31990A2c06F96830a6e4",
+      "name": "Common Chord",
+      "symbol": "BPT-CHORD",
+      "logoURI": "https://assets.coingecko.com/coins/images/19158/large/beets-icon-large.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x3533F5e279bDBf550272a199a223dA798D9eff78",
+      "name": "LUSD Stablecoin-LP",
+      "symbol": "S*LUSD",
+      "logoURI": "https://assets.coingecko.com/coins/images/24413/large/STG_LOGO.png",
+      "chainId": 10,
+      "decimals": 6
+    },
+    {
+      "address": "0x35775aA87b4CA1c04a6c579c90cE9add09247958",
+      "name": "Moo VeloV2 DOLA-MAI",
+      "symbol": "mooVeloV2DOLA-MAI",
+      "logoURI": "https://assets.coingecko.com/coins/images/12704/large/token.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x35B5a3bf31B67F832230da9424824Edc9f7ad98c",
+      "name": "Phemex Token",
+      "symbol": "PT",
+      "logoURI": "",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x366776D0709F7C49ce5ea7cF7eAEF0AB4E746cc9",
+      "name": "Moo VeloV2 OVN-USD+",
+      "symbol": "mooVeloV2_OVN-USD+",
+      "logoURI": "https://assets.coingecko.com/coins/images/12704/large/token.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x36E4c18B2B43CC989085B4a7306915b115058abF",
+      "name": "Velodrome v2 DAI-USDC.e Factory yVault",
+      "symbol": "yvVelo-DAI-USDC.e-f",
+      "logoURI": "https://assets.smold.app/api/token/10/0x36E4c18B2B43CC989085B4a7306915b115058abF/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x373643B17Cd80e37675c8C98eF774efe6ca0b4De",
+      "name": "Optimistic Steady Beets",
+      "symbol": "BPT-STABEET",
+      "logoURI": "https://assets.coingecko.com/coins/images/19158/large/beets-icon-large.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x374Ad0f47F4ca39c78E5Cc54f1C9e426FF8f231A",
+      "name": "Premia",
+      "symbol": "PREMIA",
+      "logoURI": "https://ethereum-optimism.github.io/data/PREMIA/logo.svg",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x375488F097176507e39B9653b88FDc52cDE736Bf",
+      "name": "Tarot",
+      "symbol": "TAROT",
+      "logoURI": "https://assets.smold.app/api/token/10/0x375488F097176507e39B9653b88FDc52cDE736Bf/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x37e7D30CC180A750C83D68ED0C2511dA10694d63",
+      "name": "StableV2 AMM - USD+/LUSD",
+      "symbol": "sAMMV2-USD+/LUSD",
+      "logoURI": "https://assets.smold.app/api/token/10/0x37e7D30CC180A750C83D68ED0C2511dA10694d63/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x390E36102245EAc08E5b3D4527b30B3A645F16d7",
+      "name": "Balancer BPT-OPARA Gauge Deposit",
+      "symbol": "BPT-OPARA-gauge",
+      "logoURI": "https://assets.coingecko.com/coins/images/25942/large/logo.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x39965c9dAb5448482Cf7e002F583c812Ceb53046",
+      "name": "Happy Road",
+      "symbol": "BPT-ROAD",
+      "logoURI": "https://assets.coingecko.com/coins/images/19158/large/beets-icon-large.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x39F60710a27a87332d10E3333c2eFF41EeC911Ee",
+      "name": "Velodrome v2 DOLA-USDC.e Factory yVault",
+      "symbol": "yvVelo-DOLA-USDC.e-f",
+      "logoURI": "https://assets.smold.app/api/token/10/0x39F60710a27a87332d10E3333c2eFF41EeC911Ee/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x3A18dcC9745eDcD1Ef33ecB93b0b6eBA5671e7Ca",
+      "name": "Kujira native asset",
+      "symbol": "KUJI",
+      "logoURI": "https://assets.smold.app/api/token/10/0x3A18dcC9745eDcD1Ef33ecB93b0b6eBA5671e7Ca/logo-128.png",
+      "chainId": 10,
+      "decimals": 6
+    },
+    {
+      "address": "0x3AD9566b15AACDd26d8a220cA8635F925EA7a3f6",
+      "name": "Velodrome v2 OP-USDC.e Factory yVault",
+      "symbol": "yvVelo-OP-USDC.e-f",
+      "logoURI": "https://assets.smold.app/api/token/10/0x3AD9566b15AACDd26d8a220cA8635F925EA7a3f6/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x3B141BD7d6E1d67e2101A08E4dd849a8408d91aa",
+      "name": "Velodrome v2 alUSD-USDC.e Factory yVault",
+      "symbol": "yvVelo-alUSD-USDC.e-f",
+      "logoURI": "https://assets.smold.app/api/token/10/0x3B141BD7d6E1d67e2101A08E4dd849a8408d91aa/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x3B375bA61920551217f5944F4F5d8a63989A438e",
+      "name": "StableV2 AMM - sUSD/LUSD",
+      "symbol": "sAMMV2-sUSD/LUSD",
+      "logoURI": "https://assets.coingecko.com/coins/images/25783/large/velo.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x3B6564b5DA73A41d3A66e6558a98FD0e9E1e77ad",
+      "name": "Unitus",
+      "symbol": "UTS",
+      "logoURI": "https://assets.smold.app/api/token/10/0x3B6564b5DA73A41d3A66e6558a98FD0e9E1e77ad/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x3B9a1C52D25B705eb31dC99E73A1311eF500Eea1",
+      "name": "Curve.fi Factory Plain Pool: sUSD",
+      "symbol": "SNX-f",
+      "logoURI": "https://assets.coingecko.com/coins/images/12124/large/Curve.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x3E29D3A9316dAB217754d13b28646B76607c5f04",
+      "name": "Alchemix ETH",
+      "symbol": "alETH",
+      "logoURI": "https://assets.smold.app/api/token/10/0x3E29D3A9316dAB217754d13b28646B76607c5f04/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x3E5D9D8a63CC8a88748f229999CF59487e90721e",
+      "name": "MetalSwap",
+      "symbol": "XMT",
+      "logoURI": "https://ethereum-optimism.github.io/data/XMT/logo.svg",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x3F16F0301b62015B926c3b559b645a5a0e19d8aA",
+      "name": "Me, MAIself and I",
+      "symbol": "BPT-MAISELF-I",
+      "logoURI": "https://assets.coingecko.com/coins/images/19158/large/beets-icon-large.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x3b08fcd15280e7B5A6e404c4abb87F7C774D1B2e",
+      "name": "OVN",
+      "symbol": "OVN",
+      "logoURI": "https://assets.smold.app/api/token/10/0x3b08fcd15280e7B5A6e404c4abb87F7C774D1B2e/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x3b4DdC7888F752a96290344a1A926E73b80423c0",
+      "name": "Moo Aura OP Gyroscope wstETH-ETH",
+      "symbol": "mooAuraOPGyroscopewstETH-ETH",
+      "logoURI": "https://assets.coingecko.com/coins/images/12704/large/token.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x3dC09DB8E571Da76Dd04E9176afc7fEEe0b89106",
+      "name": "Come Together",
+      "symbol": "BPT-FRAX-MAI",
+      "logoURI": "https://assets.coingecko.com/coins/images/19158/large/beets-icon-large.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x3e7eF8f50246f725885102E8238CBba33F276747",
+      "name": "BarnBridge Governance Token (Optimism)",
+      "symbol": "BOND",
+      "logoURI": "https://assets.smold.app/api/token/10/0x3e7eF8f50246f725885102E8238CBba33F276747/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x3eE6107d9C93955acBb3f39871D32B02F82B78AB",
+      "name": "Staked ERN Vault",
+      "symbol": "stERN",
+      "logoURI": "https://assets.smold.app/api/token/10/0x3eE6107d9C93955acBb3f39871D32B02F82B78AB/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x3f42Dc59DC4dF5cD607163bC620168f7FF7aB970",
+      "name": "StableV2 AMM - WETH/frxETH",
+      "symbol": "sAMMV2-WETH/frxETH",
+      "logoURI": "https://assets.smold.app/api/token/10/0x3f42Dc59DC4dF5cD607163bC620168f7FF7aB970/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x3fb792Fa67cde50A41e20304E4afEf522CF711ee",
+      "name": "Velodrome v2 USDT-USDC.e Factory yVault",
+      "symbol": "yvVelo-USDT-USDC.e-f",
+      "logoURI": "https://assets.smold.app/api/token/10/0x3fb792Fa67cde50A41e20304E4afEf522CF711ee/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x4055c21130112f8CF8f4FaB7a04236DeeE9Fac29",
+      "name": "test_80BEETS-20USDC",
+      "symbol": "80BEETS-20USDC",
+      "logoURI": "https://assets.coingecko.com/coins/images/19158/large/beets-icon-large.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x4200000000000000000000000000000000000042",
+      "name": "Optimism",
+      "symbol": "OP",
+      "logoURI": "https://assets.smold.app/api/token/10/0x4200000000000000000000000000000000000042/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x43360FDd9546e3e77ac2e6793f53219729743293",
+      "name": "Velodrome v2 wUSDR-USDC.e Factory yVault",
+      "symbol": "yvVelo-wUSDR-USDC.e-f",
+      "logoURI": "https://assets.smold.app/api/token/10/0x43360FDd9546e3e77ac2e6793f53219729743293/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x4519c64266c8320A188800558D52cB6D0E1F00cF",
+      "name": "20LINK-20UNI-20AAVE-20SNX-20LDO",
+      "symbol": "20LINK-20UNI-20AAVE-20SNX-20LDO",
+      "logoURI": "https://assets.coingecko.com/coins/images/19158/large/beets-icon-large.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x453f61390ce6DfB668bbF4D93E58c94BB0ae81f3",
+      "name": "Moo VeloV2 DOLA-USDC",
+      "symbol": "mooVeloV2DOLA-USDC",
+      "logoURI": "https://assets.coingecko.com/coins/images/12704/large/token.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x457b69984315b53a1d8130B03b618CD98dD482A1",
+      "name": "Reaper OP",
+      "symbol": "POP",
+      "logoURI": "https://assets.coingecko.com/coins/images/14003/large/PoolTogether.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x45b0a7Dc29B7856A1B5069DB4CfA2A984b69cC41",
+      "name": "Velodrome v2 THALES-WETH Factory yVault",
+      "symbol": "yvVelo-THALES-WETH-f",
+      "logoURI": "https://assets.smold.app/api/token/10/0x45b0a7Dc29B7856A1B5069DB4CfA2A984b69cC41/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x4706e50fDe911525e4B904c240056c4Ea0884AA6",
+      "name": "VolatileV2 AMM - stERN/ERN",
+      "symbol": "vAMMV2-stERN/ERN",
+      "logoURI": "https://assets.smold.app/api/token/10/0x4706e50fDe911525e4B904c240056c4Ea0884AA6/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x47536F17F4fF30e64A96a7555826b8f9e66ec468",
+      "name": "MUMMY",
+      "symbol": "MMY",
+      "logoURI": "https://assets.smold.app/api/token/10/0x47536F17F4fF30e64A96a7555826b8f9e66ec468/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x478980c67d53Cd990F2B7bab311DDC9934324E7B",
+      "name": "All Roads Lead to Frax",
+      "symbol": "bpt-allrdsfrx",
+      "logoURI": "https://assets.coingecko.com/coins/images/19158/large/beets-icon-large.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x484c2D6e3cDd945a8B2DF735e079178C1036578c",
+      "name": "Staked Frax Ether",
+      "symbol": "sfrxETH",
+      "logoURI": "https://assets.smold.app/api/token/10/0x484c2D6e3cDd945a8B2DF735e079178C1036578c/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x499e39b36c2ac771C5020E71DF1A601d422C148d",
+      "name": "Moo Aura OP DOLA/USDCe",
+      "symbol": "mooAuraOPDOLA/USDCe",
+      "logoURI": "https://assets.coingecko.com/coins/images/12704/large/token.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x4C8b1958B09B3bde714f68864Bcc3a74Eaf1A23D",
+      "name": "USDC yVault",
+      "symbol": "yvUSDC",
+      "logoURI": "https://assets.smold.app/api/token/10/0x4C8b1958B09B3bde714f68864Bcc3a74Eaf1A23D/logo-128.png",
+      "chainId": 10,
+      "decimals": 6
+    },
+    {
+      "address": "0x4Dde571Dc66217a062e4B50f9b20c4D08b3245a0",
+      "name": "VMEX-WETH 80/20",
+      "symbol": "VW8020",
+      "logoURI": "https://assets.coingecko.com/coins/images/19158/large/beets-icon-large.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x4E60495550071693bc8bDfFC40033d278157EAC7",
+      "name": "VolatileV2 AMM - SONNE/USDC",
+      "symbol": "vAMMV2-SONNE/USDC",
+      "logoURI": "https://assets.smold.app/api/token/10/0x4E60495550071693bc8bDfFC40033d278157EAC7/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x4F1220f6375e95b43462465972cB2f478Ed34D0b",
+      "name": "Velodrome v2 USD+-DOLA Factory yVault",
+      "symbol": "yvVelo-USD+-DOLA-f",
+      "logoURI": "https://assets.smold.app/api/token/10/0x4F1220f6375e95b43462465972cB2f478Ed34D0b/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x4Fd63966879300caFafBB35D157dC5229278Ed23",
+      "name": "Rocket Fuel",
+      "symbol": "BPT-rETH-ETH",
+      "logoURI": "https://assets.coingecko.com/coins/images/19158/large/beets-icon-large.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x4d7959d17B9710BE87e3657e69d946914221BB88",
+      "name": "StableV2 AMM - USDC/alUSD",
+      "symbol": "sAMMV2-USDC/alUSD",
+      "logoURI": "https://assets.smold.app/api/token/10/0x4d7959d17B9710BE87e3657e69d946914221BB88/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x4e9C59F9b1b13bA7E1Ac4c09B64Df7Fdeff41b03",
+      "name": "Velodrome v2 USX-USDC.e Factory yVault",
+      "symbol": "yvVelo-USX-USDC.e-f",
+      "logoURI": "https://assets.smold.app/api/token/10/0x4e9C59F9b1b13bA7E1Ac4c09B64Df7Fdeff41b03/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x4ed90ca704F4f6f3955169F202EA35365e41B424",
+      "name": "VolatileV2 AMM - USDC/PERP",
+      "symbol": "vAMMV2-USDC/PERP",
+      "logoURI": "https://assets.smold.app/api/token/10/0x4ed90ca704F4f6f3955169F202EA35365e41B424/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x50032bE2b2c7e8A6a6bc241e3aEbef21497A3cF0",
+      "name": "Velodrome v2 ERN-DOLA Factory yVault",
+      "symbol": "yvVelo-ERN-DOLA-f",
+      "logoURI": "https://assets.smold.app/api/token/10/0x50032bE2b2c7e8A6a6bc241e3aEbef21497A3cF0/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x5028497af0c9a54ea8C6D42a054c0341B9fc6168",
+      "name": "Lennon's Long",
+      "symbol": "BPT-LONG",
+      "logoURI": "https://assets.coingecko.com/coins/images/19158/large/beets-icon-large.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x507343bAD3a1ee0B67C3B1712133290DED43980D",
+      "name": "Velodrome v2 LDO-wstETH Factory yVault",
+      "symbol": "yvVelo-LDO-wstETH-f",
+      "logoURI": "https://assets.smold.app/api/token/10/0x507343bAD3a1ee0B67C3B1712133290DED43980D/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x513c7E3a9c69cA3e22550eF58AC1C0088e918FFf",
+      "name": "Aave Optimism OP",
+      "symbol": "aOptOP",
+      "logoURI": "https://assets.coingecko.com/coins/images/12645/large/AAVE.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x52cC5B5CB98C9a7fb8cCe7d4b4e8F41E26ce04a8",
+      "name": "Moo VeloV2 OP-USDC",
+      "symbol": "mooVeloV2OP-USDC",
+      "logoURI": "https://assets.coingecko.com/coins/images/12704/large/token.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x53bFf7a10181E4Fa2a92011dE9816220E0DaDd41",
+      "name": "Balancer bpt-roabee Gauge Deposit",
+      "symbol": "bpt-roabee-gauge",
+      "logoURI": "https://assets.coingecko.com/coins/images/25942/large/logo.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x54214d0C7772eb6f71ED4De294b3f809691005C9",
+      "name": "Moo VeloV2 wstETH-WETH",
+      "symbol": "mooVeloV2wstETH-WETH",
+      "logoURI": "https://assets.coingecko.com/coins/images/12704/large/token.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x5421FA1A48f9FF81e4580557E86C7C0D24C18036",
+      "name": "Mai Stablecoin-LP",
+      "symbol": "S*MAI",
+      "logoURI": "https://assets.coingecko.com/coins/images/24413/large/STG_LOGO.png",
+      "chainId": 10,
+      "decimals": 6
+    },
+    {
+      "address": "0x54DCFE120d608551f9010d3b66620D230fD5c11B",
+      "name": "Curve.fi Factory USD Metapool: SUSD/FRAXBP",
+      "symbol": "SUSDFRAXP3CRV-f",
+      "logoURI": "https://assets.coingecko.com/coins/images/12124/large/Curve.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x5557F4cb8e87A24bAa8a5e80d6c7AB9c8B3C4aa5",
+      "name": "Moo Beets Helter Skelter",
+      "symbol": "mooBalancerHelterSkelter",
+      "logoURI": "https://assets.coingecko.com/coins/images/12704/large/token.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x5569b83de187375d43FBd747598bfe64fC8f6436",
+      "name": "Sonne DAI",
+      "symbol": "soDAI",
+      "logoURI": "https://assets.coingecko.com/coins/images/27540/large/Token1.png",
+      "chainId": 10,
+      "decimals": 8
+    },
+    {
+      "address": "0x5669FB0DCfA758Bf69FB3AdAB14578EDe14cc89A",
+      "name": "Balancer bpt-ethtri Gauge Deposit",
+      "symbol": "bpt-ethtri-gauge",
+      "logoURI": "https://assets.coingecko.com/coins/images/25942/large/logo.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x56770b94279539416855fe29Ef14b26438B5e421",
+      "name": "VolatileV2 AMM - STG/USDC",
+      "symbol": "vAMMV2-STG/USDC",
+      "logoURI": "https://assets.smold.app/api/token/10/0x56770b94279539416855fe29Ef14b26438B5e421/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x56EeF8430dDdF95b2B92c58B21edf1AC7F77E6a6",
+      "name": "Velodrome v2 USD+-USDC.e Factory yVault",
+      "symbol": "yvVelo-USD+-USDC.e-f",
+      "logoURI": "https://assets.smold.app/api/token/10/0x56EeF8430dDdF95b2B92c58B21edf1AC7F77E6a6/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x57d00d036485B5fEE6A58c8763Bdc358906E6D19",
+      "name": "Moo VeloV2 mooBIFI-ETH",
+      "symbol": "mooVeloV2mooBIFI-ETH",
+      "logoURI": "https://assets.coingecko.com/coins/images/12704/large/token.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x58910d5bd045a20A37dE147f8ACEa75B2d881f61",
+      "name": "Gyroscope ECLP USDT/USDC",
+      "symbol": "ECLP-USDT-USDC",
+      "logoURI": "https://assets.coingecko.com/coins/images/19158/large/beets-icon-large.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x58b9cB810A68a7f3e1E4f8Cb45D1B9B3c79705E8",
+      "name": "Connext",
+      "symbol": "NEXT",
+      "logoURI": "https://assets.smold.app/api/token/10/0x58b9cB810A68a7f3e1E4f8Cb45D1B9B3c79705E8/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x58e6433A6903886E440Ddf519eCC573c4046a6b2",
+      "name": "VolatileV2 AMM - WETH/VELO",
+      "symbol": "vAMMV2-WETH/VELO",
+      "logoURI": "https://assets.coingecko.com/coins/images/25783/large/velo.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x5990002594b13e174885ba4D4Ec15B8a8A4485bb",
+      "name": "Moo Curve MIM",
+      "symbol": "mooCurveMIM",
+      "logoURI": "https://assets.coingecko.com/coins/images/12704/large/token.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x59D9356E565Ab3A36dD77763Fc0d87fEaf85508C",
+      "name": "Mountain Protocol USD",
+      "symbol": "USDM",
+      "logoURI": "",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x5A5fFf6F753d7C11A56A52FE47a177a87e431655",
+      "name": "Synapse",
+      "symbol": "SYN",
+      "logoURI": "https://assets.coingecko.com/coins/images/18024/large/syn.png?1635002049",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x5B977577Eb8a480f63e11FC615D6753adB8652Ae",
+      "name": "WETH yVault",
+      "symbol": "yvWETH",
+      "logoURI": "https://assets.smold.app/api/token/10/0x5B977577Eb8a480f63e11FC615D6753adB8652Ae/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x5C03C5eD97dDA6C2aE1B9A4e5b37aF2656B60798",
+      "name": "Prize USDC - Aave",
+      "symbol": "pUSDC",
+      "logoURI": "https://assets.coingecko.com/coins/images/14003/large/PoolTogether.png",
+      "chainId": 10,
+      "decimals": 6
+    },
+    {
+      "address": "0x5DA5e8a46D435D619A12086620Bc77bF7fB043E5",
+      "name": "VolatileV2 AMM - WETH/AELIN",
+      "symbol": "vAMMV2-WETH/AELIN",
+      "logoURI": "https://assets.coingecko.com/coins/images/25783/large/velo.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x5F8893506Ddc4C271837187d14A9C87964a074Dc",
+      "name": "Ethereum Triplets",
+      "symbol": "bpt-ethtri",
+      "logoURI": "https://assets.coingecko.com/coins/images/19158/large/beets-icon-large.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x5be32a688E37A0D924727882B33cfCC56Bd738BC",
+      "name": "Moo VeloV2 UNIDX-ETH V2",
+      "symbol": "mooVeloV2UNIDX-ETHV2",
+      "logoURI": "https://assets.coingecko.com/coins/images/12704/large/token.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x5e4A183Fa83C52B1c55b11f2682f6a8421206633",
+      "name": "StableV2 AMM - USDC/ERN",
+      "symbol": "sAMMV2-USDC/ERN",
+      "logoURI": "https://assets.smold.app/api/token/10/0x5e4A183Fa83C52B1c55b11f2682f6a8421206633/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x5e5A37445FadeB71f23514Ae7d675Ffc644e5E5A",
+      "name": "StableV2 AMM - WETH/sETH",
+      "symbol": "sAMMV2-WETH/sETH",
+      "logoURI": "https://assets.smold.app/api/token/10/0x5e5A37445FadeB71f23514Ae7d675Ffc644e5E5A/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x600e9d1b98FACD709a18dA5a61da96BcDEE608b7",
+      "name": "Moo VeloV2 sETH-ETH",
+      "symbol": "mooVeloV2sETH-ETH",
+      "logoURI": "https://assets.coingecko.com/coins/images/12704/large/token.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x611bB2B496c9381CdcD07458b3cfC734583429f9",
+      "name": "Moo Curve tBTC",
+      "symbol": "mooCurveTBTC",
+      "logoURI": "https://assets.coingecko.com/coins/images/12704/large/token.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x625E7708f30cA75bfd92586e17077590C60eb4cD",
+      "name": "Aave Optimism USDC",
+      "symbol": "aOptUSDC",
+      "logoURI": "https://assets.coingecko.com/coins/images/12645/large/AAVE.png",
+      "chainId": 10,
+      "decimals": 6
+    },
+    {
+      "address": "0x62BB4fc73094c83B5e952C2180B23fA7054954c4",
+      "name": "PoolTogether aOptUSDC Ticket",
+      "symbol": "PTaOptUSDC",
+      "logoURI": "https://assets.coingecko.com/coins/images/14003/large/PoolTogether.png",
+      "chainId": 10,
+      "decimals": 6
+    },
+    {
+      "address": "0x6387765fFA609aB9A1dA1B16C455548Bfed7CbEA",
+      "name": "VolatileV2 AMM - WETH/LUSD",
+      "symbol": "vAMMV2-WETH/LUSD",
+      "logoURI": "https://assets.smold.app/api/token/10/0x6387765fFA609aB9A1dA1B16C455548Bfed7CbEA/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x65343F414FFD6c97b0f6add33d16F6845Ac22BAc",
+      "name": "DAI yVault",
+      "symbol": "yvDAI",
+      "logoURI": "https://assets.smold.app/api/token/10/0x65343F414FFD6c97b0f6add33d16F6845Ac22BAc/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x65F4e00687f4059E4A9bF8E4338dbC9f0292fe2A",
+      "name": "Moo VeloV2 wstETH-OP",
+      "symbol": "mooVeloV2wstETH-OP",
+      "logoURI": "https://assets.coingecko.com/coins/images/12704/large/token.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x6645237fb81fe7227AA2Fa2A244D23A5AC0DA1cd",
+      "name": "Curve.fi Factory USD Metapool: Mai Stablecoin",
+      "symbol": "MAI+3Pool3CRV-f",
+      "logoURI": "https://assets.coingecko.com/coins/images/12124/large/Curve.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x6657BdB994fC8678f6D709077F30aA0B3249b5c8",
+      "name": "Velodrome v2 LYRA-USDC.e Factory yVault",
+      "symbol": "yvVelo-LYRA-USDC.e-f",
+      "logoURI": "https://assets.smold.app/api/token/10/0x6657BdB994fC8678f6D709077F30aA0B3249b5c8/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x667002F9DC61ebcBA8Ee1Cbeb2ad04060388f223",
+      "name": "StableV2 AMM - USD+/DAI+",
+      "symbol": "sAMMV2-USD+/DAI+",
+      "logoURI": "https://assets.smold.app/api/token/10/0x667002F9DC61ebcBA8Ee1Cbeb2ad04060388f223/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x66e8617d1Df7ab523a316a6c01D16Aa5beD93681",
+      "name": "Shack Token",
+      "symbol": "SHACK",
+      "logoURI": "https://assets.coingecko.com/coins/images/25699/large/shack_no_bg_no_pad3.png?1653441433",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x686c125472024bDd3fA74eeb3720B3237541dCDC",
+      "name": "Velodrome v2 KWENTA-WETH Factory yVault",
+      "symbol": "yvVelo-KWENTA-WETH-f",
+      "logoURI": "https://assets.smold.app/api/token/10/0x686c125472024bDd3fA74eeb3720B3237541dCDC/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x68f180fcCe6836688e9084f035309E29Bf0A2095",
+      "name": "Wrapped BTC",
+      "symbol": "WBTC",
+      "logoURI": "https://assets.smold.app/api/token/10/0x68f180fcCe6836688e9084f035309E29Bf0A2095/logo-128.png",
+      "chainId": 10,
+      "decimals": 8
+    },
+    {
+      "address": "0x68f2B1db2DA6204489279a8fC681f83728bB9622",
+      "name": "Velodrome v2 MAI-DOLA Factory yVault",
+      "symbol": "yvVelo-MAI-DOLA-f",
+      "logoURI": "https://assets.smold.app/api/token/10/0x68f2B1db2DA6204489279a8fC681f83728bB9622/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x699Da70F4928033EbC3B929b0Fc022dD348D7846",
+      "name": "Moo VeloV2 sUSD-LUSD",
+      "symbol": "mooVeloV2sUSD-LUSD",
+      "logoURI": "https://assets.coingecko.com/coins/images/12704/large/token.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x6AF3cb766D6cd37449bfD321D961A61B0515c1BC",
+      "name": "Ethereans",
+      "symbol": "OS",
+      "logoURI": "https://assets.smold.app/api/token/10/0x6AF3cb766D6cd37449bfD321D961A61B0515c1BC/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x6B95147a8d2c7f480C0CF7288FCf268400CE9970",
+      "name": "VolatileV2 AMM - HND/USDC",
+      "symbol": "vAMMV2-HND/USDC",
+      "logoURI": "https://assets.coingecko.com/coins/images/25783/large/velo.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x6C8E91f43AAB94Ee43e834517548d1b8aF6dD7CB",
+      "name": "Moo VeloV2 VELO-ETH",
+      "symbol": "mooVeloV2VELO-ETH",
+      "logoURI": "https://assets.coingecko.com/coins/images/12704/large/token.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x6D2E5b8841a6Aa5f0f973436357f75D3Eeb93312",
+      "name": "VMEX Token",
+      "symbol": "VMEX",
+      "logoURI": "https://asset-images.messari.io/images/5bafcd8a-34ee-42d4-9ec5-6148efd105a2/128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x6Ec9d003f0e5184Ee54c1d899B414322a0f0Dc07",
+      "name": "Velodrome v2 wstETH-WETH Factory yVault",
+      "symbol": "yvVelo-wstETH-WETH-f",
+      "logoURI": "https://assets.smold.app/api/token/10/0x6Ec9d003f0e5184Ee54c1d899B414322a0f0Dc07/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x6Ed6Df1C23C51cb7Cc67a348cC8d9E6108EA3BFE",
+      "name": "VolatileV2 AMM - WETH/mooBIFI",
+      "symbol": "vAMMV2-WETH/mooBIFI",
+      "logoURI": "https://assets.coingecko.com/coins/images/25783/large/velo.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x6F0fecBC276de8fC69257065fE47C5a03d986394",
+      "name": "Popcorn",
+      "symbol": "POP",
+      "logoURI": "https://ethereum-optimism.github.io/data/POP/logo.svg",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x6F4f01A02e6037AA98d22405fEA4DCAB98D2a8eE",
+      "name": "Velodrome v2 PERP-USDC.e Factory yVault",
+      "symbol": "yvVelo-PERP-USDC.e-f",
+      "logoURI": "https://assets.smold.app/api/token/10/0x6F4f01A02e6037AA98d22405fEA4DCAB98D2a8eE/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x6F620EC89B8479e97A6985792d0c64F237566746",
+      "name": "WePiggy Coin",
+      "symbol": "WPC",
+      "logoURI": "https://assets.coingecko.com/coins/images/21914/large/WPC200.png?1640262945",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x6Fb45a8183660F30EA1c6cDFDDBFdC7ef7925801",
+      "name": "Moo VeloV2 LUSD-USDT",
+      "symbol": "mooVeloV2LUSD-USDT",
+      "logoURI": "https://assets.coingecko.com/coins/images/12704/large/token.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x6a44B0415a5c440D32E82965FDFAad54a72D477D",
+      "name": "Velodrome v2 sETH-WETH Factory yVault",
+      "symbol": "yvVelo-sETH-WETH-f",
+      "logoURI": "https://assets.smold.app/api/token/10/0x6a44B0415a5c440D32E82965FDFAad54a72D477D/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x6aFA09145245eAeDDdAb9333523af9984494FF34",
+      "name": "Velodrome v2 LUSD-USDC.e Factory yVault",
+      "symbol": "yvVelo-LUSD-USDC.e-f",
+      "logoURI": "https://assets.smold.app/api/token/10/0x6aFA09145245eAeDDdAb9333523af9984494FF34/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x6ab707Aca953eDAeFBc4fD23bA73294241490620",
+      "name": "Aave Optimism USDT",
+      "symbol": "aOptUSDT",
+      "logoURI": "https://assets.coingecko.com/coins/images/12645/large/AAVE.png",
+      "chainId": 10,
+      "decimals": 6
+    },
+    {
+      "address": "0x6c84a8f1c29108F47a79964b5Fe888D4f4D0dE40",
+      "name": "Optimism tBTC v2",
+      "symbol": "tBTC",
+      "logoURI": "https://assets.smold.app/api/token/10/0x6c84a8f1c29108F47a79964b5Fe888D4f4D0dE40/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x6d5BA400640226e24b50214d2bBb3D4Db8e6e15a",
+      "name": "StableV2 AMM - USDC/sUSD",
+      "symbol": "sAMMV2-USDC/sUSD",
+      "logoURI": "https://assets.smold.app/api/token/10/0x6d5BA400640226e24b50214d2bBb3D4Db8e6e15a/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x6d80113e533a2C0fe82EaBD35f1875DcEA89Ea97",
+      "name": "Aave Optimism SUSD",
+      "symbol": "aOptSUSD",
+      "logoURI": "https://assets.coingecko.com/coins/images/12645/large/AAVE.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x6e57B9E54ea043a829584B22182ad22bF446926C",
+      "name": "StableV2 AMM - WBTC/tBTC",
+      "symbol": "sAMMV2-WBTC/tBTC",
+      "logoURI": "https://assets.smold.app/api/token/10/0x6e57B9E54ea043a829584B22182ad22bF446926C/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x6f748FD65d7c71949BA6641B3248C4C191F3b322",
+      "name": "exactly WBTC",
+      "symbol": "exaWBTC",
+      "logoURI": "https://asset-images.messari.io/images/e633b82e-634b-4612-bf0e-0c74c09a4c9c/128.png",
+      "chainId": 10,
+      "decimals": 8
+    },
+    {
+      "address": "0x71117Bcd8FE69177EEb8857538D625209756B745",
+      "name": "Velodrome v2 rETH-WETH Factory yVault",
+      "symbol": "yvVelo-rETH-WETH-f",
+      "logoURI": "https://assets.smold.app/api/token/10/0x71117Bcd8FE69177EEb8857538D625209756B745/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x7178F61694ba9109205B8d6F686282307625e62D",
+      "name": "VolatileV2 AMM - wstETH/OP",
+      "symbol": "vAMMV2-wstETH/OP",
+      "logoURI": "https://assets.smold.app/api/token/10/0x7178F61694ba9109205B8d6F686282307625e62D/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x718A66F21415a5f75F5e8652e8Be55FCF1D1df05",
+      "name": "Moo Hop sUSD",
+      "symbol": "mooHopsUSD",
+      "logoURI": "https://assets.coingecko.com/coins/images/12704/large/token.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x71d53B5B7141E1ec9A3Fc9Cc48b4766102d14A4A",
+      "name": "VolatileV2 AMM - USDC/SNX",
+      "symbol": "vAMMV2-USDC/SNX",
+      "logoURI": "https://assets.smold.app/api/token/10/0x71d53B5B7141E1ec9A3Fc9Cc48b4766102d14A4A/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x724dc807b04555b71ed48a6896b6F41593b8C637",
+      "name": "Aave Optimism rETH",
+      "symbol": "aOptrETH",
+      "logoURI": "https://assets.coingecko.com/coins/images/12645/large/AAVE.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x73cb180bf0521828d8849bc8CF2B920918e23032",
+      "name": "USD+",
+      "symbol": "USD+",
+      "logoURI": "https://assets.smold.app/api/token/10/0x73cb180bf0521828d8849bc8CF2B920918e23032/logo-128.png",
+      "chainId": 10,
+      "decimals": 6
+    },
+    {
+      "address": "0x746c19A336A3131fD85D3AB5F16576b1b047F512",
+      "name": "Moo VeloV2 VELO-USDC",
+      "symbol": "mooVeloV2VELO-USDC",
+      "logoURI": "https://assets.coingecko.com/coins/images/12704/large/token.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x74ccbe53F77b08632ce0CB91D3A545bF6B8E0979",
+      "name": "Fantom Bomb",
+      "symbol": "fBOMB",
+      "logoURI": "https://assets.smold.app/api/token/10/0x74ccbe53F77b08632ce0CB91D3A545bF6B8E0979/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x75C6B245515657Fd69f1645C051A2ba13a8D70c6",
+      "name": "Curve On Optimism",
+      "symbol": "BPT-CRV",
+      "logoURI": "https://assets.coingecko.com/coins/images/19158/large/beets-icon-large.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x76FB31fb4af56892A25e32cFC43De717950c9278",
+      "name": "Aave Token",
+      "symbol": "AAVE",
+      "logoURI": "https://assets.coingecko.com/coins/images/12645/large/AAVE.png?1601374110",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x77935F2c72b5eB814753a05921aE495aa283906B",
+      "name": "Prize USDC - Aave",
+      "symbol": "pUSDC",
+      "logoURI": "https://assets.coingecko.com/coins/images/14003/large/PoolTogether.png",
+      "chainId": 10,
+      "decimals": 6
+    },
+    {
+      "address": "0x785F08fB77ec934c01736E30546f87B4daccBe50",
+      "name": "Galactic Dragon",
+      "symbol": "IBT-IBRETH",
+      "logoURI": "https://assets.coingecko.com/coins/images/19158/large/beets-icon-large.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x78e20312105A85B7fe86dB119CfD5cD8de81FDaA",
+      "name": "Velodrome v2 USD+-DAI+ Factory yVault",
+      "symbol": "yvVelo-USD+-DAI+-f",
+      "logoURI": "https://assets.smold.app/api/token/10/0x78e20312105A85B7fe86dB119CfD5cD8de81FDaA/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x797c35a8032CE0A8dFcA308ac1b2276359cd463b",
+      "name": "Moo VeloV2 FRAX-USDC",
+      "symbol": "mooVeloV2FRAX-USDC",
+      "logoURI": "https://assets.coingecko.com/coins/images/12704/large/token.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x7B50775383d3D6f0215A8F290f2C9e2eEBBEceb2",
+      "name": "Shanghai Shakedown",
+      "symbol": "BPT-WSTETH-WETH",
+      "logoURI": "https://assets.coingecko.com/coins/images/19158/large/beets-icon-large.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x7Bc5728BC2b59B45a58d9A576E2Ffc5f0505B35E",
+      "name": "Curve.fi Factory Pool: sETH/ETH",
+      "symbol": "seth-f",
+      "logoURI": "https://assets.smold.app/api/token/10/0x7Bc5728BC2b59B45a58d9A576E2Ffc5f0505B35E/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x7Ca75bdEa9dEde97F8B13C6641B768650CB83782",
+      "name": "Gyroscope ECLP wstETH/WETH",
+      "symbol": "ECLP-wstETH-WETH",
+      "logoURI": "https://assets.coingecko.com/coins/images/19158/large/beets-icon-large.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x7D2382b1f8Af621229d33464340541Db362B4907",
+      "name": "OP yVault",
+      "symbol": "yvOP",
+      "logoURI": "https://assets.smold.app/api/token/10/0x7D2382b1f8Af621229d33464340541Db362B4907/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x7Da25Bc4cFAed3F29414C6779676e53B19a356f5",
+      "name": "Kokomo Finance",
+      "symbol": "KOKO",
+      "logoURI": "https://assets.coingecko.com/coins/images/29572/large/Logo_%282%29.png?1679738524",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x7Edf16076e56FA4c111055fbA1fF5556b8757cFB",
+      "name": "WBTC yVault",
+      "symbol": "yvWBTC",
+      "logoURI": "https://assets.smold.app/api/token/10/0x7Edf16076e56FA4c111055fbA1fF5556b8757cFB/logo-128.png",
+      "chainId": 10,
+      "decimals": 8
+    },
+    {
+      "address": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "logoURI": "https://assets.smold.app/api/token/10/0x7F5c764cBc14f9669B88837ca1490cCa17c31607/logo-128.png",
+      "chainId": 10,
+      "decimals": 6
+    },
+    {
+      "address": "0x7FB688CCf682d58f86D7e38e03f9D22e7705448B",
+      "name": "Rai Reflex Index",
+      "symbol": "RAI",
+      "logoURI": "https://tokens.1inch.io/0x7fb688ccf682d58f86d7e38e03f9d22e7705448b.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x7aD4f5536D903aea6F973f36e18f5B4610A7583E",
+      "name": "Test pool",
+      "symbol": "TEST-WEIGHTED",
+      "logoURI": "https://assets.coingecko.com/coins/images/19158/large/beets-icon-large.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x7bDEA31F968089f93A548ddec8BB74036E8ac6e0",
+      "name": "Velodrome v2 ERN-LUSD Factory yVault",
+      "symbol": "yvVelo-ERN-LUSD-f",
+      "logoURI": "https://assets.smold.app/api/token/10/0x7bDEA31F968089f93A548ddec8BB74036E8ac6e0/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x7c2967C20B03a8004ea81e86Ac1847D00e7B4CD1",
+      "name": "Moo VeloV2 DAI-USDC",
+      "symbol": "mooVeloV2DAI-USDC",
+      "logoURI": "https://assets.coingecko.com/coins/images/12704/large/token.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x7e0F65FAB1524dA9E2E5711D160541cf1199912E",
+      "name": "VolatileV2 AMM - WETH/rETH",
+      "symbol": "vAMMV2-WETH/rETH",
+      "logoURI": "https://assets.smold.app/api/token/10/0x7e0F65FAB1524dA9E2E5711D160541cf1199912E/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x7e1d451799af57EA5570D1015c342C12a918a30b",
+      "name": "Velodrome v2 alETH-frxETH Factory yVault",
+      "symbol": "yvVelo-alETH-frxETH-f",
+      "logoURI": "https://assets.smold.app/api/token/10/0x7e1d451799af57EA5570D1015c342C12a918a30b/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x7eE71053102d54Fc843BaEBaf07277C2b6dB64f1",
+      "name": "Moo Aave Op ETH",
+      "symbol": "mooAaveOpETH",
+      "logoURI": "https://assets.coingecko.com/coins/images/12704/large/token.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x810D1AaA4Cd8F21c23bB648F2dfb9DC232A01F09",
+      "name": "Curve.fi Factory USD Metapool: MIM",
+      "symbol": "mim3CRV-f",
+      "logoURI": "https://assets.coingecko.com/coins/images/12124/large/Curve.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x8134A2fDC127549480865fB8E5A9E8A8a95a54c5",
+      "name": "VolatileV2 AMM - USDC/VELO",
+      "symbol": "vAMMV2-USDC/VELO",
+      "logoURI": "https://assets.smold.app/api/token/10/0x8134A2fDC127549480865fB8E5A9E8A8a95a54c5/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x81C9A7B55A4df39A9B7B5F781ec0e53539694873",
+      "name": "exactly USDC",
+      "symbol": "exaUSDC",
+      "logoURI": "https://assets.coingecko.com/coins/images/31175/large/ExaUSDC_1.png?1691117494",
+      "chainId": 10,
+      "decimals": 6
+    },
+    {
+      "address": "0x81aB7E0D570b01411fcC4afd3D50eC8C241cb74b",
+      "name": "Equalizer",
+      "symbol": "EQZ",
+      "logoURI": "https://ethereum-optimism.github.io/data/EQZ/logo.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x820802Fa8a99901F52e39acD21177b0BE6EE2974",
+      "name": "EUROe Stablecoin",
+      "symbol": "EUROe",
+      "logoURI": "",
+      "chainId": 10,
+      "decimals": 6
+    },
+    {
+      "address": "0x82E64f49Ed5EC1bC6e43DAD4FC8Af9bb3A2312EE",
+      "name": "Aave Optimism DAI",
+      "symbol": "aOptDAI",
+      "logoURI": "https://assets.coingecko.com/coins/images/12645/large/AAVE.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x82EDb0Cb1Ec84b267A90c8A8f6aCc09aAE8857f9",
+      "name": "Moo VeloV2 wstETH-PENDLE",
+      "symbol": "mooVeloV2wstETHPENDLE",
+      "logoURI": "https://assets.coingecko.com/coins/images/12704/large/token.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x830cB4AabF786b9349d9701dD8ee073215d95174",
+      "name": "Velodrome v2 wstETH-OP Factory yVault",
+      "symbol": "yvVelo-wstETH-OP-f",
+      "logoURI": "https://assets.smold.app/api/token/10/0x830cB4AabF786b9349d9701dD8ee073215d95174/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x8413041a7702603d9d991F2C4ADd29e4e8A241F8",
+      "name": "Route Token",
+      "symbol": "ROUTE",
+      "logoURI": "https://assets.coingecko.com/coins/images/13709/large/route_token_200x200-19.png?1611057698",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x8453cc52F2108fF9D1636B6A108dB06Ac137B72F",
+      "name": "VolatileV2 AMM - USDC/MTA",
+      "symbol": "vAMMV2-USDC/MTA",
+      "logoURI": "https://assets.smold.app/api/token/10/0x8453cc52F2108fF9D1636B6A108dB06Ac137B72F/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x8542DD4744edEa38b8a9306268b08F4D26d38581",
+      "name": "StableV2 AMM - FRAX/USDC",
+      "symbol": "sAMMV2-FRAX/USDC",
+      "logoURI": "https://assets.smold.app/api/token/10/0x8542DD4744edEa38b8a9306268b08F4D26d38581/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x8700dAec35aF8Ff88c16BdF0418774CB3D7599B4",
+      "name": "Synthetix Network Token",
+      "symbol": "SNX",
+      "logoURI": "https://assets.smold.app/api/token/10/0x8700dAec35aF8Ff88c16BdF0418774CB3D7599B4/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x874C01c2d1767EFA01Fa54b2Ac16be96fAd5a742",
+      "name": "Iron Bank Tether USD",
+      "symbol": "iUSDT",
+      "logoURI": "https://assets.coingecko.com/coins/images/22902/large/ironbank.png",
+      "chainId": 10,
+      "decimals": 8
+    },
+    {
+      "address": "0x87b1a4956b51Be39781678677B0dD695a0C70F1E",
+      "name": "Prize OP - Aave - OP",
+      "symbol": "ptOP",
+      "logoURI": "https://assets.coingecko.com/coins/images/14003/large/PoolTogether.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x883feb1B9862e0c8559D26F53bf19264C5E0839F",
+      "name": "Curve.fi aOptDAI/aOptUSDC/aOptUSDT",
+      "symbol": "aOpt3CRV",
+      "logoURI": "https://assets.coingecko.com/coins/images/12124/large/Curve.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x88B429359665B8685b7431f5A0f6e8C719Bf49Aa",
+      "name": "Velodrome v2 VELO-USDC.e Factory yVault",
+      "symbol": "yvVelo-VELO-USDC.e-f",
+      "logoURI": "https://assets.smold.app/api/token/10/0x88B429359665B8685b7431f5A0f6e8C719Bf49Aa/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x88F72d1f49Ea88f86fc52bebB0c1d0Ef232AE483",
+      "name": "Moo VeloV2 sfrxETH-frxETH",
+      "symbol": "mooVeloV2sfrxETH-frxETH",
+      "logoURI": "https://assets.coingecko.com/coins/images/12704/large/token.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x899F737750db562b88c1E412eE1902980D3a4844",
+      "name": "Helter Skelter",
+      "symbol": "BPT-WSTETH-USDC",
+      "logoURI": "https://assets.coingecko.com/coins/images/19158/large/beets-icon-large.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x8A819a4caBD6EfCb4E5504fE8679A1aBD831Dd8f",
+      "name": "BAL Fjord Foundry LBP",
+      "symbol": "BAL_LBP",
+      "logoURI": "https://assets.coingecko.com/coins/images/19158/large/beets-icon-large.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x8B21e9b7dAF2c4325bf3D18c1BeB79A347fE902A",
+      "name": "Collab.Land",
+      "symbol": "COLLAB",
+      "logoURI": "https://assets.smold.app/api/token/10/0x8B21e9b7dAF2c4325bf3D18c1BeB79A347fE902A/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x8Eb270e296023E9D92081fdF967dDd7878724424",
+      "name": "Aave Optimism LUSD",
+      "symbol": "aOptLUSD",
+      "logoURI": "https://assets.coingecko.com/coins/images/12645/large/AAVE.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x8F47041aDbeF5BF321c9F63A0660326614ab6B60",
+      "name": "VolatileV2 AMM - WETH/KWENTA",
+      "symbol": "vAMMV2-WETH/KWENTA",
+      "logoURI": "https://assets.smold.app/api/token/10/0x8F47041aDbeF5BF321c9F63A0660326614ab6B60/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x8F69Ee043d52161Fd29137AeDf63f5e70cd504D5",
+      "name": "The Doge NFT",
+      "symbol": "DOG",
+      "logoURI": "https://assets.coingecko.com/coins/images/18111/large/Doge.png?1630696110",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x8a21Ea69300Fe56ee19fE974e9791a212114573F",
+      "name": "Moo VeloV2 USDC-alUSD",
+      "symbol": "mooVeloV2USDC-alUSD",
+      "logoURI": "https://assets.coingecko.com/coins/images/12704/large/token.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x8aD01c3a425987c508A69149185383BAf6F47534",
+      "name": "Moo VeloV2 USDC-USDT",
+      "symbol": "mooVeloV2USDC-USDT",
+      "logoURI": "https://assets.coingecko.com/coins/images/12704/large/token.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x8c6f28f2F1A3C87F0f938b96d27520d9751ec8d9",
+      "name": "Synth sUSD",
+      "symbol": "sUSD",
+      "logoURI": "https://assets.smold.app/api/token/10/0x8c6f28f2F1A3C87F0f938b96d27520d9751ec8d9/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x8e2cDf8c6477439B7C989e86B917D80871B92339",
+      "name": "Moo Aave Op WBTC",
+      "symbol": "mooAaveOpWBTC",
+      "logoURI": "https://assets.coingecko.com/coins/images/12704/large/token.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x8e829cFC629fcb61c1508a54D232aF4612E48cC9",
+      "name": "Moo Beets Happy Road",
+      "symbol": "mooBeetHappyRoad",
+      "logoURI": "https://assets.coingecko.com/coins/images/12704/large/token.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x8e8D635E28BB8774FD23107cC1D9b6D30AD5D0B9",
+      "name": "Velodrome v2 IB-WETH Factory yVault",
+      "symbol": "yvVelo-IB-WETH-f",
+      "logoURI": "https://assets.smold.app/api/token/10/0x8e8D635E28BB8774FD23107cC1D9b6D30AD5D0B9/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x9046D36440290FfDE54FE0DD84Db8b1CfEE9107B",
+      "name": "yearn.finance",
+      "symbol": "YFI",
+      "logoURI": "https://assets.smold.app/api/token/10/0x9046D36440290FfDE54FE0DD84Db8b1CfEE9107B/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x9056b19Fde674B5Ad8397e7Ed3E25a1BCCEf0C27",
+      "name": "Velodrome v2 alUSD-FRAX Factory yVault",
+      "symbol": "yvVelo-alUSD-FRAX-f",
+      "logoURI": "https://assets.smold.app/api/token/10/0x9056b19Fde674B5Ad8397e7Ed3E25a1BCCEf0C27/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x906122aC1b55B71248ABFA552fDc6ABd3356884A",
+      "name": "Velodrome v2 MTA-USDC.e Factory yVault",
+      "symbol": "yvVelo-MTA-USDC.e-f",
+      "logoURI": "https://assets.smold.app/api/token/10/0x906122aC1b55B71248ABFA552fDc6ABd3356884A/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x920ABfa9d1c99BE993e5399634C6D5e1bE55A3f4",
+      "name": "Moo Aave Op USDC",
+      "symbol": "mooAaveOpUSDC",
+      "logoURI": "https://assets.coingecko.com/coins/images/12704/large/token.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x920Cf626a271321C151D027030D5d08aF699456b",
+      "name": "Kwenta",
+      "symbol": "KWENTA",
+      "logoURI": "https://assets.smold.app/api/token/10/0x920Cf626a271321C151D027030D5d08aF699456b/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x9236cd1Cb2df141E842F825B95f51742CC930814",
+      "name": "Moo Aura OP Ethereum Triplets",
+      "symbol": "mooAuraOPEthereumTriplets",
+      "logoURI": "https://assets.coingecko.com/coins/images/12704/large/token.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x92651E1bBfE0f8423119AfC4B0610C747Fa125a1",
+      "name": "Moo Curve f-sETH",
+      "symbol": "mooCurveFsETH",
+      "logoURI": "https://assets.coingecko.com/coins/images/12704/large/token.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x9269F5199B01B7B7Dd38321B85c3F34EE3f28F7F",
+      "name": "VolatileV2 AMM - UNIDX/WETH",
+      "symbol": "vAMMV2-UNIDX/WETH",
+      "logoURI": "https://assets.coingecko.com/coins/images/25783/large/velo.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x929B939f8524c3Be977af57A4A0aD3fb1E374b50",
+      "name": "Meta",
+      "symbol": "MTA",
+      "logoURI": "https://assets.smold.app/api/token/10/0x929B939f8524c3Be977af57A4A0aD3fb1E374b50/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x92F714Ae8C2150b7a7a75c6C97656BD4B348ca9E",
+      "name": "Balancer BPT-ROAD Gauge Deposit",
+      "symbol": "BPT-ROAD-gauge",
+      "logoURI": "https://assets.coingecko.com/coins/images/25942/large/logo.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x935A64d0825D86c1ca57Fe8f270e635AC1a0878A",
+      "name": "Moo VeloV2 wstETH-LDO",
+      "symbol": "mooVeloV2wstETH-LDO",
+      "logoURI": "https://assets.coingecko.com/coins/images/12704/large/token.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x94025780a1aB58868D9B2dBBB775f44b32e8E6e5",
+      "name": "BetSwirl v2",
+      "symbol": "BETS",
+      "logoURI": "https://assets.coingecko.com/coins/images/26618/large/icon_200.png?1659073275",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x950f384f566b82CCA6380f75AE42E2BBE9B357B2",
+      "name": "Velodrome v2 MIM-USDC.e Factory yVault",
+      "symbol": "yvVelo-MIM-USDC.e-f",
+      "logoURI": "https://assets.smold.app/api/token/10/0x950f384f566b82CCA6380f75AE42E2BBE9B357B2/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x95a05D06Decf8e1Eb93aE09B612FbD342F2F9E2E",
+      "name": "VolatileV2 AMM - USDC/wUSDR",
+      "symbol": "vAMMV2-USDC/wUSDR",
+      "logoURI": "https://assets.smold.app/api/token/10/0x95a05D06Decf8e1Eb93aE09B612FbD342F2F9E2E/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x96D17e1301b31556e5e263389583A9331e6749E9",
+      "name": "Rilla",
+      "symbol": "RILLA",
+      "logoURI": "https://assets.coingecko.com/coins/images/29193/large/output-onlinepngtools.png?1677301164",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x970D50d09F3a656b43E11B0D45241a84e3a6e011",
+      "name": "DAI+",
+      "symbol": "DAI+",
+      "logoURI": "https://assets.smold.app/api/token/10/0x970D50d09F3a656b43E11B0D45241a84e3a6e011/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x972F747285c2f32699CEFFEbdcF2Ae74F4b58D0c",
+      "name": "Moo VeloV2 LUSD-USDC",
+      "symbol": "mooVeloV2LUSD-USDC",
+      "logoURI": "https://assets.coingecko.com/coins/images/12704/large/token.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x9A601C5bb360811d96A23689066af316a30c3027",
+      "name": "Pika",
+      "symbol": "PIKA",
+      "logoURI": "https://assets.coingecko.com/coins/images/30279/large/Pika_protocol.png?1683796032",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x9B280aD674d35008482F94a673f8017B961C29F6",
+      "name": "Moo VeloV2 KWENTA-ETH",
+      "symbol": "mooVeloV2KWENTA-ETH",
+      "logoURI": "https://assets.coingecko.com/coins/images/12704/large/token.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x9Bcef72be871e61ED4fBbc7630889beE758eb81D",
+      "name": "Rocket Pool ETH",
+      "symbol": "rETH",
+      "logoURI": "https://assets.smold.app/api/token/10/0x9Bcef72be871e61ED4fBbc7630889beE758eb81D/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x9C9e5fD8bbc25984B178FdCE6117Defa39d2db39",
+      "name": "BUSD Token",
+      "symbol": "BUSD",
+      "logoURI": "https://assets.smold.app/api/token/10/0x9C9e5fD8bbc25984B178FdCE6117Defa39d2db39/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x9Da11Ff60bfc5aF527f58fd61679c3AC98d040d9",
+      "name": "Native Stable Beets",
+      "symbol": "bpt-stablebeets",
+      "logoURI": "https://assets.coingecko.com/coins/images/19158/large/beets-icon-large.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x9E724b3f65b509326A4F5Ec90D4689BeE6b6C78e",
+      "name": "Velodrome v2 ERN-USDC.e Factory yVault",
+      "symbol": "yvVelo-ERN-USDC.e-f",
+      "logoURI": "https://assets.smold.app/api/token/10/0x9E724b3f65b509326A4F5Ec90D4689BeE6b6C78e/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x9F9f8d58496691D541C40dbc2b1b20f8C43e8d8C",
+      "name": "Balancer ECLP-wstETH-WETH Gauge Deposit",
+      "symbol": "ECLP-wstETH-WETH-gauge",
+      "logoURI": "https://assets.coingecko.com/coins/images/25942/large/logo.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x9b88D293b7a791E40d36A39765FFd5A1B9b5c349",
+      "name": "Celo native asset",
+      "symbol": "CELO",
+      "logoURI": "https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/celo_wh.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x9cfB13E6c11054ac9fcB92BA89644F30775436e4",
+      "name": "Axelar Wrapped wstETH",
+      "symbol": "axl-wstETH",
+      "logoURI": "https://assets.coingecko.com/coins/images/32223/large/steth-wei_D_3x.png?1696926841",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x9e1028F5F1D5eDE59748FFceE5532509976840E0",
+      "name": "Perpetual",
+      "symbol": "PERP",
+      "logoURI": "https://assets.smold.app/api/token/10/0x9e1028F5F1D5eDE59748FFceE5532509976840E0/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x9ed7E4B1BFF939ad473dA5E7a218C771D1569456",
+      "name": "Reunit Token",
+      "symbol": "REUNI",
+      "logoURI": "https://assets.coingecko.com/coins/images/29492/large/reunit_200.png?1679280627",
+      "chainId": 10,
+      "decimals": 6
+    },
+    {
+      "address": "0xA30992B40a0cb4B2Da081ddBd843f9CcE25c2fe3",
+      "name": "Balancer BPT-WSTETH-WETH Gauge Deposit",
+      "symbol": "BPT-WSTETH-WETH-gauge",
+      "logoURI": "https://assets.coingecko.com/coins/images/25942/large/logo.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xA628c54C850ff1077b5C954491D19EccE7e321fF",
+      "name": "WETH yVault",
+      "symbol": "yvWETH",
+      "logoURI": "https://assets.smold.app/api/token/10/0xA628c54C850ff1077b5C954491D19EccE7e321fF/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xA71021492a3966EeC735Ed1B505aFa097c7cFe6f",
+      "name": "Fraximalist Ethereum",
+      "symbol": "bpt-fraxethe",
+      "logoURI": "https://assets.coingecko.com/coins/images/19158/large/beets-icon-large.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xACfE9b4782910A853b68abbA60f3FD8049Ffe638",
+      "name": "Sonata for Two: DOLA \u0026 USDC",
+      "symbol": "bpt-dolausdc",
+      "logoURI": "https://assets.coingecko.com/coins/images/19158/large/beets-icon-large.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xAF9fE3B5cCDAe78188B1F8b9a49Da7ae9510F151",
+      "name": "dHEDGE DAO Token",
+      "symbol": "DHT",
+      "logoURI": "https://assets.smold.app/api/token/10/0xAF9fE3B5cCDAe78188B1F8b9a49Da7ae9510F151/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xAFdf91f120DEC93c65fd63DBD5ec372e5dcA5f82",
+      "name": "Sonne Liquity USD",
+      "symbol": "soLUSD",
+      "logoURI": "https://assets.coingecko.com/coins/images/27540/large/Token1.png",
+      "chainId": 10,
+      "decimals": 8
+    },
+    {
+      "address": "0xB0B195aEFA3650A6908f15CdaC7D92F8a5791B0B",
+      "name": "BOB",
+      "symbol": "BOB",
+      "logoURI": "https://assets.smold.app/api/token/10/0xB0B195aEFA3650A6908f15CdaC7D92F8a5791B0B/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xB0F2C34b9CD5C377C5EfbBA3B31E67114810Cbc8",
+      "name": "optimism Test StablePhantom Pool",
+      "symbol": "PTSPP",
+      "logoURI": "https://assets.coingecko.com/coins/images/19158/large/beets-icon-large.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xB0ae108669CEB86E9E98e8fE9e40d98b867855fD",
+      "name": "OneRing",
+      "symbol": "RING",
+      "logoURI": "https://assets.smold.app/api/token/10/0xB0ae108669CEB86E9E98e8fE9e40d98b867855fD/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xB153FB3d196A8eB25522705560ac152eeEc57901",
+      "name": "Magic Internet Money",
+      "symbol": "MIM",
+      "logoURI": "https://assets.smold.app/api/token/10/0xB153FB3d196A8eB25522705560ac152eeEc57901/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xB25EA095997F5bBaa6cEa962c4fBf3bfc3C09776",
+      "name": "Promethios",
+      "symbol": "FIRE",
+      "logoURI": "https://assets.smold.app/api/token/10/0xB25EA095997F5bBaa6cEa962c4fBf3bfc3C09776/logo-128.png",
+      "chainId": 10,
+      "decimals": 9
+    },
+    {
+      "address": "0xB2791477DA69DDe9cd2986349F8855B8E2dA7245",
+      "name": "StableV2 AMM - USDC/MIM",
+      "symbol": "sAMMV2-USDC/MIM",
+      "logoURI": "https://assets.smold.app/api/token/10/0xB2791477DA69DDe9cd2986349F8855B8E2dA7245/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xB3532518DACA20Fd14e539B0eD6C0De5C59Fd2DE",
+      "name": "Velodrome v2 frxETH-WETH Factory yVault",
+      "symbol": "yvVelo-frxETH-WETH-f",
+      "logoURI": "https://assets.smold.app/api/token/10/0xB3532518DACA20Fd14e539B0eD6C0De5C59Fd2DE/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xB52b8cfbCf5c177feB99870D3E2dD02933553933",
+      "name": "VolatileV2 AMM - JRT/WETH",
+      "symbol": "vAMMV2-JRT/WETH",
+      "logoURI": "https://assets.coingecko.com/coins/images/25783/large/velo.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xB545592E38b603F4A904a5260A6ffC538BfcB424",
+      "name": "VolatileV2 AMM - IB/WETH",
+      "symbol": "vAMMV2-IB/WETH",
+      "logoURI": "https://assets.smold.app/api/token/10/0xB545592E38b603F4A904a5260A6ffC538BfcB424/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xB8Ce10759feb3B63B75557f5f9933bD22127f0eC",
+      "name": "Moo Hop ETH",
+      "symbol": "mooHopETH",
+      "logoURI": "https://assets.smold.app/not-found.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xB962150760F9A3bB00e3E9Cf48297EE20AdA4A33",
+      "name": "xZoomerCoin",
+      "symbol": "xZOOMER",
+      "logoURI": "",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xBC80540BB282E7724BE7f1e0B92b4Ea51340dDBf",
+      "name": "20wstETH-25LINK-25OP-20WBTC-10LDO",
+      "symbol": "20wstETH-25LINK-25OP-20WBTC-10LDO",
+      "logoURI": "https://assets.coingecko.com/coins/images/19158/large/beets-icon-large.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xBD08972Cef7C9a5A046C9Ef13C9c3CE13739B8d6",
+      "name": "Hop sUSD LP Token",
+      "symbol": "HOP-LP-sUSD",
+      "logoURI": "https://assets.coingecko.com/coins/images/25445/large/hop.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xBad8de88FEBc2d9364254e108Fe5a547A7b6B4C0",
+      "name": "Lido Test",
+      "symbol": "BPT-LIDOTES",
+      "logoURI": "https://assets.coingecko.com/coins/images/19158/large/beets-icon-large.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xBe0eB1af5d47b118fC24987EA85a20dFa3a98303",
+      "name": "Moo Exactly Supply OP",
+      "symbol": "mooExactlySupplyOP",
+      "logoURI": "https://assets.coingecko.com/coins/images/12704/large/token.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xC03b43d492d904406db2d7D57e67C7e8234bA752",
+      "name": "Wrapped USDR",
+      "symbol": "wUSDR",
+      "logoURI": "https://assets.smold.app/api/token/10/0xC03b43d492d904406db2d7D57e67C7e8234bA752/logo-128.png",
+      "chainId": 10,
+      "decimals": 9
+    },
+    {
+      "address": "0xC19055C2FF199Ba6190505Ef776573c8B7cC676A",
+      "name": "Balancer bpt-ankrgalaharm Gauge Deposit",
+      "symbol": "bpt-ankrgalaharm-gauge",
+      "logoURI": "https://assets.coingecko.com/coins/images/25942/large/logo.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xC26921B5b9ee80773774d36C84328ccb22c3a819",
+      "name": "Wrapped OptiDoge",
+      "symbol": "wOptiDoge",
+      "logoURI": "https://assets.smold.app/api/token/10/0xC26921B5b9ee80773774d36C84328ccb22c3a819/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xC27D9BC194a648fE3069955a5126699C4e49351C",
+      "name": "Alongside Crypto Market Index",
+      "symbol": "AMKT",
+      "logoURI": "https://ethereum-optimism.github.io/data/AMKT/logo.svg",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xC328D83883F5F90E1108D4Dd7A18FFcA17Ae74d7",
+      "name": "sUSD yVault",
+      "symbol": "yvsUSD",
+      "logoURI": "https://assets.smold.app/api/token/10/0xC328D83883F5F90E1108D4Dd7A18FFcA17Ae74d7/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xC3566662862c26FF56e3E709dc021902cC68BecD",
+      "name": "Velodrome v2 TAROT-USDC.e Factory yVault",
+      "symbol": "yvVelo-TAROT-USDC.e-f",
+      "logoURI": "https://assets.smold.app/api/token/10/0xC3566662862c26FF56e3E709dc021902cC68BecD/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xC51e661EEf8d5F130Dc1bdD5Be28c1DBcE930D20",
+      "name": "Moo Aura OP USDC/USDCe/USDT/DAI",
+      "symbol": "mooAuraOPUSDC/USDCe/USDT/DAI",
+      "logoURI": "https://assets.coingecko.com/coins/images/12704/large/token.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xC5c247580A4A6E4d3811c0DA6215057aaC480bAc",
+      "name": "VolatileV2 AMM - wstETH/LDO",
+      "symbol": "vAMMV2-wstETH/LDO",
+      "logoURI": "https://assets.smold.app/api/token/10/0xC5c247580A4A6E4d3811c0DA6215057aaC480bAc/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xC86B70e2C16C5fB5315e4663737E0E077ABFC395",
+      "name": "Velodrome v2 OP-VELO Factory yVault",
+      "symbol": "yvVelo-OP-VELO-f",
+      "logoURI": "https://assets.smold.app/api/token/10/0xC86B70e2C16C5fB5315e4663737E0E077ABFC395/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xCB8FA9a76b8e203D8C3797bF438d8FB81Ea3326A",
+      "name": "Alchemix USD",
+      "symbol": "alUSD",
+      "logoURI": "https://assets.smold.app/api/token/10/0xCB8FA9a76b8e203D8C3797bF438d8FB81Ea3326A/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xCCcEBC4551FF20acA4e0356DAD8875806CE8df10",
+      "name": "Moo Beets Lennons Long",
+      "symbol": "mooBeetLennonsLong",
+      "logoURI": "https://assets.coingecko.com/coins/images/12704/large/token.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xCF6beF33c49824226fB9dEFCdc3b1DE11F207Db7",
+      "name": "Velodrome v2 FRAX-USDC.e Factory yVault",
+      "symbol": "yvVelo-FRAX-USDC.e-f",
+      "logoURI": "https://assets.smold.app/api/token/10/0xCF6beF33c49824226fB9dEFCdc3b1DE11F207Db7/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xCc2E1CB5d8DeA77F08D19f875F381f34f997d96c",
+      "name": "Balancer bpt-stablebeets Gauge Deposit",
+      "symbol": "bpt-stablebeets-gauge",
+      "logoURI": "https://assets.coingecko.com/coins/images/25942/large/logo.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xCe6A02C3456f2518D5F02002ecEFFFDc4539247f",
+      "name": "Moo VeloV2 WETH-HOP",
+      "symbol": "mooVeloV2WETH-HOP",
+      "logoURI": "https://assets.coingecko.com/coins/images/12704/large/token.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xCe8293f586091d48A0cE761bBf85D5bCAa1B8d2b",
+      "name": "Prize DAI - Aave",
+      "symbol": "pDAI",
+      "logoURI": "https://assets.coingecko.com/coins/images/14003/large/PoolTogether.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xD019FD6267F93ebE5A92DEBB760135a4F02a75F7",
+      "name": "Moo Hop USDT",
+      "symbol": "mooHopUSDT",
+      "logoURI": "https://assets.smold.app/not-found.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xD02Ce9E211279ab3f414ff7A661518f9173780CB",
+      "name": "Velodrome v2 MAI-alUSD Factory yVault",
+      "symbol": "yvVelo-MAI-alUSD-f",
+      "logoURI": "https://assets.smold.app/api/token/10/0xD02Ce9E211279ab3f414ff7A661518f9173780CB/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xD09B5a0650d68Aae6B1666eE5E770a383d29A97C",
+      "name": "Moo VeloV2 STG-USDC",
+      "symbol": "mooVeloV2STG-USDC",
+      "logoURI": "https://assets.coingecko.com/coins/images/12704/large/token.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xD13D81aF624956327A24d0275CBe54b0eE0E9070",
+      "name": "Bonded OATH Token",
+      "symbol": "80OATHv2-20WETH",
+      "logoURI": "https://assets.coingecko.com/coins/images/19158/large/beets-icon-large.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xD330841EF9527E3Bd0abc28a230C7cA8dec9423B",
+      "name": "StableV2 AMM - FRAX/USD+",
+      "symbol": "sAMMV2-FRAX/USD+",
+      "logoURI": "https://assets.smold.app/api/token/10/0xD330841EF9527E3Bd0abc28a230C7cA8dec9423B/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xD5bc7210867B2D4152E38e69A6cd41b7b917833f",
+      "name": "Moo VeloV2 WETH-rETH",
+      "symbol": "mooVeloV2WETH-rETH",
+      "logoURI": "https://assets.coingecko.com/coins/images/12704/large/token.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xD7dAabd899D1fAbbC3A9ac162568939CEc0393Cc",
+      "name": "Sonne Synthetix Network Token",
+      "symbol": "soSNX",
+      "logoURI": "https://assets.coingecko.com/coins/images/27540/large/Token1.png",
+      "chainId": 10,
+      "decimals": 8
+    },
+    {
+      "address": "0xD9C57025b3da04e5Bd078C22B69222E92dDb62f6",
+      "name": "Bear Market Pool",
+      "symbol": "BPT-STABLE",
+      "logoURI": "https://assets.coingecko.com/coins/images/19158/large/beets-icon-large.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
+      "name": "Dai Stablecoin",
+      "symbol": "DAI",
+      "logoURI": "https://assets.smold.app/api/token/10/0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xDB61f9B480f0a8B817811cFAA89A1c219c355224",
+      "name": "VolatileV2 AMM - LYRA/USDC",
+      "symbol": "vAMMV2-LYRA/USDC",
+      "logoURI": "https://assets.smold.app/api/token/10/0xDB61f9B480f0a8B817811cFAA89A1c219c355224/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xDCd803c0Ad8778662C0A53b4dAED81aB9EF06834",
+      "name": "Test Pool 2",
+      "symbol": "BPT-TEST2",
+      "logoURI": "https://assets.coingecko.com/coins/images/19158/large/beets-icon-large.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xDFF90E4A6c229565f25337B1DB9fA12f6d8cB118",
+      "name": "VolatileV2 AMM - THALES/WETH",
+      "symbol": "vAMMV2-THALES/WETH",
+      "logoURI": "https://assets.smold.app/api/token/10/0xDFF90E4A6c229565f25337B1DB9fA12f6d8cB118/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xDc125D09891C5b6b66061e3170E9A1E1c5cF9bE4",
+      "name": "Galactic Dragon Act II",
+      "symbol": "BPT-IB-RETH",
+      "logoURI": "https://assets.coingecko.com/coins/images/19158/large/beets-icon-large.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xDdDCAeE873f2D9Df0E18a80709ef2B396d4a6EA5",
+      "name": "Velodrome v2 OP-WETH Factory yVault",
+      "symbol": "yvVelo-OP-WETH-f",
+      "logoURI": "https://assets.smold.app/api/token/10/0xDdDCAeE873f2D9Df0E18a80709ef2B396d4a6EA5/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xE2f035f59De6a952FF699b4EDD0f99c466f25fEc",
+      "name": "Moo Hop USDC",
+      "symbol": "mooHopUSDC",
+      "logoURI": "https://assets.smold.app/not-found.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xE3B3a464ee575E8E25D2508918383b89c832f275",
+      "name": "Prize USDC.e - Aave",
+      "symbol": "pUSDC.e",
+      "logoURI": "https://assets.coingecko.com/coins/images/32455/large/prizeUSDCIcon_200.png?1698241065",
+      "chainId": 10,
+      "decimals": 6
+    },
+    {
+      "address": "0xE405de8F52ba7559f9df3C368500B6E6ae6Cee49",
+      "name": "Synth sETH",
+      "symbol": "sETH",
+      "logoURI": "https://assets.smold.app/api/token/10/0xE405de8F52ba7559f9df3C368500B6E6ae6Cee49/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xE4d8701C69b3B94A620ff048e4226C895b67b2c0",
+      "name": "Minerva",
+      "symbol": "MINE",
+      "logoURI": "https://assets.smold.app/api/token/10/0xE4d8701C69b3B94A620ff048e4226C895b67b2c0/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xE54e4020d1C3afDB312095D90054103E68fe34B0",
+      "name": "StableV2 AMM - USDC/MAI",
+      "symbol": "sAMMV2-USDC/MAI",
+      "logoURI": "https://assets.smold.app/api/token/10/0xE54e4020d1C3afDB312095D90054103E68fe34B0/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xE7De932d50EfC9ea0a7a409Fc015B4f71443528e",
+      "name": "Sonne miMatic",
+      "symbol": "soMAI",
+      "logoURI": "https://assets.coingecko.com/coins/images/27540/large/Token1.png",
+      "chainId": 10,
+      "decimals": 8
+    },
+    {
+      "address": "0xE7db4eA58560D4678DF204165D1f50d18185BC89",
+      "name": "Moo Exactly Supply USDC",
+      "symbol": "mooExactlySupplyUSDC",
+      "logoURI": "https://assets.coingecko.com/coins/images/12704/large/token.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xEB466342C4d449BC9f53A865D5Cb90586f405215",
+      "name": "Axelar Wrapped USDC",
+      "symbol": "axlUSDC",
+      "logoURI": "https://assets.smold.app/api/token/10/0xEB466342C4d449BC9f53A865D5Cb90586f405215/logo-128.png",
+      "chainId": 10,
+      "decimals": 6
+    },
+    {
+      "address": "0xEc6adef5E1006bb305bB1975333e8fc4071295bf",
+      "name": "Cartesi Token",
+      "symbol": "CTSI",
+      "logoURI": "https://assets.coingecko.com/coins/images/11038/large/cartesi.png?1592288021",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xEcF46257ed31c329F204Eb43E254C609dee143B3",
+      "name": "Rigo Token",
+      "symbol": "GRG",
+      "logoURI": "https://ethereum-optimism.github.io/data/GRG/logo.svg",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xEea82dCab12C855E3736558d80500ED52c8598cd",
+      "name": "StableV2 AMM - DOLA/ERN",
+      "symbol": "sAMMV2-DOLA/ERN",
+      "logoURI": "https://assets.smold.app/api/token/10/0xEea82dCab12C855E3736558d80500ED52c8598cd/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xEfDE221f306152971D8e9f181bFe998447975810",
+      "name": "Curve.fi ETH/wstETH",
+      "symbol": "wstETHCRV",
+      "logoURI": "https://assets.coingecko.com/coins/images/12124/large/Curve.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xF1a0DA3367BC7aa04F8D94BA57B862ff37CeD174",
+      "name": "ShapeShift FOX",
+      "symbol": "FOX",
+      "logoURI": "https://assets.smold.app/api/token/10/0xF1a0DA3367BC7aa04F8D94BA57B862ff37CeD174/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xF27D53f21d024643d50de50183932F17638229F6",
+      "name": "Balancer BPT-rETH-ETH Gauge Deposit",
+      "symbol": "BPT-rETH-ETH-gauge",
+      "logoURI": "https://assets.coingecko.com/coins/images/25942/large/logo.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xF2D42c46528116362Aca448837A0236459B53C63",
+      "name": "VolatileV2 AMM - TAROT/OP",
+      "symbol": "vAMMV2-TAROT/OP",
+      "logoURI": "https://assets.smold.app/api/token/10/0xF2D42c46528116362Aca448837A0236459B53C63/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xF31cbe21Bbbb8056b75d6ca21e8fFd2CD38bD5C5",
+      "name": "StableV2 AMM - LUSD/ERN",
+      "symbol": "sAMMV2-LUSD/ERN",
+      "logoURI": "https://assets.smold.app/api/token/10/0xF31cbe21Bbbb8056b75d6ca21e8fFd2CD38bD5C5/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xF753A50fc755c6622BBCAa0f59F0522f264F006e",
+      "name": "Hop USDT LP Token",
+      "symbol": "HOP-LP-USDT",
+      "logoURI": "https://assets.smold.app/not-found.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xF89FdBBCE1A707061e9d59B8E4387f89798B4d10",
+      "name": "Velodrome v2 USDC.e-WETH Factory yVault",
+      "symbol": "yvVelo-USDC.e-WETH-f",
+      "logoURI": "https://assets.smold.app/api/token/10/0xF89FdBBCE1A707061e9d59B8E4387f89798B4d10/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xF95e138d13df1125F0D6F6826F94EFdb67EA54aa",
+      "name": "Moo VeloV2 UNIDX-DAI V2",
+      "symbol": "mooVeloV2UNIDX-DAIV2",
+      "logoURI": "https://assets.coingecko.com/coins/images/12704/large/token.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xF98dCd95217E15E05d8638da4c91125E59590B07",
+      "name": "Kromatika",
+      "symbol": "KROM",
+      "logoURI": "https://tokens.1inch.io/0xf98dcd95217e15e05d8638da4c91125e59590b07.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xFA436399d0458Dbe8aB890c3441256E3E09022a8",
+      "name": "Zip Token",
+      "symbol": "ZIP",
+      "logoURI": "https://assets.coingecko.com/coins/images/22910/large/zip.png?1642949795",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xFA6abeFC9B4082bE205c1Aa18DdaD7f747bDC81F",
+      "name": "Moo VeloV2 HND-USDC",
+      "symbol": "mooVeloV2HND-USDC",
+      "logoURI": "https://assets.coingecko.com/coins/images/12704/large/token.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xFE8B128bA8C78aabC59d4c64cEE7fF28e9379921",
+      "name": "Balancer",
+      "symbol": "BAL",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xba100000625a3754423978a60c9317c58a424e3D/logo.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xFF5318f81Dd791e92d51b8A54fA3538832D2890D",
+      "name": "StableV2 AMM - sfrxETH/frxETH",
+      "symbol": "sAMMV2-sfrxETH/frxETH",
+      "logoURI": "https://assets.smold.app/api/token/10/0xFF5318f81Dd791e92d51b8A54fA3538832D2890D/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xFaee21D0f0Af88EE72BB6d68E54a90E6EC2616de",
+      "name": "USDT yVault",
+      "symbol": "yvUSDT",
+      "logoURI": "https://assets.smold.app/api/token/10/0xFaee21D0f0Af88EE72BB6d68E54a90E6EC2616de/logo-128.png",
+      "chainId": 10,
+      "decimals": 6
+    },
+    {
+      "address": "0xFc233aD094C8c9C245BDEA891DfEe2d7F9e632c4",
+      "name": "VolatileV2 AMM - UNIDX/DAI",
+      "symbol": "vAMMV2-UNIDX/DAI",
+      "logoURI": "https://assets.coingecko.com/coins/images/25783/large/velo.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xFf733b2A3557a7ed6697007ab5D11B79FdD1b76B",
+      "name": "Across Protocol Token",
+      "symbol": "ACX",
+      "logoURI": "https://assets.smold.app/api/token/10/0xFf733b2A3557a7ed6697007ab5D11B79FdD1b76B/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xa00E3A3511aAC35cA78530c85007AFCd31753819",
+      "name": "Kyber Network Crystal v2",
+      "symbol": "KNC",
+      "logoURI": "https://assets.smold.app/api/token/10/0xa00E3A3511aAC35cA78530c85007AFCd31753819/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xa1055762336F92b4B8d2eDC032A0Ce45ead6280a",
+      "name": "StableV2 AMM - alETH/WETH",
+      "symbol": "sAMMV2-alETH/WETH",
+      "logoURI": "https://assets.smold.app/api/token/10/0xa1055762336F92b4B8d2eDC032A0Ce45ead6280a/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xa31Ad8D355B5223Ad34FD4fD0bC854A68E7D9681",
+      "name": "Velodrome v2 THALES-USDC.e Factory yVault",
+      "symbol": "yvVelo-THALES-USDC.e-f",
+      "logoURI": "https://assets.smold.app/api/token/10/0xa31Ad8D355B5223Ad34FD4fD0bC854A68E7D9681/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xa3B615667CBd33cfc69843Bf11Fbb2A1D926BD46",
+      "name": "mPendle",
+      "symbol": "mPendle",
+      "logoURI": "https://assets.coingecko.com/coins/images/31918/large/mPendle.png?1695644044",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xa430A427bd00210506589906a71B54d6C256CEdb",
+      "name": "exactly OP",
+      "symbol": "exaOP",
+      "logoURI": "https://assets.coingecko.com/coins/images/31173/large/ExaOP_1.png?1691117360",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xa7B550B3A80361d8e47E07616dC42f04c655881b",
+      "name": "Velodrome v2 stERN-ERN Factory yVault",
+      "symbol": "yvVelo-stERN-ERN-f",
+      "logoURI": "https://assets.coingecko.com/coins/images/11849/large/yfi-192x192.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xa85F2DeBc911c54414f99103123965c94e351873",
+      "name": "Moo VeloV2 THALES-USDC",
+      "symbol": "mooVeloV2THALES-USDC",
+      "logoURI": "https://assets.coingecko.com/coins/images/12704/large/token.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xaD17A225074191d5c8a37B50FdA1AE278a2EE6A2",
+      "name": "USDC.e yVault",
+      "symbol": "yvUSDC.e",
+      "logoURI": "https://assets.smold.app/api/token/10/0xaD17A225074191d5c8a37B50FdA1AE278a2EE6A2/logo-128.png",
+      "chainId": 10,
+      "decimals": 6
+    },
+    {
+      "address": "0xadBB23Bcc3C1B9810491897cb0690Cf645B858b1",
+      "name": "VolatileV2 AMM - WETH/tBTC",
+      "symbol": "vAMMV2-WETH/tBTC",
+      "logoURI": "https://assets.smold.app/api/token/10/0xadBB23Bcc3C1B9810491897cb0690Cf645B858b1/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xadDb6A0412DE1BA0F936DCaeb8Aaa24578dcF3B2",
+      "name": "Coinbase Wrapped Staked ETH",
+      "symbol": "cbETH",
+      "logoURI": "https://assets.coingecko.com/coins/images/27008/large/cbeth.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xaeEd086d841Ae6e86FA9003D84a05999a71bc983",
+      "name": "Prize USDC Beefy HOP",
+      "symbol": "pUSDCBeefyHOP",
+      "logoURI": "https://assets.coingecko.com/coins/images/14003/large/PoolTogether.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xaf20f5f19698f1D19351028cd7103B63D30DE7d7",
+      "name": "Wagmi",
+      "symbol": "WAGMI",
+      "logoURI": "https://assets.coingecko.com/coins/images/31887/large/wagmi_token_logo.png?1695372579",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xaf8cA653Fa2772d58f4368B0a71980e9E3cEB888",
+      "name": "Tellor",
+      "symbol": "TRB",
+      "logoURI": "https://assets.coingecko.com/coins/images/9644/large/Blk_icon_current.png?1584980686",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xb12c13e66AdE1F72f71834f2FC5082Db8C091358",
+      "name": "ROOBEE",
+      "symbol": "ROOBEE",
+      "logoURI": "https://optimistic.etherscan.io/token/images/roobeefin_32.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xb2668f1d9f31065ae45Cc59dA13Cf0e79A2683aB",
+      "name": "Moo VeloV2 USD+-LUSD",
+      "symbol": "mooVeloV2USD+-LUSD",
+      "logoURI": "https://assets.coingecko.com/coins/images/12704/large/token.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xb379AB37f2e7d4A0d2479c09d637bD6B20E1354d",
+      "name": "Moo VeloV2 USDC-MTA",
+      "symbol": "mooVeloV2USDC-MTA",
+      "logoURI": "https://assets.coingecko.com/coins/images/12704/large/token.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xb396b31599333739A97951b74652c117BE86eE1D",
+      "name": "Davos.xyz USD",
+      "symbol": "DUSD",
+      "logoURI": "https://assets.smold.app/api/token/10/0xb396b31599333739A97951b74652c117BE86eE1D/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xb4E4CFA9971C7e1069685771DaB61CA56e72e5C3",
+      "name": "Curve sETH Pool yVault",
+      "symbol": "yvCurve-sETH",
+      "logoURI": "https://assets.smold.app/api/token/10/0xb4E4CFA9971C7e1069685771DaB61CA56e72e5C3/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xb532178708814F0c174B29B991D2b355106Afbc3",
+      "name": "Astrava",
+      "symbol": "AST",
+      "logoURI": "https://assets.smold.app/api/token/10/0xb532178708814F0c174B29B991D2b355106Afbc3/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xb7211902d759B580A60A8eD91e4022A161F4C084",
+      "name": "Prize LUSD - Aave",
+      "symbol": "pLUSD",
+      "logoURI": "https://assets.coingecko.com/coins/images/14003/large/PoolTogether.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xb829b68f57CC546dA7E5806A929e53bE32a4625D",
+      "name": "Axelar Wrapped ETH",
+      "symbol": "axlETH",
+      "logoURI": "https://assets.coingecko.com/coins/images/28171/large/axlweth.png?1668244532",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xb83DBAC6087592328909996A39D138e89E4B0AfE",
+      "name": "Velodrome v2 USD+-FRAX Factory yVault",
+      "symbol": "yvVelo-USD+-FRAX-f",
+      "logoURI": "https://assets.smold.app/api/token/10/0xb83DBAC6087592328909996A39D138e89E4B0AfE/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xb996DD8f4ec36A34CeDFD8687aDa991bC2397232",
+      "name": "Moo Aura OP rETH-ankrETH",
+      "symbol": "mooAuraOPrETH-ankrETH",
+      "logoURI": "https://assets.coingecko.com/coins/images/12704/large/token.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xbC61B71562b01a3a4808D3B9291A3Bf743AB3361",
+      "name": "Velodrome v2 LUSD-WETH Factory yVault",
+      "symbol": "yvVelo-LUSD-WETH-f",
+      "logoURI": "https://assets.smold.app/api/token/10/0xbC61B71562b01a3a4808D3B9291A3Bf743AB3361/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xbFd5206962267c7b4b4A8B3D76AC2E1b2A5c4d5e",
+      "name": "Osaka Protocol",
+      "symbol": "OSAK",
+      "logoURI": "",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xbd8FD33E53ab4120638C34CbD454112b39F6b382",
+      "name": "Prize POOL - TokenVault",
+      "symbol": "PPOOL",
+      "logoURI": "https://assets.coingecko.com/coins/images/14003/large/PoolTogether.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xbe7dC3d2457BBff03943d962F7E4cEE34DFBA69d",
+      "name": "Moo VeloV2 USD+-DOLA",
+      "symbol": "mooVeloV2USD+-DOLA",
+      "logoURI": "https://assets.coingecko.com/coins/images/12704/large/token.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xbf0c7ccB143126C1bE90a426f676f5cb313956d9",
+      "name": "Tempest",
+      "symbol": "TEM",
+      "logoURI": "https://assets.smold.app/api/token/10/0xbf0c7ccB143126C1bE90a426f676f5cb313956d9/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xbfD291DA8A403DAAF7e5E9DC1ec0aCEaCd4848B9",
+      "name": "dForce USD",
+      "symbol": "USX",
+      "logoURI": "https://assets.smold.app/api/token/10/0xbfD291DA8A403DAAF7e5E9DC1ec0aCEaCd4848B9/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xc02DD405F37009609bD5ad8667825323aB72fD47",
+      "name": "Moo VeloV2 LUSD-ETH",
+      "symbol": "mooVeloV2LUSD-ETH",
+      "logoURI": "https://assets.coingecko.com/coins/images/12704/large/token.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xc04Fb38f10AD352c5f16Bd4546F7456E7f1A2D9e",
+      "name": "Minato",
+      "symbol": "MNTO",
+      "logoURI": "https://assets.coingecko.com/coins/images/24622/large/MNTO_200x200.png?1648448664",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xc05aB1B0aD472ce802E2c8db6f23e4a2865FdCa6",
+      "name": "Steady Mountain Rhythms",
+      "symbol": "bpt-steamounrhyt",
+      "logoURI": "https://assets.coingecko.com/coins/images/19158/large/beets-icon-large.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xc1F46ce83439886F0ea9c21512b36e7E67239d2C",
+      "name": "Roast Beets",
+      "symbol": "bpt-roabee",
+      "logoURI": "https://assets.coingecko.com/coins/images/19158/large/beets-icon-large.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xc2626aCEdc27cFfB418680d0307C9178955A4743",
+      "name": "Velodrome v2 sfrxETH-frxETH Factory yVault",
+      "symbol": "yvVelo-sfrxETH-frxETH-f",
+      "logoURI": "https://assets.smold.app/api/token/10/0xc2626aCEdc27cFfB418680d0307C9178955A4743/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xc3439Ba7db7566ed0deF55c179ED9b3bA273A67F",
+      "name": "Velodrome v2 EXA-WETH Factory yVault",
+      "symbol": "yvVelo-EXA-WETH-f",
+      "logoURI": "https://assets.smold.app/api/token/10/0xc3439Ba7db7566ed0deF55c179ED9b3bA273A67F/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xc3439bC1A747e545887192d6b7F8BE47f608473F",
+      "name": "VolatileV2 AMM - OATH/WETH",
+      "symbol": "vAMMV2-OATH/WETH",
+      "logoURI": "https://assets.smold.app/api/token/10/0xc3439bC1A747e545887192d6b7F8BE47f608473F/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xc3864f98f2a61A7cAeb95b039D031b4E2f55e0e9",
+      "name": "OpenX Optimism",
+      "symbol": "OpenX",
+      "logoURI": "https://assets.smold.app/api/token/10/0xc3864f98f2a61A7cAeb95b039D031b4E2f55e0e9/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xc38C2fC871188935B9C615e73B17f2e7e463C8b1",
+      "name": "Keep the BAL rolling",
+      "symbol": "80BAL-20WETH",
+      "logoURI": "https://assets.coingecko.com/coins/images/19158/large/beets-icon-large.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xc40F949F8a4e094D1b49a23ea9241D289B7b2819",
+      "name": "LUSD Stablecoin",
+      "symbol": "LUSD",
+      "logoURI": "https://assets.smold.app/api/token/10/0xc40F949F8a4e094D1b49a23ea9241D289B7b2819/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xc45A479877e1e9Dfe9FcD4056c699575a1045dAA",
+      "name": "Aave Optimism wstETH",
+      "symbol": "aOptwstETH",
+      "logoURI": "https://assets.coingecko.com/coins/images/12645/large/AAVE.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xc46AB6Aa92F7c30B8Fb1D445b4B957203EbBbd6e",
+      "name": "Balancer bpt-fraxethe Gauge Deposit",
+      "symbol": "bpt-fraxethe-gauge",
+      "logoURI": "https://assets.coingecko.com/coins/images/25942/large/logo.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xc4cD76040A87604c78627DEe2450728Ac5e971E5",
+      "name": "test50",
+      "symbol": "50WETH-50USDC",
+      "logoURI": "https://assets.coingecko.com/coins/images/19158/large/beets-icon-large.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xc4d4500326981eacD020e20A81b1c479c161c7EF",
+      "name": "exactly WETH",
+      "symbol": "exaWETH",
+      "logoURI": "https://assets.coingecko.com/coins/images/31174/large/ExaETH_1.png?1691117420",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xc5102fE9359FD9a28f877a67E36B0F050d81a3CC",
+      "name": "Hop",
+      "symbol": "HOP",
+      "logoURI": "https://assets.smold.app/api/token/10/0xc5102fE9359FD9a28f877a67E36B0F050d81a3CC/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xc55E93C62874D8100dBd2DfE307EDc1036ad5434",
+      "name": "Moo BIFI",
+      "symbol": "mooBIFI",
+      "logoURI": "https://assets.smold.app/api/token/10/0xc55E93C62874D8100dBd2DfE307EDc1036ad5434/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xc5b001DC33727F8F26880B184090D3E252470D45",
+      "name": "Ethos Reserve Note",
+      "symbol": "ERN",
+      "logoURI": "https://assets.smold.app/api/token/10/0xc5b001DC33727F8F26880B184090D3E252470D45/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xc86cc7C6b6E0Fd4d6aE24649521296Fe56dF8C28",
+      "name": "Moo Stargate FRAX",
+      "symbol": "mooStargateFRAX",
+      "logoURI": "https://assets.coingecko.com/coins/images/12704/large/token.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xc931b64E181a4a29416F55E67921BFe16e4Fe789",
+      "name": "aaa",
+      "symbol": "BPT-W",
+      "logoURI": "https://assets.coingecko.com/coins/images/19158/large/beets-icon-large.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xcAa74e50428bDC4Af6A7Ead65fFFf77F0D231E80",
+      "name": "Moo VeloV2 USDC-wUSDR",
+      "symbol": "mooVeloV2USDC-wUSDR",
+      "logoURI": "https://assets.coingecko.com/coins/images/12704/large/token.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xcB59a0A753fDB7491d5F3D794316F1adE197B21E",
+      "name": "TrueUSD",
+      "symbol": "TUSD",
+      "logoURI": "https://assets.smold.app/api/token/10/0xcB59a0A753fDB7491d5F3D794316F1adE197B21E/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xcBac17bC5Fa5285dF031AE20956632a3720866a9",
+      "name": "Decentralized Sandwich",
+      "symbol": "BPT-TRIPOOL",
+      "logoURI": "https://assets.coingecko.com/coins/images/19158/large/beets-icon-large.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xca64D546125852C00Cb27eAE3E1efE03d2439F03",
+      "name": "Balancer bpt-dolausdc Gauge Deposit",
+      "symbol": "bpt-dolausdc-gauge",
+      "logoURI": "https://assets.coingecko.com/coins/images/25942/large/logo.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xcdB4bB51801A1F399d4402c61bC098a72c382E65",
+      "name": "OPX",
+      "symbol": "OPX",
+      "logoURI": "https://assets.smold.app/api/token/10/0xcdB4bB51801A1F399d4402c61bC098a72c382E65/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xcdb9b4db65C913aB000b40204248C8A53185D14D",
+      "name": "Iron Bank Wrapped BTC",
+      "symbol": "iWBTC",
+      "logoURI": "https://assets.coingecko.com/coins/images/22902/large/ironbank.png",
+      "chainId": 10,
+      "decimals": 8
+    },
+    {
+      "address": "0xd14451E0Fa44B18f08aeB1E4a4d092B823CaCa68",
+      "name": "Sonne SUSD",
+      "symbol": "soSUSD",
+      "logoURI": "https://assets.coingecko.com/coins/images/27540/large/Token1.png",
+      "chainId": 10,
+      "decimals": 8
+    },
+    {
+      "address": "0xd25711EdfBf747efCE181442Cc1D8F5F8fc8a0D3",
+      "name": "VolatileV2 AMM - WETH/OP",
+      "symbol": "vAMMV2-WETH/OP",
+      "logoURI": "https://assets.smold.app/api/token/10/0xd25711EdfBf747efCE181442Cc1D8F5F8fc8a0D3/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xd32cEEFC5fd9E8A67b1A02E4d35C9F460c05Ad2C",
+      "name": "Prize OP - Aave",
+      "symbol": "pOP",
+      "logoURI": "https://assets.coingecko.com/coins/images/14003/large/PoolTogether.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xd3668ca9DF5d1bba8d264b8d10dD2F0C5962CC4C",
+      "name": "Velodrome v2 ERN-WETH Factory yVault",
+      "symbol": "yvVelo-ERN-WETH-f",
+      "logoURI": "https://assets.smold.app/api/token/10/0xd3668ca9DF5d1bba8d264b8d10dD2F0C5962CC4C/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xd3Ac016b1B8C80EeAdDe4D186A9138C9324e4189",
+      "name": "Okcash",
+      "symbol": "OK",
+      "logoURI": "https://assets.coingecko.com/coins/images/274/large/okcash.png?1548330217",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xd52f94DF742a6F4B4C8b033369fE13A41782Bf44",
+      "name": "Layer2DAO",
+      "symbol": "L2DAO",
+      "logoURI": "https://assets.smold.app/api/token/10/0xd52f94DF742a6F4B4C8b033369fE13A41782Bf44/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xd95E98fc33670dC033424E7Aa0578D742D00f9C7",
+      "name": "StableV2 AMM - USD+/USDC",
+      "symbol": "sAMMV2-USD+/USDC",
+      "logoURI": "https://assets.smold.app/api/token/10/0xd95E98fc33670dC033424E7Aa0578D742D00f9C7/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xdC6fF44d5d932Cbd77B52E5612Ba0529DC6226F1",
+      "name": "Worldcoin",
+      "symbol": "WLD",
+      "logoURI": "https://assets.smold.app/api/token/10/0xdC6fF44d5d932Cbd77B52E5612Ba0529DC6226F1/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xdCC5DC90A803928Dc21556590D4620030966270F",
+      "name": "Moo Beets Rocket Fuel ",
+      "symbol": "mooBeetsRocketFuel",
+      "logoURI": "https://assets.coingecko.com/coins/images/12704/large/token.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xdD84190aF336Ee2831eea88B6783958e8F269de9",
+      "name": "Moo VeloV2 EXA-WETH",
+      "symbol": "mooVeloV2EXA-WETH",
+      "logoURI": "https://assets.coingecko.com/coins/images/12704/large/token.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xdFA46478F9e5EA86d57387849598dbFB2e964b02",
+      "name": "Mai Stablecoin",
+      "symbol": "MAI",
+      "logoURI": "https://assets.smold.app/api/token/10/0xdFA46478F9e5EA86d57387849598dbFB2e964b02/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xda0253a7cDcCc4b4DEfBbEf863dbA1294bF5e3B1",
+      "name": "VolatileV2 AMM - TAROTv1/OP",
+      "symbol": "vAMMV2-TAROTv1/OP",
+      "logoURI": "https://assets.smold.app/api/token/10/0xda0253a7cDcCc4b4DEfBbEf863dbA1294bF5e3B1/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xdb4eA87fF83eB1c80b8976FC47731Da6a31D35e5",
+      "name": "wTBT(Bridge Token)",
+      "symbol": "wTBT",
+      "logoURI": "https://assets.smold.app/api/token/10/0xdb4eA87fF83eB1c80b8976FC47731Da6a31D35e5/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xdc54C0C57deD2A7788C6F49D151B9b0AC5d62BAB",
+      "name": "Moo VeloV2 USDC-wTBT",
+      "symbol": "mooVeloV2USDC-wTBT",
+      "logoURI": "https://assets.coingecko.com/coins/images/12704/large/token.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xe05A08226c49b636ACf99c40Da8DC6aF83CE5bB3",
+      "name": "Ankr Staked ETH",
+      "symbol": "ankrETH",
+      "logoURI": "https://asset-images.messari.io/images/066cda1c-657a-4893-bc49-5efdafb530ab/128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xe0BB0D3DE8c10976511e5030cA403dBf4c25165B",
+      "name": "0xBitcoin Token",
+      "symbol": "0xBTC",
+      "logoURI": "https://ethereum-optimism.github.io/data/0xBTC/logo.png",
+      "chainId": 10,
+      "decimals": 8
+    },
+    {
+      "address": "0xe453d6649643F1F460C371dC3D1da98F7922fe51",
+      "name": "Fuse Token",
+      "symbol": "FUSE",
+      "logoURI": "https://assets.coingecko.com/coins/images/10347/large/vUXKHEe.png?1601523640",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xe4dE4B87345815C71aa843ea4841bCdc682637bb",
+      "name": "Build Token",
+      "symbol": "BUILD",
+      "logoURI": "https://assets.coingecko.com/coins/images/26533/large/BUILD.png?1658714842",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xe50fA9b3c56FfB159cB0FCA61F5c9D750e8128c8",
+      "name": "Aave Optimism WETH",
+      "symbol": "aOptWETH",
+      "logoURI": "https://assets.coingecko.com/coins/images/12645/large/AAVE.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xe536F8141D8EB7B1f096934AF3329cB581bFe995",
+      "name": "Moo Stargate USDC",
+      "symbol": "mooStargateUSDC",
+      "logoURI": "https://assets.coingecko.com/coins/images/12704/large/token.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xe63337211DdE2569C348D9B3A0acb5637CFa8aB3",
+      "name": "Hop SNX LP Token",
+      "symbol": "HOP-LP-SNX",
+      "logoURI": "https://assets.smold.app/not-found.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xe8B8bfF1E415258eb3d5FA8DeeE9C38406e609cd",
+      "name": "StableV2 AMM - USDT/LUSD",
+      "symbol": "sAMMV2-USDT/LUSD",
+      "logoURI": "https://assets.coingecko.com/coins/images/25783/large/velo.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xe9949934c882c13D928e2FcF9D99138d3d16a52A",
+      "name": "50BOB-50BAL",
+      "symbol": "50BOB-50BAL",
+      "logoURI": "https://assets.coingecko.com/coins/images/19158/large/beets-icon-large.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xe9b168fa9409EaFFa07679196c7568317baf80eD",
+      "name": "VolatileV2 AMM - FRAX/OP",
+      "symbol": "vAMMV2-FRAX/OP",
+      "logoURI": "https://assets.coingecko.com/coins/images/25783/large/velo.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xeD47E3ce6D9C05F562C469AB1bf1244cc697aa73",
+      "name": "StableV2 AMM - USDC/USX",
+      "symbol": "sAMMV2-USDC/USX",
+      "logoURI": "https://assets.smold.app/api/token/10/0xeD47E3ce6D9C05F562C469AB1bf1244cc697aa73/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xeFb0D9F51EFd52d7589A9083A6d0CA4de416c249",
+      "name": "Puff the Magic Dragon",
+      "symbol": "BPT-IBETH",
+      "logoURI": "https://assets.coingecko.com/coins/images/19158/large/beets-icon-large.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xef8D6dDE0a0f0CCdaDB678366a94D93f1C449689",
+      "name": "Moo VeloV2 MAI-USDC",
+      "symbol": "mooVeloV2MAI-USDC",
+      "logoURI": "https://assets.coingecko.com/coins/images/12704/large/token.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xf0B19f02c63d51B69563A2b675e0160e1C34397C",
+      "name": "Prize WETH - Aave",
+      "symbol": "pWETH",
+      "logoURI": "https://assets.coingecko.com/coins/images/14003/large/PoolTogether.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xf329e36C7bF6E5E86ce2150875a84Ce77f477375",
+      "name": "Aave Optimism AAVE",
+      "symbol": "aOptAAVE",
+      "logoURI": "https://assets.coingecko.com/coins/images/12645/large/AAVE.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xf3420D479d8DAa6ced1d48097Aad67eF38A1Fe1c",
+      "name": "All Aboard The GRAIN Train",
+      "symbol": "BPT-GTRAIN",
+      "logoURI": "https://assets.coingecko.com/coins/images/19158/large/beets-icon-large.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xf3C45b45223Df6071a478851B9C17e0630fDf535",
+      "name": "VolatileV2 AMM - EXA/WETH",
+      "symbol": "vAMMV2-EXA/WETH",
+      "logoURI": "https://assets.smold.app/api/token/10/0xf3C45b45223Df6071a478851B9C17e0630fDf535/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xf659Fe930eEa70Bc49B6DD53d828CBaD12673a2a",
+      "name": "Moo VeloV2 alUSD-MAI",
+      "symbol": "mooVeloV2alUSD-MAI",
+      "logoURI": "https://assets.coingecko.com/coins/images/12704/large/token.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xf7B5965f5C117Eb1B5450187c9DcFccc3C317e8E",
+      "name": "Sonne Wrapped Ether",
+      "symbol": "soWETH",
+      "logoURI": "https://assets.coingecko.com/coins/images/27540/large/Token1.png",
+      "chainId": 10,
+      "decimals": 8
+    },
+    {
+      "address": "0xf7D66b41Cd4241eae450fd9D2d6995754634D9f3",
+      "name": "Velodrome v2 alETH-WETH Factory yVault",
+      "symbol": "yvVelo-alETH-WETH-f",
+      "logoURI": "https://assets.smold.app/api/token/10/0xf7D66b41Cd4241eae450fd9D2d6995754634D9f3/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xf899e3909B4492859d44260E1de41A9E663e70F5",
+      "name": "RadioShack Token",
+      "symbol": "RADIO",
+      "logoURI": "https://optimistic.etherscan.io/token/images/radio_32.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xfA09479d72E2b3f8B6dF63399772237Ad6658D76",
+      "name": "StableV2 AMM - alUSD/MAI",
+      "symbol": "sAMMV2-alUSD/MAI",
+      "logoURI": "https://assets.smold.app/api/token/10/0xfA09479d72E2b3f8B6dF63399772237Ad6658D76/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xfD389Dc9533717239856190F42475d3f263a270d",
+      "name": "Granary Token",
+      "symbol": "GRAIN",
+      "logoURI": "https://assets.smold.app/api/token/10/0xfD389Dc9533717239856190F42475d3f263a270d/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xfd3B30e3145069e272E6144A9d1F3EED0fCCb2f9",
+      "name": "Moo VeloV2 ETH-tBTC",
+      "symbol": "mooVeloV2ETH-tBTC",
+      "logoURI": "https://assets.coingecko.com/coins/images/12704/large/token.png",
+      "chainId": 10,
+      "decimals": 18
+    }
+  ]
+}

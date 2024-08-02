@@ -1,0 +1,92 @@
+{
+  "name": "Token Name Service",
+  "description": "Token Name Service is a decentralized naming service for tokens on Ethereum.",
+  "timestamp": "2024-06-24T19:31:25+02:00",
+  "version": {
+    "major": 3,
+    "minor": 1,
+    "patch": 0
+  },
+  "logoURI": "https://logo.assets.tkn.eth.limo/",
+  "keywords": [
+    "tns",
+    "token",
+    "tokendao",
+    "tkn",
+    "tkr"
+  ],
+  "tokens": [
+    {
+      "address": "0x49D5c2BdFfac6CE2BFdB6640F4F80f226bc10bAB",
+      "name": "Wrapped Ether",
+      "symbol": "WETH.e",
+      "logoURI": "https://tokens.1inch.io/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2.png",
+      "chainId": 43114,
+      "decimals": 18
+    },
+    {
+      "address": "0x5947BB275c521040051D82396192181b413227A3",
+      "name": "Chainlink Token",
+      "symbol": "LINK.e",
+      "logoURI": "https://tokens.1inch.io/0x697256caa3ccafd62bb6d3aa1c7c5671786a5fd9.png",
+      "chainId": 43114,
+      "decimals": 18
+    },
+    {
+      "address": "0x62edc0692BD897D2295872a9FFCac5425011c661",
+      "name": "GMX",
+      "symbol": "GMX",
+      "logoURI": "https://tokens.1inch.io/0x62edc0692bd897d2295872a9ffcac5425011c661.png",
+      "chainId": 43114,
+      "decimals": 18
+    },
+    {
+      "address": "0x8eBAf22B6F053dFFeaf46f4Dd9eFA95D89ba8580",
+      "name": "Uniswap",
+      "symbol": "UNI.e",
+      "logoURI": "ipfs://QmXttGpZrECX5qCyXbBQiqgQNytVGeZW5Anewvh2jc4psg",
+      "chainId": 43114,
+      "decimals": 18
+    },
+    {
+      "address": "0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7",
+      "name": "TetherToken",
+      "symbol": "USDt",
+      "logoURI": "https://tokens.1inch.io/0x9702230a8ea53601f5cd2dc00fdbc13d4df4a8c7.png",
+      "chainId": 43114,
+      "decimals": 6
+    },
+    {
+      "address": "0x9C9e5fD8bbc25984B178FdCE6117Defa39d2db39",
+      "name": "BUSD Token",
+      "symbol": "BUSD",
+      "logoURI": "https://assets.coingecko.com/coins/images/9576/large/BUSD.png?1568947766",
+      "chainId": 43114,
+      "decimals": 18
+    },
+    {
+      "address": "0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E",
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "logoURI": "https://tokens.1inch.io/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48.png",
+      "chainId": 43114,
+      "decimals": 6
+    },
+    {
+      "address": "0xBeC243C995409E6520D7C41E404da5dEba4b209B",
+      "name": "Synthetix Network Token",
+      "symbol": "SNX.e",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC011a73ee8576Fb46F5E1c5751cA3B9Fe0af2a6F/logo.png",
+      "chainId": 43114,
+      "decimals": 18
+    },
+    {
+      "address": "0xd586E7F844cEa2F87f50152665BCbc2C279D8d70",
+      "name": "Dai Stablecoin",
+      "symbol": "DAI.e",
+      "logoURI": "https://tokens.1inch.io/0x6b175474e89094c44da98b954eedeac495271d0f.png",
+      "chainId": 43114,
+      "decimals": 18
+    }
+  ]
+}

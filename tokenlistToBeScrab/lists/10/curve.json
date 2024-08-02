@@ -1,0 +1,1063 @@
+{
+  "name": "Curve Token List",
+  "description": "",
+  "timestamp": "2024-07-28T00:42:41Z",
+  "version": {
+    "major": 20,
+    "minor": 1,
+    "patch": 2
+  },
+  "logoURI": "https://classic.curve.fi/logo.png",
+  "keywords": [],
+  "tokens": [
+    {
+      "address": "0x00B8D5a5e1Ac97Cb4341c4Bc4367443c8776e8d9",
+      "name": "Synth sAAVE",
+      "symbol": "sAAVE",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x00b52bD263Ef2F16a794a151d01F8EFfA843057E",
+      "name": "Curve.fi Factory Plain Pool: USDC/USDT",
+      "symbol": "USDCUSDT-f",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x0105D09f5Ea12dD2FA6232fF76044c895F06A920",
+      "name": "Curve.fi Factory USD Metapool: doej",
+      "symbol": "jeod3CRV-f",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x018A1e566C0847e35e7D46e4ee0428c35574a3D8",
+      "name": "Optimium Dollar",
+      "symbol": "OD",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x01Fd6e02BA93F3FE0799Ca12ED2B6fd4920b4B2d",
+      "name": "gapfund",
+      "symbol": "btg",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x02710B50d54342680Da75f018386AbD1f044C329",
+      "name": "Curve.fi Factory USD Metapool: BentleySui",
+      "symbol": "BS3CRV-f",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x047fE1fB7b3a2C13BDf4ee9ecA20da21CDCc9E1c",
+      "name": "Curve.fi Factory Plain Pool: SETH/WSTETH",
+      "symbol": "SETHWSTETH-f",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x061b87122Ed14b9526A813209C8a59a633257bAb",
+      "name": "Curve.fi Factory USD Metapool: sUSD Synthetix",
+      "symbol": "sUSD3CRV-f",
+      "logoURI": "https://assets.smold.app/api/token/10/0x061b87122Ed14b9526A813209C8a59a633257bAb/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x0994206dfE8De6Ec6920FF4D779B0d950605Fb53",
+      "name": "Curve DAO Token",
+      "symbol": "CRV",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xD533a949740bb3306d119CC777fa900bA034cd52/logo.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x10EED26aC50e06E4f0aac767C77Ba772E71934f7",
+      "name": "Curve.fi Factory Plain Pool: stETH³",
+      "symbol": "3STETH-f",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x1280a72298da1e7Df992691Dc5b9C48DADaA5F94",
+      "name": "Curve.fi Factory USD Metapool: CRV/USDT",
+      "symbol": "CRVUSDT3CRV-f",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x12fC671AE22693f3283BcE0DA8F61b0ec05A400A",
+      "name": "Curve.fi Factory USD Metapool: opf",
+      "symbol": "opf3CRV-f",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x1337BedC9D22ecbe766dF105c9623922A27963EC",
+      "name": "Curve.fi DAI/USDC/USDT",
+      "symbol": "3CRV",
+      "logoURI": "https://optimistic.etherscan.io/images/main/empty-token.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x13b85ce4721309f89F4C151B4eEC3D123420652c",
+      "name": "Curve.fi Factory Plain Pool: usdc/usdt",
+      "symbol": "usdcusdt-f",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x143e5E81f608F89a2a18c4C82D180F6522471341",
+      "name": "Curve.fi Factory Plain Pool: crv/usdc",
+      "symbol": "crvusdc-f",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x1522b6CcD111BcbF37CfE088F3594B89a4784968",
+      "name": "Curve.fi Factory Plain Pool: sUSD/LUSD",
+      "symbol": "sUSD/LUSD-f",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x15dD39D2476eCAE26d42659B5226D754782D7e10",
+      "name": "Curve.fi Factory USD Metapool: CRV",
+      "symbol": "CRVETH3CRV-f",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x1Dc5c0f8668a9F54ED922171d578011850ca0341",
+      "name": "Curve.fi Factory Plain Pool: 2BTC",
+      "symbol": "2BTC-f",
+      "logoURI": "https://assets.coingecko.com/coins/images/12124/large/Curve.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x1F32b1c2345538c0c6f582fCB022739c4A194Ebb",
+      "name": "Wrapped liquid staked Ether 2.0",
+      "symbol": "wstETH",
+      "logoURI": "https://assets.smold.app/api/token/10/0x1F32b1c2345538c0c6f582fCB022739c4A194Ebb/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x263B293395694C1C8e9750F33627E78Ea79804dc",
+      "name": "Curve.fi Factory Plain Pool: FRAXUSDV",
+      "symbol": "FRAXUSDV-f",
+      "logoURI": "https://assets.coingecko.com/coins/images/12124/large/Curve.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x298B9B95708152ff6968aafd889c6586e9169f1D",
+      "name": "Synth sBTC",
+      "symbol": "sBTC",
+      "logoURI": "https://ethereum-optimism.github.io/data/sBTC/logo.svg",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x29A3d66B30Bc4AD674A4FDAF27578B64f6afbFe7",
+      "name": "Curve.fi Factory Plain Pool: FRAXBP",
+      "symbol": "FRAXBP-f",
+      "logoURI": "https://assets.coingecko.com/coins/images/12124/large/Curve.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x29dE7E98d6d1a8f0777E0B4DA4d6EeE76fd4B9aB",
+      "name": "Curve.fi Factory Plain Pool: renBTC/wBTC/sBTC",
+      "symbol": "crvRenWSBT-f",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x2E3D870790dC77A83DD1d18184Acc7439A53f475",
+      "name": "Frax",
+      "symbol": "FRAX",
+      "logoURI": "https://assets.smold.app/api/token/10/0x2E3D870790dC77A83DD1d18184Acc7439A53f475/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x2FeE976251310B2fac2125B15c79ef0aC92D9169",
+      "name": "Curve.fi Factory Plain Pool: 1",
+      "symbol": "usd-f",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x2dB56A985293A5EB637a4167f979276524082042",
+      "name": "Curve.fi Factory Plain Pool: SYNTHWBTC",
+      "symbol": "SYNTHWBTC-f",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x2df9fDB9c43941e00240644DBF4F463acE01e0B0",
+      "name": "Curve.fi Factory Plain Pool: 2eur (sEUR)",
+      "symbol": "2eur (sEUR-f",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x30170aE3eE88b7c05427aD00A643aCE8293bA971",
+      "name": "Curve.fi Factory USD Metapool: Kimberly",
+      "symbol": "SUSD3CRV-f",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x309970d0cCa31197620FEdbedCd51BB46e2a73BA",
+      "name": "Curve.fi Factory USD Metapool: LUSD",
+      "symbol": "LUSD3CRV-f",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x31515cfC4550d9C83E2d86E8a352886d1364E2D9",
+      "name": "PoolTogether Prize USD Coin",
+      "symbol": "PTUSDC",
+      "logoURI": "https://assets.smold.app/api/token/10/0x31515cfC4550d9C83E2d86E8a352886d1364E2D9/logo-128.png",
+      "chainId": 10,
+      "decimals": 6
+    },
+    {
+      "address": "0x323665443CEf804A3b5206103304BD4872EA4253",
+      "name": "USDV",
+      "symbol": "USDV",
+      "logoURI": "https://assets.smold.app/api/token/10/0x323665443CEf804A3b5206103304BD4872EA4253/logo-128.png",
+      "chainId": 10,
+      "decimals": 6
+    },
+    {
+      "address": "0x34075efe920CaaA6F3a4e7755243244B24A722cd",
+      "name": "Curve.fi Factory Plain Pool: sUSD/SNX",
+      "symbol": "sUSDS-f",
+      "logoURI": "https://assets.coingecko.com/coins/images/12124/large/Curve.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x350a791Bfc2C21F9Ed5d10980Dad2e2638ffa7f6",
+      "name": "ChainLink Token",
+      "symbol": "LINK",
+      "logoURI": "https://tokens.1inch.io/0x350a791bfc2c21f9ed5d10980dad2e2638ffa7f6.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x356AfE0fC695919e82F9426f906fdE64Ff534b99",
+      "name": "Curve.fi Factory Plain Pool: WSTETH/WETH",
+      "symbol": "WSTETHWETH-f",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x36310Ea865424a054255B963290c0B89b639D2ff",
+      "name": "Curve.fi Factory Plain Pool: 3BTC",
+      "symbol": "3BTC-f",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x386852c8ee3A6A98ee5151Db539b878D1327C7b9",
+      "name": "Optimium Dollar",
+      "symbol": "OD",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x3B9a1C52D25B705eb31dC99E73A1311eF500Eea1",
+      "name": "Curve.fi Factory Plain Pool: sUSD",
+      "symbol": "SNX-f",
+      "logoURI": "https://assets.coingecko.com/coins/images/12124/large/Curve.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x3da3153E26A230d918bb9F9428A8d60349B73379",
+      "name": "Curve.fi Factory Plain Pool: 4pool",
+      "symbol": "4pool-f",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x41034d57421679E78c7258C9Bf83d5525A41DA2d",
+      "name": "Curve.fi Factory Plain Pool: renBTC/wBTC/sBTC",
+      "symbol": "crvRenWSBT-f",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x4200000000000000000000000000000000000006",
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "logoURI": "https://assets.smold.app/api/token/10/0x4200000000000000000000000000000000000006/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x4200000000000000000000000000000000000042",
+      "name": "Optimism",
+      "symbol": "OP",
+      "logoURI": "https://assets.smold.app/api/token/10/0x4200000000000000000000000000000000000042/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x43FD45DA6D1E68aE5beaaeBDD634F16b9FA806da",
+      "name": "Curve.fi Factory Plain Pool: 2eur (agEUR)",
+      "symbol": "2eur (agEU-f",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x44A3e148fdE06FB56CEF741CeB886d37A25430b8",
+      "name": "Curve.fi Factory USD Metapool: sUSD/CRV",
+      "symbol": "sUSD3CRV-f",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x47e1261b7c931dF52cf37c57040B2D2DCfc2fc63",
+      "name": "Curve.fi Factory USD Metapool: Optimium Dollar",
+      "symbol": "Op3CRV-f",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x484c2D6e3cDd945a8B2DF735e079178C1036578c",
+      "name": "Staked Frax Ether",
+      "symbol": "sfrxETH",
+      "logoURI": "https://assets.smold.app/api/token/10/0x484c2D6e3cDd945a8B2DF735e079178C1036578c/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x49cb124C22727b768550C4Eb6398A734DCb8Cd6b",
+      "name": "Curve.fi Factory USD Metapool: GKN888",
+      "symbol": "883CRV-f",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x4EFE19f64675d684837A94aed84A69789AF4d32D",
+      "name": "Curve.fi Factory USD Metapool: Optimium Dollar",
+      "symbol": "Op3CRV-f",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x518D6ae98818C971B3fa1e4186CC573F1E3ebE68",
+      "name": "Curve.fi Factory USD Metapool: Overnight",
+      "symbol": "OVERNIGHT3CRV-f",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x5396235909868cFC8a8a514897Bf8B1fCde1f1f0",
+      "name": "optimisticfuture",
+      "symbol": "opf",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x542f7E8D6322d276395Aaf3Ce0f808A33B52006e",
+      "name": "Curve.fi Factory USD Metapool: My Pula",
+      "symbol": "Puls3CRV-f",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x54DCFE120d608551f9010d3b66620D230fD5c11B",
+      "name": "Curve.fi Factory USD Metapool: SUSD/FRAXBP",
+      "symbol": "SUSDFRAXP3CRV-f",
+      "logoURI": "https://assets.coingecko.com/coins/images/12124/large/Curve.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x5695a0194eB3C766C5c5CdC094f1169B686BE1eC",
+      "name": "Curve.fi Factory USD Metapool: sUSD/CRV",
+      "symbol": "sUSDCRV3CRV-f",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x5810d004BE3662549D5e42E812Bf57090e0CC5Ae",
+      "name": "Curve.fi Factory USD Metapool: OP/USDC",
+      "symbol": "OPUSDC3CRV-f",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x61D83f85cF78EeFE1Aafeb74f48e202367184f1f",
+      "name": "Curve.fi Factory Plain Pool: pool",
+      "symbol": "pool-f",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x625E7708f30cA75bfd92586e17077590C60eb4cD",
+      "name": "Aave Optimism USDC",
+      "symbol": "aOptUSDC",
+      "logoURI": "https://assets.coingecko.com/coins/images/12645/large/AAVE.png",
+      "chainId": 10,
+      "decimals": 6
+    },
+    {
+      "address": "0x634981bbD226fd101b3364C4AEA5a2294dEe02Dc",
+      "name": "Curve.fi Factory USD Metapool: CRV",
+      "symbol": "CRVETH3CRV-f",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x6404074b222Caf3f9DdFec58507D2082471A9E98",
+      "name": "Curve.fi Factory USD Metapool: MAI/3POOL",
+      "symbol": "MAI3POOL3CRV-f",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x662B2bCC89cbb704f92C7eAda4c2F1abE2B71b64",
+      "name": "Curve.fi Factory Plain Pool: SUSD/USDT",
+      "symbol": "SUSDT-f",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x6645237fb81fe7227AA2Fa2A244D23A5AC0DA1cd",
+      "name": "Curve.fi Factory USD Metapool: Mai Stablecoin",
+      "symbol": "MAI+3Pool3CRV-f",
+      "logoURI": "https://assets.coingecko.com/coins/images/12124/large/Curve.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x68f180fcCe6836688e9084f035309E29Bf0A2095",
+      "name": "Wrapped BTC",
+      "symbol": "WBTC",
+      "logoURI": "https://assets.smold.app/api/token/10/0x68f180fcCe6836688e9084f035309E29Bf0A2095/logo-128.png",
+      "chainId": 10,
+      "decimals": 8
+    },
+    {
+      "address": "0x6ED543cF201dbfc9669Af95CEB55bD39FFd044Ce",
+      "name": "Curve.fi Factory USD Metapool: Optimium Dollar",
+      "symbol": "Op3CRV-f",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x6ab707Aca953eDAeFBc4fD23bA73294241490620",
+      "name": "Aave Optimism USDT",
+      "symbol": "aOptUSDT",
+      "logoURI": "https://assets.coingecko.com/coins/images/12645/large/AAVE.png",
+      "chainId": 10,
+      "decimals": 6
+    },
+    {
+      "address": "0x6c84a8f1c29108F47a79964b5Fe888D4f4D0dE40",
+      "name": "Optimism tBTC v2",
+      "symbol": "tBTC",
+      "logoURI": "https://assets.smold.app/api/token/10/0x6c84a8f1c29108F47a79964b5Fe888D4f4D0dE40/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x6d80113e533a2C0fe82EaBD35f1875DcEA89Ea97",
+      "name": "Aave Optimism SUSD",
+      "symbol": "aOptSUSD",
+      "logoURI": "https://assets.coingecko.com/coins/images/12645/large/AAVE.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x6e296c24E4d36a4cFcB8E09e7459f9217a726fa2",
+      "name": "ARTEST2",
+      "symbol": "ART2",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x6eFb0bdCf3e89Cfa175E3FDAB7AF415fA53833b7",
+      "name": "Curve.fi Factory USD Metapool: Optimium Dollar",
+      "symbol": "Op3CRV-f",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x73cb180bf0521828d8849bc8CF2B920918e23032",
+      "name": "USD+",
+      "symbol": "USD+",
+      "logoURI": "https://assets.smold.app/api/token/10/0x73cb180bf0521828d8849bc8CF2B920918e23032/logo-128.png",
+      "chainId": 10,
+      "decimals": 6
+    },
+    {
+      "address": "0x73e97F52177d8893edD76769fC60Fe603A97067d",
+      "name": "Curve.fi Factory USD Metapool: susd",
+      "symbol": "sUSD3crv3CRV-f",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x75B2F45C1c8A23C6A4Ee9449aBc92899aa2e2889",
+      "name": "Curve.fi Factory Plain Pool: AAVE",
+      "symbol": "AAVE-f",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x79AF5dd14e855823FA3E9ECAcdF001D99647d043",
+      "name": "Jarvis Synthetic Euro",
+      "symbol": "jEUR",
+      "logoURI": "https://assets.smold.app/api/token/10/0x79AF5dd14e855823FA3E9ECAcdF001D99647d043/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x7Bc5728BC2b59B45a58d9A576E2Ffc5f0505B35E",
+      "name": "Curve.fi Factory Pool: sETH/ETH",
+      "symbol": "seth-f",
+      "logoURI": "https://assets.smold.app/api/token/10/0x7Bc5728BC2b59B45a58d9A576E2Ffc5f0505B35E/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x7C13F8fdbed6fa2dc567b2F7C85f116E0c5aB5c3",
+      "name": "Curve.fi Factory Plain Pool: sLINK/LINK",
+      "symbol": "sLINKLINK-f",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x7Eb9405e4f0Bc813ad4439FCa77BeEAD64c2bE26",
+      "name": "Curve.fi Factory USD Metapool: darkputziksusd",
+      "symbol": "dkptsusd3CRV-f",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "logoURI": "https://assets.smold.app/api/token/10/0x7F5c764cBc14f9669B88837ca1490cCa17c31607/logo-128.png",
+      "chainId": 10,
+      "decimals": 6
+    },
+    {
+      "address": "0x7dB412E3eeaD0Ae49286b477e8B0795aE71506C1",
+      "name": "Curve.fi Factory Plain Pool: RBT/BBT",
+      "symbol": "RBTBBT-f",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x7e32ACaE2f0e928376C61d389555658c55Bf9b00",
+      "name": "Curve.fi Factory Plain Pool: y",
+      "symbol": "y-f",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x7fE67173E14aA3349b8F24533084379e1066E19c",
+      "name": "Optimium Dollar",
+      "symbol": "OD",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x810D1AaA4Cd8F21c23bB648F2dfb9DC232A01F09",
+      "name": "Curve.fi Factory USD Metapool: MIM",
+      "symbol": "mim3CRV-f",
+      "logoURI": "https://assets.coingecko.com/coins/images/12124/large/Curve.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x82E64f49Ed5EC1bC6e43DAD4FC8Af9bb3A2312EE",
+      "name": "Aave Optimism DAI",
+      "symbol": "aOptDAI",
+      "logoURI": "https://assets.coingecko.com/coins/images/12645/large/AAVE.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x85b0b1aF13aCa01b7b5eDbE5BFbBeC2e130D2227",
+      "name": "Optimium Dollar",
+      "symbol": "OD",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x85f6583762Bc76d775eAB9A7456db344f12409F7",
+      "name": "renBTC",
+      "symbol": "renBTC",
+      "logoURI": "https://assets.smold.app/api/token/10/0x85f6583762Bc76d775eAB9A7456db344f12409F7/logo-128.png",
+      "chainId": 10,
+      "decimals": 8
+    },
+    {
+      "address": "0x8700dAec35aF8Ff88c16BdF0418774CB3D7599B4",
+      "name": "Synthetix Network Token",
+      "symbol": "SNX",
+      "logoURI": "https://assets.smold.app/api/token/10/0x8700dAec35aF8Ff88c16BdF0418774CB3D7599B4/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x883feb1B9862e0c8559D26F53bf19264C5E0839F",
+      "name": "Curve.fi aOptDAI/aOptUSDC/aOptUSDT",
+      "symbol": "aOpt3CRV",
+      "logoURI": "https://assets.coingecko.com/coins/images/12124/large/Curve.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x8B5E6F28C04B5bc04C260D5ca297b2D17eAA12C3",
+      "name": "ARTEST1",
+      "symbol": "ART1",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x8F40339279B9419efE98504f6cfB51Ed88a50C2E",
+      "name": "Curve.fi Factory Plain Pool: 3BTC",
+      "symbol": "3BTC-f",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x8b52bc60c8668c76966F5f3472Edf00D9426f969",
+      "name": "Curve.fi Factory Plain Pool: Optimium Dollar",
+      "symbol": "Op-f",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x8c6f28f2F1A3C87F0f938b96d27520d9751ec8d9",
+      "name": "Synth sUSD",
+      "symbol": "sUSD",
+      "logoURI": "https://assets.smold.app/api/token/10/0x8c6f28f2F1A3C87F0f938b96d27520d9751ec8d9/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x9485aca5bbBE1667AD97c7fE7C4531a624C8b1ED",
+      "name": "EURA (previously agEUR)",
+      "symbol": "EURA",
+      "logoURI": "https://assets.smold.app/api/token/10/0x9485aca5bbBE1667AD97c7fE7C4531a624C8b1ED/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x94b008aA00579c1307B0EF2c499aD98a8ce58e58",
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "logoURI": "https://assets.smold.app/api/token/10/0x94b008aA00579c1307B0EF2c499aD98a8ce58e58/logo-128.png",
+      "chainId": 10,
+      "decimals": 6
+    },
+    {
+      "address": "0x9507576B25299661aCf78cB27fcEDE7215Db8F94",
+      "name": "Curve.fi Factory USD Metapool: Mai Stablecoin",
+      "symbol": "MAI+3Pool3CRV-f",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x986c430A6b1111b1D16b260C778Ba3181C4A0Fe8",
+      "name": "Curve.fi Factory USD Metapool: Upper",
+      "symbol": "Upper3CRV-f",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x996Bd284b018801d4635dca11ebB9fdE50B10c65",
+      "name": "Curve.fi Factory Plain Pool: OP/ETH name",
+      "symbol": "OPETH-f",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x9Bcef72be871e61ED4fBbc7630889beE758eb81D",
+      "name": "Rocket Pool ETH",
+      "symbol": "rETH",
+      "logoURI": "https://assets.smold.app/api/token/10/0x9Bcef72be871e61ED4fBbc7630889beE758eb81D/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x9F2fE3500B1a7E285FDc337acacE94c480e00130",
+      "name": "Curve.fi Factory Plain Pool: sBTC/wbtc",
+      "symbol": "sbtc-f",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xA35540C0e0Fe990C70d40fC258d2d12ea40497D8",
+      "name": "Curve.fi Factory Plain Pool: y",
+      "symbol": "y-f",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xA43b1d8A89b961aBbD53B66022aD652CA4F0a056",
+      "name": "Rebase Token",
+      "symbol": "RBT",
+      "chainId": 10,
+      "decimals": 6
+    },
+    {
+      "address": "0xAB0dE6d1349bee4EBFFb9c6557b30F239f500feF",
+      "name": "Curve.fi Factory USD Metapool: Никита",
+      "symbol": "sdfgf3CRV-f",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xAE13DFf69D84d87aE50ad841377d5F9d33d857Cf",
+      "name": "Curve.fi Factory USD Metapool: Optimium Dollar",
+      "symbol": "Op3CRV-f",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xAEA4DEBbB349a54Cc27419aBBbbA94AB0Bd276A7",
+      "name": "Curve.fi Factory Plain Pool: OptimisticFuture pool",
+      "symbol": "Opf-f",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xB05e969A46719edaBC72f15d59ec35f3843fB05d",
+      "name": "Curve.fi Factory USD Metapool: Pos1",
+      "symbol": "Pos13CRV-f",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xB153FB3d196A8eB25522705560ac152eeEc57901",
+      "name": "Magic Internet Money",
+      "symbol": "MIM",
+      "logoURI": "https://assets.smold.app/api/token/10/0xB153FB3d196A8eB25522705560ac152eeEc57901/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xB4C55f8BE4Ca686E184938eF12b62332C805190c",
+      "name": "Base base token",
+      "symbol": "BBT",
+      "chainId": 10,
+      "decimals": 6
+    },
+    {
+      "address": "0xBBaf6181FBf0C624699c7E56Ba109a53ECa846F2",
+      "name": "Curve.fi Factory Plain Pool: amapool",
+      "symbol": "AMP-f",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xBdc3F64362DBC7C55eD86D1b3C434C715FA4928A",
+      "name": "Curve.fi Factory Plain Pool: Usd",
+      "symbol": "Susd-f",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xBdf1166484c162601d3FD9C90e394137dfF2bc14",
+      "name": "Bridge the Gap",
+      "symbol": "Gap",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xBe827F2975f2da78feb3683c558B143E3C6dCD07",
+      "name": "DINERO",
+      "symbol": "DINERO",
+      "logoURI": "https://assets.smold.app/api/token/10/0xBe827F2975f2da78feb3683c558B143E3C6dCD07/logo-128.png",
+      "chainId": 10,
+      "decimals": 6
+    },
+    {
+      "address": "0xD07d5877b1B04D8d9Be87F6Fa71664f68B07cC96",
+      "name": "Curve.fi Factory Plain Pool: Optimium Dollar",
+      "symbol": "Op-f",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xD45B98c87161C133066a9D362842cbDB175E7d29",
+      "name": "Curve.fi Factory Plain Pool: ARtest5",
+      "symbol": "ARtest5-f",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xD7375c031074922971b5c2f65b71F88ab41d1392",
+      "name": "Curve.fi Factory Plain Pool: susd/usdt",
+      "symbol": "susdusdt-f",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xD8F594834138eeB0923213a889f513556a48db78",
+      "name": "Pos1",
+      "symbol": "pos 1",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
+      "name": "Dai Stablecoin",
+      "symbol": "DAI",
+      "logoURI": "https://assets.smold.app/api/token/10/0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xDeE0F50F866599030786d22359Dc60f049197b99",
+      "name": "Curve.fi Factory USD Metapool: MAI/3POOL",
+      "symbol": "MAI3POOL3CRV-f",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xE057f22f93E7561DE85c3939715E990FD0DA0271",
+      "name": "Armin1",
+      "symbol": "AR2",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xE1Ee22790EDC2632b27111cA5fF2CC156d59e35a",
+      "name": "Curve.fi Factory Plain Pool: y",
+      "symbol": "y-f",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xE405de8F52ba7559f9df3C368500B6E6ae6Cee49",
+      "name": "Synth sETH",
+      "symbol": "sETH",
+      "logoURI": "https://assets.smold.app/api/token/10/0xE405de8F52ba7559f9df3C368500B6E6ae6Cee49/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xE475f889da02ccA3a5b077A9D14384F29a20Df43",
+      "name": "Curve.fi Factory USD Metapool: sUSD",
+      "symbol": "sUSD3CRV-f",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xE978927D04A9F160079880B8A362bBccdb7b9654",
+      "name": "Curve.fi Factory Plain Pool: 2",
+      "symbol": "2-f",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xEc502409e1bE73ebF45C7582A3ad28B3F7e16510",
+      "name": "Curve.fi Factory USD Metapool: Mykhailo Zubchenko",
+      "symbol": "ma3CRV-f",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xEfDE221f306152971D8e9f181bFe998447975810",
+      "name": "Curve.fi ETH/wstETH",
+      "symbol": "wstETHCRV",
+      "logoURI": "https://assets.coingecko.com/coins/images/12124/large/Curve.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xF44302A16224d8428CCDbf78Eca70370126ed746",
+      "name": "Curve.fi Factory Plain Pool: Curve.fi renBTC/sBTC",
+      "symbol": "crvRenSBTC-f",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xF995d84F6032Ca8f7729852614B023969d73B424",
+      "name": "Curve.fi Factory USD Metapool: crv",
+      "symbol": "crveth3CRV-f",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xFB21B70922B9f6e3C6274BcD6CB1aa8A0fe20B80",
+      "name": "TerraUSD",
+      "symbol": "UST",
+      "logoURI": "https://optimistic.etherscan.io/token/images/terraustbtt_32.png",
+      "chainId": 10,
+      "decimals": 6
+    },
+    {
+      "address": "0xFBc4198702E81aE77c06D58f81b629BDf36f0a71",
+      "name": "Synth sEUR",
+      "symbol": "sEUR",
+      "logoURI": "https://assets.smold.app/api/token/10/0xFBc4198702E81aE77c06D58f81b629BDf36f0a71/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xa2f1E7E65bfdBD264D6e3cB4dA50eDF7fc77b861",
+      "name": "Curve.fi Factory USD Metapool: Optimium Dollar",
+      "symbol": "Op3CRV-f",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xa62D71c18e2Fcb2e80C6357F7c04F9349840665A",
+      "name": "Curve.fi Factory USD Metapool: USD+ + AAVE",
+      "symbol": "Triology3CRV-f",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xa925f4057d6E6C8FAf8bdE537Ad14BA91A1D0337",
+      "name": "Synth",
+      "symbol": "SYNTH",
+      "logoURI": "https://ethereum-optimism.github.io/data/SYNTH/logo.svg",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xb327d8D0372034EC53BBC07E2D2899B18B0131C0",
+      "name": "Curve.fi Factory USD Metapool: darkputziksusd",
+      "symbol": "dkptsusd3CRV-f",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xb37Af9AE03360dCFa0a99C34C835Ce80274DbFDA",
+      "name": "Curve.fi Factory Plain Pool: PT Beta USDC",
+      "symbol": "BetaPTUSDC-f",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xc0C4bcF3ED866685e5E944FD485748099F23FaAC",
+      "name": "Curve.fi Factory Plain Pool: sssussd",
+      "symbol": "ssusd-f",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xc146459fafC272B515bE7A2E29b7FFC71FfA6B7f",
+      "name": "Curve.fi Factory USD Metapool: Optimium Dollar",
+      "symbol": "Op3FRAXBP3CRV-f",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xc16deDc3fD310999e88311F90Bb279655EDBA6aa",
+      "name": "Curve.fi Factory Plain Pool: ARTest",
+      "symbol": "CRVARTEST-f",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xc40F949F8a4e094D1b49a23ea9241D289B7b2819",
+      "name": "LUSD Stablecoin",
+      "symbol": "LUSD",
+      "logoURI": "https://assets.smold.app/api/token/10/0xc40F949F8a4e094D1b49a23ea9241D289B7b2819/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xc5Db22719A06418028A40A9B5E9A7c02959D0d08",
+      "name": "Synth sLINK",
+      "symbol": "sLINK",
+      "logoURI": "https://ethereum-optimism.github.io/data/sLINK/logo.svg",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xc8FE238784F967241F306E3F089DA9580327aeEA",
+      "name": "Curve.fi Factory USD Metapool: Timur",
+      "symbol": "USDC3CRV-f",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xdFA46478F9e5EA86d57387849598dbFB2e964b02",
+      "name": "Mai Stablecoin",
+      "symbol": "MAI",
+      "logoURI": "https://assets.smold.app/api/token/10/0xdFA46478F9e5EA86d57387849598dbFB2e964b02/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xda4Fcf19BEf55B9d11D65A2a2926c81283d5AAf5",
+      "name": "Growth",
+      "symbol": "Growth",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xe0F2557d2209F879eEF1b77c366160AC09959171",
+      "name": "Curve.fi Factory Plain Pool: SUSD/ETH",
+      "symbol": "SUSDETH-f",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xe74d004BbD80B32e37dbC004614f58fCf35CD270",
+      "name": "Curve.fi Factory USD Metapool: Optimium Dollar",
+      "symbol": "Op3CRV-f",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xf0C8713Eb11fd08c396b35cb3bEE79dfFFF09A6F",
+      "name": "Curve.fi Factory Plain Pool: sUSD/SNX",
+      "symbol": "sUSDSNX-f",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xf2E053034e3CF84A35498dfa18ee7bC94d3cfd3E",
+      "name": "Armin2",
+      "symbol": "AR1",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xf822390A28e79bdAD3453A3a31fF0dDeFAfbe05f",
+      "name": "Curve.fi Factory USD Metapool: testSUSD",
+      "symbol": "SUSD3CRV3CRV-f",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xf9DE810f9351057D5972D852b97f66E0bb2f47bA",
+      "name": "Curve.fi Factory Plain Pool: DINERO/MAI/USDC",
+      "symbol": "crvDINERO-f",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xfDfEb18721c1999f4b71fFCae544991E797721F3",
+      "name": "Curve.fi Factory USD Metapool: CRV/ETH",
+      "symbol": "CRVETH3CRV-f",
+      "chainId": 10,
+      "decimals": 18
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Tokenlistooor Token List",
+  "description": "A curated list of tokens from all the token lists on tokenlistooor.",
+  "timestamp": "2024-04-21T01:18:32Z",
+  "version": {
+    "major": 213,
+    "minor": 0,
+    "patch": 0
+  },
+  "logoURI": "https://raw.githubusercontent.com/smoldapp/tokenLists/main/.github/tokenlistooor.svg",
+  "keywords": [],
+  "tokens": [
+    {
+      "address": "0x11fE4B6AE13d2a6055C8D9cF65c55bac32B5d844",
+      "name": "Dai Stablecoin",
+      "symbol": "DAI",
+      "logoURI": "https://ethereum-optimism.github.io/data/DAI/logo.svg",
+      "chainId": 5,
+      "decimals": 18
+    },
+    {
+      "address": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
+      "name": "Uniswap",
+      "symbol": "UNI",
+      "logoURI": "ipfs://QmXttGpZrECX5qCyXbBQiqgQNytVGeZW5Anewvh2jc4psg",
+      "chainId": 5,
+      "decimals": 18
+    },
+    {
+      "address": "0xB4FBF271143F4FBf7B91A5ded31805e42b2208d6",
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xB4FBF271143F4FBf7B91A5ded31805e42b2208d6/logo.png",
+      "chainId": 5,
+      "decimals": 18
+    }
+  ]
+}

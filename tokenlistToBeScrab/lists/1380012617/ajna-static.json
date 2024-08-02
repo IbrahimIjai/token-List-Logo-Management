@@ -1,0 +1,48 @@
+{
+  "name": "Ajna (Static)",
+  "description": "",
+  "timestamp": "2024-07-28T01:13:16Z",
+  "version": {
+    "major": 12,
+    "minor": 0,
+    "patch": 1
+  },
+  "logoURI": "https://www.ajna.finance/static/tokens/ajna.png",
+  "keywords": [
+    "Ajna"
+  ],
+  "tokens": [
+    {
+      "address": "0x362FAE9A75B27BBc550aAc28a7c1F96C8D483120",
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "logoURI": "https://assets.smold.app/api/token/1380012617/0x362FAE9A75B27BBc550aAc28a7c1F96C8D483120/logo-128.png",
+      "chainId": 1380012617,
+      "decimals": 6
+    },
+    {
+      "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "logoURI": "https://assets.smold.app/api/token/1/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE/logo-128.png",
+      "chainId": 1380012617,
+      "decimals": 18
+    },
+    {
+      "address": "0xFbDa5F676cB37624f28265A144A48B0d6e87d3b6",
+      "name": "Bridged USDC (Stargate)",
+      "symbol": "USDC.e",
+      "logoURI": "https://assets.smold.app/api/token/1/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo-128.png",
+      "chainId": 1380012617,
+      "decimals": 6
+    },
+    {
+      "address": "0xf037540e51D71b2D2B1120e8432bA49F29EDFBD0",
+      "name": "WETH",
+      "symbol": "WETH",
+      "logoURI": "https://assets.smold.app/api/token/1/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE/logo-128.png",
+      "chainId": 1380012617,
+      "decimals": 18
+    }
+  ]
+}
