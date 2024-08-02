@@ -45,6 +45,8 @@ Description: Initial experimentation with token extraction.
 ## Outcome
 The outcome of this project can be found in the ./result/** folder, which contains the generated files and mappings.
 
-example command to run scripts
+## Example Commands to Run Scripts
 
-python  progress/01_gettokensinBaseAerodromjson.py
+```bash
+   python progress/01_gettokensinBaseAerodromjson.py
+```
